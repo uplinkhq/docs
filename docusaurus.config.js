@@ -14,18 +14,12 @@ module.exports = {
   projectName: 'kb',
   themeConfig: {
     navbar: {
-      title: 'Uplink Knowledge Base',
+      title: 'Knowledge Base',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Uplink',
+        src: 'img/logo.png',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {
           href: 'https://github.com/uplinkhq/kb',
           label: 'GitHub',
@@ -36,15 +30,6 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -62,15 +47,6 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/uplinkhq/kb',
-            },
-          ],
-        },
       ]
     },
     prism: {
@@ -84,6 +60,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           editUrl: 'https://github.com/uplinkhq/kb/edit/main/docs/',
         },
         theme: {
