@@ -3,34 +3,19 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hello, stranger! You came to the right place to learn everything about how the Uplink freelancer community works.
 
-## Getting Started
+## What is Uplink?
 
-Get started by **creating a new site**.
+Uplink is a network for IT freelancers in Germany. It was founded in 2016 and is headquartered in Berlin.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+**Our main goal is to get freelancers in touch with the companies that need them, quickly and painlessly.** In addition, we offer our members an active online community, regular events and meetups, webinars, cooperations, and much more!
 
-## Generate a new site
+**Are you a freelancer?** [**Join us!**](https://uplink.tech/freelancer#apply)
+**Are you looking for a freelancer?** [**Contact us!**](https://uplink.tech/unternehmen#request)
 
-Generate a new Docusaurus site using the **classic template**:
+## Anything missing?
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+The goal of this knowledge base is to offer in-depth information about every part of Uplink. Therefore, if there is anything you're looking for but you can't find, please [get in touch](mailto:hello@uplink.tech)!
