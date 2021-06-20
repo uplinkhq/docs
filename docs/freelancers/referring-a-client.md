@@ -10,7 +10,7 @@ Ever since Uplink started back in 2016, word-of-mouth has been our most importan
 
 ## **Why is it a flat sum instead of a percentage of the revenue the new client will bring in?**
 
-One the one hand, [since our commission for a placement is paid over the course of 6 months](https://kb.uplink.tech/freelancers/our-commission), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
+One the one hand, [since our commission for a placement is paid over the course of 6 months](our-commission.md), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
 
 ## **Why do you limit the payout period to six months?**
 
@@ -18,7 +18,7 @@ You will receive the reward if we manage to place a freelancer with the new clie
 
 ## **What kind of clients are you looking for?**
 
-The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](https://kb.uplink.tech/companies/working-with-a-freelancer#how-much-does-a-freelancer-charge).
+The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](../companies/working-with-a-freelancer#how-much-does-a-freelancer-charge).
 
 ## **What if you already know the client?**
 

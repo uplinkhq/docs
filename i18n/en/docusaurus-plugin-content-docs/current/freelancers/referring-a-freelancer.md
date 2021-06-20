@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Referring a freelancer
 
-Similar to [referring a client](https://kb.uplink.tech/freelancers/referring-a-client), we'd also like to encourage you to refer new freelancer to us. So if you see a project that a colleague for you would be a great fit for, let us know! If s/he gets the project, we'll offer you a token of our gratitude in the form of 300€ (net).
+Similar to [referring a client](referring-a-client.md), we'd also like to encourage you to refer new freelancer to us. So if you see a project that a colleague for you would be a great fit for, let us know! If s/he gets the project, we'll offer you a token of our gratitude in the form of 300€ (net).
 
 ## **What are the conditions?**
 

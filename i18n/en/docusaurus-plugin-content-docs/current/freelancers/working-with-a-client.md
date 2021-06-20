@@ -16,7 +16,7 @@ The contract is signed between you and the client directly. Please make sure it 
 
 ### Invoices
 
-You issue your invoices for your work directly to the client as well. Please forward each invoice to us (preferable in the corresponding Slack channel) as soon as you sent it to the client, so we can send you an invoice back for [our commission](https://kb.uplink.tech/freelancers/our-commission).
+You issue your invoices for your work directly to the client as well. Please forward each invoice to us (preferable in the corresponding Slack channel) as soon as you sent it to the client, so we can send you an invoice back for [our commission](our-commission.md).
 
 ## Middleman jobs
 

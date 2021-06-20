@@ -4,7 +4,7 @@ sidebar_position: 16
 
 # Community Wiki
 
-[Our Slack](https://kb.uplink.tech/freelancers/our-slack) is the place where many interesting conversations happen every day. Unfortunately, due to the fact that we're on the free Slack plan, [only the last 10k messages are accessible](https://kb.uplink.tech/freelancers/our-slack#10k-messages-limit). This has lead to many of those valuable conversations being "lost" and some questions being asked over and over, without a way to point to previous answers.
+[Our Slack](our-slack.md) is the place where many interesting conversations happen every day. Unfortunately, due to the fact that we're on the free Slack plan, [only the last 10k messages are accessible](our-slack.md#10k-messages-limit). This has lead to many of those valuable conversations being "lost" and some questions being asked over and over, without a way to point to previous answers.
 
 **The Community Wiki is here to change that!**
 

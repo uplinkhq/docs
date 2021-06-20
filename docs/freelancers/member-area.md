@@ -8,7 +8,7 @@ As an Uplink member, you automatically get access to the member area located at 
 
 ## List of open jobs
 
-Check out the [list of open jobs](https://my.uplink.tech/jobs) to find our which [direct](https://kb.uplink.tech/freelancers/direct-jobs) and [recruiter](https://kb.uplink.tech/freelancers/recruiter-jobs) jobs are currently open for applications. You can also set up a "saved search" to be notified of new matching jobs (filtered by skills or locations) via email.
+Check out the [list of open jobs](https://my.uplink.tech/jobs) to find our which [direct](direct-jobs.md) and [recruiter](recruiter-jobs.md) jobs are currently open for applications. You can also set up a "saved search" to be notified of new matching jobs (filtered by skills or locations) via email.
 
 ## Our contract
 

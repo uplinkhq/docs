@@ -40,7 +40,7 @@ Here are a few articles with guidelines for effective online conversations that 
 
 Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **\#jobs-direct-frontend-react** and **\#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
-[**Direct jobs**](https://kb.uplink.tech/freelancers/direct-jobs) **and** [**recruiter jobs**](https://kb.uplink.tech/freelancers/recruiter-jobs) **are posted to separate channels. Join the ones that are relevant to you!**
+[**Direct jobs**](direct-jobs.md) **and** [**recruiter jobs**](recruiter-jobs.md) **are posted to separate channels. Join the ones that are relevant to you!**
 
 ### **All jobs**
 
@@ -116,7 +116,7 @@ If you post in this channel, please keep a few things in mind:
 * Mention how interested freelancers should contact you. The easiest is "PM me for details".
 * Please don't use [@channel](https://slack.com/intl/de-de/help/articles/202009646-Notify-a-channel-or-workspace) to notify all members in the channel of your post.
 
-You should **not** post in this channel if you simply received a job offer from a client (or recruiter) that you don't want to take on. [Instead, you should refer the client to us!](https://kb.uplink.tech/freelancers/referring-a-client) 😇
+You should **not** post in this channel if you simply received a job offer from a client (or recruiter) that you don't want to take on. [Instead, you should refer the client to us!](referring-a-client.md) 😇
 
 ## Restrictions
 
@@ -128,7 +128,7 @@ We are on the free Slack plan and have no way to switch to any of the paid plans
 
 On the free plan, only the last 10.000 messages are accessible in our workspace. This sounds like a lot, but depending on how active our members are and how many jobs are posted (and applied to), it means only the last 1-2 months' messages are visible.
 
-To avoid all the knowledge, that is shared by our members, ending up in the void, we introduced the [Community Wiki](https://kb.uplink.tech/freelancers/community-wiki) in June 2020.
+To avoid all the knowledge, that is shared by our members, ending up in the void, we introduced the [Community Wiki](community-wiki.md) in June 2020.
 
 ### No email notifications after a period of inactivity
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Direct jobs are the ones we have been publishing since the beginning of (Uplink) time. We talk directly to the clients that are looking for a freelancer, publish the job, and select and introduce the candidates. The candidate that ends up getting the job will make a contract directly with the client, and the invoices will also be issued by the candidate to the client.
 
-For direct jobs, we charge you a [fee of 10% for the first 6 months of working with the client.](https://kb.uplink.tech/freelancers/our-fee)
+For direct jobs, we charge you a [fee of 10% for the first 6 months of working with the client.](our-fee.md)
 
 ## Our selection process
 
