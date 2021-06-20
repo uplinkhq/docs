@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Applying for a job
 
-If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](our-slack.md#job-channels) or through the [list of open jobs in the member area](member-area.md#list-of-open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
+If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](our-slack.md#job-channels) or through the [list of open jobs in the member area](member-area.md#open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
 
 ## What if I’m interested in a job but can’t fulfill all requirements?
 
@@ -14,7 +14,7 @@ For each job published on our platform, we (or the Recruiting Partner) try to sp
 
 ## Our contract
 
-When you apply for a job for the first time, we ask you to sign a contract with us. We tried to keep it as simple as possible. It basically contains [the fee arrangement](our-fee.md) and some other tidbits in Legalese. You can review it at any time before signing in the [member area](member-area.md#our-contract).
+When you apply for a job for the first time, we ask you to sign a contract with us. We tried to keep it as simple as possible. It basically contains [the fee arrangement](our-fee.md) and some other tidbits in Legalese. You can review it at any time before signing in the [member area](member-area.md#contract).
 
 ## Application process
 
@@ -27,7 +27,7 @@ This is how the application process works:
    * What is your preference regarding onsite vs. remote work? Do you have fixed requirements or can you adjust to the client's needs?
    * What is your hourly/daily rate for this job? (including the Uplink fee, if applicable)
 
-**After this point, it depends on whether you're applying to a** [**direct job**](direct-jobs.md) **(published by the Uplink team) or a** [**recruiter job**](recruiter-jobs.md) **(published by one of our** [**Recruiting Partners**](recruiter-jobs.md#recruiting-partners)**):**
+**After this point, it depends on whether you're applying to a** [**direct job**](direct-jobs.md) **(published by the Uplink team) or a** [**recruiter job**](recruiter-jobs.md) **(published by one of our Recruiting Partners):**
 
 If it's a direct job:
 

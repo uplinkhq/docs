@@ -36,7 +36,7 @@ Here are a few articles with guidelines for effective online conversations that 
 * [Don't ask to ask, just ask](https://dontasktoask.com/)
 * [No Hello](https://www.nohello.com/)
 
-## Job channels
+## Job channels {#job-channels}
 
 Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **\#jobs-direct-frontend-react** and **\#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
@@ -122,7 +122,7 @@ You should **not** post in this channel if you simply received a job offer from 
 
 Our Slack workspace has a few restrictions:
 
-### 10k messages limit
+### 10k messages limit {#10k-messages-limit}
 
 We are on the free Slack plan and have no way to switch to any of the paid plans, since this would mean several thousand Euros per month in fees that we would have to pay to Slack.
 
