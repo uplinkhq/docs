@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Freelancers": {
+    "message": "Freelancers",
+    "description": "The label for category Freelancers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Companies": {
+    "message": "Companies",
+    "description": "The label for category Companies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.About us": {
+    "message": "About us",
+    "description": "The label for category About us in sidebar tutorialSidebar"
+  }
+}

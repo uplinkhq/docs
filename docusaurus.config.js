@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
-  projectName: 'kb',
+  projectName: 'knowledge-base',
   themeConfig: {
     navbar: {
       title: 'Knowledge Base',
@@ -21,7 +21,11 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/uplinkhq/kb',
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/uplinkhq/knowledge-base',
           label: 'GitHub',
           position: 'right',
         },
@@ -68,4 +72,8 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'de',
+    locales: ['de', 'en'],
+  },
 };
