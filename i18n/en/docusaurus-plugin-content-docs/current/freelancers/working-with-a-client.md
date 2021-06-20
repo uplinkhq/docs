@@ -16,7 +16,7 @@ The contract is signed between you and the client directly. Please make sure it 
 
 ### Invoices
 
-You issue your invoices for your work directly to the client as well. Please forward each invoice to us (preferable in the corresponding Slack channel) as soon as you sent it to the client, so we can send you an invoice back for [our commission](our-commission.md).
+You issue your invoices for your work directly to the client as well. Please forward each invoice to us (preferable in the corresponding Slack channel) as soon as you sent it to the client, so we can send you an invoice back for [our fee](our-fee.md).
 
 ## Recruiter jobs
 
@@ -29,5 +29,3 @@ You will sign a contract with the recruiter which details the arrangement of wor
 ### Invoices
 
 You will most likely submit a timesheet at the end of each month, and the recruiter will pay you the previously agreed upon hourly/daily rate once the timesheet has been confirmed by the end customer.
-
-You do not need to forward the invoice to us, since no commission has to be paid for recruiter jobs.

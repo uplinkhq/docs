@@ -10,7 +10,7 @@ Ever since Uplink started back in 2016, word-of-mouth has been our most importan
 
 ## **Why is it a flat sum instead of a percentage of the revenue the new client will bring in?**
 
-One the one hand, [since our commission for a placement is paid over the course of 6 months](our-commission.md), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
+One the one hand, [since our fee for a placement is paid over the course of 6 months](our-fee.md), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
 
 ## **Why do you limit the payout period to six months?**
 
