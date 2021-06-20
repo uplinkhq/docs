@@ -1,10 +1,10 @@
 ---
-description: 'The collected wisdom of the Uplink community, free for every member to access'
+sidebar_position: 16
 ---
 
 # Community Wiki
 
-[Our Slack](https://kb.uplink.tech/freelancers/our-slack-workspace) is the place where many interesting conversations happen every day. Unfortunately, due to the fact that we're on the free Slack plan, [only the last 10k messages are accessible](https://kb.uplink.tech/freelancers/our-slack-workspace#10k-messages-limit). This has lead to many of those valuable conversations being "lost" and some questions being asked over and over, without a way to point to previous answers.
+[Our Slack](https://kb.uplink.tech/freelancers/our-slack) is the place where many interesting conversations happen every day. Unfortunately, due to the fact that we're on the free Slack plan, [only the last 10k messages are accessible](https://kb.uplink.tech/freelancers/our-slack#10k-messages-limit). This has lead to many of those valuable conversations being "lost" and some questions being asked over and over, without a way to point to previous answers.
 
 **The Community Wiki is here to change that!**
 
@@ -28,7 +28,7 @@ Only Uplink members can access the Community Wiki. We will never make it accessi
 
 ## What kind of messages should be added to the Community Wiki?
 
-Anything that you \(or another Uplink member\) might want to find again in the future, e.g. interesting links, recommendations, or valuable comments and opinions.
+Anything that you (or another Uplink member) might want to find again in the future, e.g. interesting links, recommendations, or valuable comments and opinions.
 
 If you're not sure whether a message is suitable, suggest it anyways and we will have a look at it.
 

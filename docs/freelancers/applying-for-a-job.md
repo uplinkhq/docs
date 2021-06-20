@@ -1,16 +1,14 @@
 ---
-description: >-
-  Our aim is to make it fast and simple for you to apply to a job you're
-  interested in.
+sidebar_position: 6
 ---
 
 # Applying for a job
 
-If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](https://kb.uplink.tech/freelancers/our-slack-workspace#job-channels) or through the [list of open jobs in the member area](https://kb.uplink.tech/freelancers/member-area#list-of-open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
+If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](/freelancers/our-slack#job-channels) or through the [list of open jobs in the member area](https://kb.uplink.tech/freelancers/member-area#list-of-open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
 
 ## What if I’m interested in a job but can’t fulfill all requirements?
 
-For each job published on our platform, we \(or the Recruiting Partner\) try to specify all general conditions \(e.g., earliest and latest start date, required availability, hourly rate, etc.\) and all skill requirements, as discussed with the client. Often these conditions are negotiable, though, i.e. if the perfect candidate for a job applies, the client might be ok with a later start date or a higher rate.
+For each job published on our platform, we (or the Recruiting Partner) try to specify all general conditions (e.g., earliest and latest start date, required availability, hourly rate, etc.) and all skill requirements, as discussed with the client. Often these conditions are negotiable, though, i.e. if the perfect candidate for a job applies, the client might be ok with a later start date or a higher rate.
 
 **For that reason, we encourage you to apply to a job even if you can't fulfill all the requirements!** If you’re unsure or don’t want to invest the time in filling out the application, feel free to click “Sounds interesting” for a job and then ask us whether it’s worth applying in the created Slack channel.
 
@@ -27,15 +25,15 @@ This is how the application process works:
    * What makes this job appealing to you? What makes you a good candidate? Describe briefly your experiences with the mentioned skills.
    * When and for how long would you be available for this job? How many days a week could you work on it?
    * What is your preference regarding onsite vs. remote work? Do you have fixed requirements or can you adjust to the client's needs?
-   * What is your hourly/daily rate for this job? \(including the Uplink fee, if applicable\)
+   * What is your hourly/daily rate for this job? (including the Uplink fee, if applicable)
 
-**After this point, it depends on whether you're applying to a** [**direct job**](https://kb.uplink.tech/freelancers/direct-jobs) **\(published by the Uplink team\) or a** [**recruiter job**](https://kb.uplink.tech/freelancers/recruiter-jobs) **\(published by one of our** [**Recruiting Partners**](https://kb.uplink.tech/freelancers/recruiter-jobs#recruiting-partners)**\):**
+**After this point, it depends on whether you're applying to a** [**direct job**](https://kb.uplink.tech/freelancers/direct-jobs) **(published by the Uplink team) or a** [**recruiter job**](https://kb.uplink.tech/freelancers/recruiter-jobs) **(published by one of our** [**Recruiting Partners**](https://kb.uplink.tech/freelancers/recruiter-jobs#recruiting-partners)**):**
 
 If it's a direct job:
 
 1. Someone from the Uplink team checks your application and decides whether you're a good match for the client, and possibly asks you some follow-up questions.
 2. If it's a match, we introduce you to the client. They will receive an email with a link to your profile in the [company backend](https://kb.uplink.tech/companies/company-backend) and you will receive a Slack message with the information included in your profile.
-3. The client can now access your profile for the next 48 hours \([why?](https://kb.uplink.tech/companies/finding-a-freelancer#why-is-the-time-to-respond-to-a-freelancer-introduction-limited)\) and needs to decide within that period whether to schedule an interview with you or not. If they are interested in an interview, they can suggest up to three times that would work for them, and you will receive these via Slack.
+3. The client can now access your profile for the next 48 hours ([why?](https://kb.uplink.tech/companies/finding-a-freelancer#why-is-the-time-to-respond-to-a-freelancer-introduction-limited)) and needs to decide within that period whether to schedule an interview with you or not. If they are interested in an interview, they can suggest up to three times that would work for them, and you will receive these via Slack.
 4. You can then either accept one of the suggested interview times or make a counter-proposal. In both cases, an email will be sent to both you and the client with that information.
 
 At that point, the first interview between you and the client is scheduled and we are not directly involved anymore, but of course always available for questions and happy to help out if problems should occur. Once you have finished the interview, we ask you to let us know how it went and what the next steps are.
@@ -45,4 +43,3 @@ And if it's a recruiter job:
 1. Someone from the Recruiting Partner who posted the job will get in touch with you via email or phone, if they think that you're a good match.
 2. If not, they will let you know as well and you will receive a notification via Slack.
 3. After talking to the recruiter, the further process depends on them and the agreement with the end customer. They will most likely forward your CV to them and wait for a response.
-

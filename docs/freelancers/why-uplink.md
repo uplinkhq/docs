@@ -1,10 +1,10 @@
 ---
-description: >-
-  There are many freelancer networks, job boards and other ways for freelancers
-  to find new projects or connect to their peers. Why should you join Uplink?
+sidebar_position: 1
 ---
 
 # Why Uplink?
+
+There are many freelancer networks, job boards and other ways for freelancers to find new projects or connect to their peers. Why should you join Uplink?
 
 **Our aim is to offer so many useful services to Germany-based IT freelancers that it doesn't make sense to NOT be a member of Uplink! 😄**
 
@@ -16,4 +16,3 @@ description: >-
 * Our [cooperations](https://kb.uplink.tech/freelancers/cooperations) bring you serious discounts for services that you actually use.
 
 And we are always looking for more ways to make your life better. If you have any ideas, please don't hesitate to [ping us](mailto:hello@uplink.tech)!
-

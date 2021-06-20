@@ -14,8 +14,8 @@ The same is true for the commission the recruiter charges. If possible, the free
 
 ## **Trust**
 
-{% embed url="https://www.designfromtrust.com" %}
+[designfromtrust.com](https://www.designfromtrust.com)
 
-{% embed url="https://www.youtube.com/watch?v=k5MfuwMNcMo" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5MfuwMNcMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Expertise

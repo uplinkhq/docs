@@ -1,12 +1,10 @@
 ---
-description: >-
-  Recommend a freelancer you know for one of our projects and earn a reward, if
-  it works out!
+sidebar_position: 11
 ---
 
 # Referring a freelancer
 
-Similar to [referring a client](https://kb.uplink.tech/freelancers/referring-a-client), we'd also like to encourage you to refer new freelancer to us. So if you see a project that a colleague for you would be a great fit for, let us know! If s/he gets the project, we'll offer you a token of our gratitude in the form of 300€ \(net\).
+Similar to [referring a client](https://kb.uplink.tech/freelancers/referring-a-client), we'd also like to encourage you to refer new freelancer to us. So if you see a project that a colleague for you would be a great fit for, let us know! If s/he gets the project, we'll offer you a token of our gratitude in the form of 300€ (net).
 
 ## **What are the conditions?**
 
@@ -18,5 +16,4 @@ Tell them to [apply via our website](https://uplink.tech/en/apply) and mention i
 
 ## **When and how will I get the reward?**
 
-We will contact you via email or Slack if the freelancer you referred gets the project! Once they issue their first invoice to the client, we will ask you to send us an invoice for the 300€ \(net\) and pay it immediately.
-
+We will contact you via email or Slack if the freelancer you referred gets the project! Once they issue their first invoice to the client, we will ask you to send us an invoice for the 300€ (net) and pay it immediately.

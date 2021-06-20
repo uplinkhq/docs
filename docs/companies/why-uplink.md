@@ -10,7 +10,7 @@ There are many IT recruiters, freelancer networks, and other ways to find a free
 
 You don't have to sign a contract with us and you'll never receive a separate invoice from us.
 
-## We're \(really\) a community.
+## We're (really) a community.
 
 Everybody likes to call themselves a community nowadays. Go to any department store and you'll find a sign announcing that you can join their 'community' by buying from them.
 
