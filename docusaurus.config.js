@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Uplink Knowledge Base',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Everything there is to know about how Uplink works',
   url: 'https://kb.uplink.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
