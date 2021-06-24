@@ -12,6 +12,15 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
   projectName: 'knowledge-base',
+  scripts: [
+    {
+      src: '/qwerty/js/script.js',
+      async: true,
+      defer: true,
+      'data-domain': 'uplink.tech/knowledge-base',
+      'data-api': '/qwerty/api/event'
+    }
+  ],
   themeConfig: {
     navbar: {
       title: 'Knowledge Base',
