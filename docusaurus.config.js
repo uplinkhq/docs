@@ -5,19 +5,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Uplink Knowledge Base',
   tagline: 'Everything there is to know about how Uplink works',
-  url: 'https://kb.uplink.tech',
-  baseUrl: '/',
+  url: 'https://uplinkhq.github.io',
+  baseUrl: '/knowledge-base/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
   projectName: 'knowledge-base',
   scripts: [
     {
       src: '/qwerty/js/script.js',
-      async: true,
       defer: true,
-      'data-domain': 'uplink.tech/knowledge-base',
+      'data-domain': 'uplink.tech',
       'data-api': '/qwerty/api/event'
     }
   ],
