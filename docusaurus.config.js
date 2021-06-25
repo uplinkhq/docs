@@ -75,6 +75,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl: 'https://github.com/uplinkhq/knowledge-base/edit/main/',
+          editLocalizedFiles: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
