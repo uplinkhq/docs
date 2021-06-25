@@ -16,4 +16,4 @@ Everybody likes to call themselves a community nowadays. Go to any department st
 
 ## We value transparency, trust and expertise.
 
-More explained in [Our values](../about/our-values).
+More explained in [Our values](../../about/our-values).

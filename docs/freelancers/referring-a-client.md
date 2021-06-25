@@ -18,7 +18,7 @@ You will receive the reward if we manage to place a freelancer with the new clie
 
 ## **What kind of clients are you looking for?**
 
-The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](../companies/working-with-a-freelancer#how-much-does-a-freelancer-charge).
+The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](../../companies/working-with-a-freelancer#how-much-does-a-freelancer-charge).
 
 ## **What if you already know the client?**
 
