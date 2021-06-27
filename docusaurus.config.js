@@ -30,12 +30,24 @@ module.exports = {
       },
       items: [
         {
+          label: 'Website',
+          href: '/',
+        },
+        {
+          label: 'Blog',
+          href: 'blog',
+        },
+        {
+          label: 'Slack',
+          href: 'https://uplinkhq.slack.com',
+        },
+        {
           type: 'localeDropdown',
           position: 'right',
         },
         {
-          href: 'https://github.com/uplinkhq/knowledge-base',
           label: 'GitHub',
+          href: 'https://github.com/uplinkhq/knowledge-base',
           position: 'right',
         },
       ],
@@ -44,19 +56,36 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Uplink',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Website',
+              href: '/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Blog',
+              href: 'blog',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Slack',
+              href: 'https://uplinkhq.slack.com',
+            },
+          ],
+        },
+        {
+          title: 'Login',
+          items: [
+            {
+              label: 'Freelancer Login',
+              href: 'https://my.uplink.tech',
+            },
+            {
+              label: 'Company Login',
+              href: 'https://app.uplink.tech',
+            },
+            {
+              label: 'Recruiter Login',
+              href: 'https://partners.uplink.tech',
             },
           ],
         },
