@@ -35,7 +35,7 @@ module.exports = {
         },
         {
           label: 'Blog',
-          href: 'blog',
+          href: '/blog',
         },
         {
           label: 'Slack',
@@ -64,7 +64,7 @@ module.exports = {
             },
             {
               label: 'Blog',
-              href: 'blog',
+              href: '/blog',
             },
             {
               label: 'Slack',
