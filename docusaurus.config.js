@@ -31,11 +31,11 @@ module.exports = {
       items: [
         {
           label: 'Website',
-          href: '/',
+          href: 'https://uplink.tech/',
         },
         {
           label: 'Blog',
-          href: '/blog',
+          href: 'https://uplink.tech/blog',
         },
         {
           label: 'Slack',
@@ -60,11 +60,11 @@ module.exports = {
           items: [
             {
               label: 'Website',
-              href: '/',
+              href: 'https://uplink.tech/',
             },
             {
               label: 'Blog',
-              href: '/blog',
+              href: 'https://uplink.tech/blog',
             },
             {
               label: 'Slack',
