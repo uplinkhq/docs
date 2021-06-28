@@ -32,7 +32,7 @@ Anything that you (or another Uplink member) might want to find again in the fut
 
 If you're not sure whether a message is suitable, suggest it anyways and we will have a look at it.
 
-## Why should I allow one of my messages to be added to the Community Wiki?
+## Why should I allow one of my messages to be added to the Community Wiki? {#why-allow}
 
 If you get a message that someone suggested to add one of your messages to our Community Wiki, congrats! 🙌 You must have written something of value that at least one other Uplink member would like to make discoverable for herself and other members later on!
 

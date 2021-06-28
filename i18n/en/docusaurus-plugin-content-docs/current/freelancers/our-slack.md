@@ -130,7 +130,7 @@ On the free plan, only the last 10.000 messages are accessible in our workspace.
 
 To avoid all the knowledge, that is shared by our members, ending up in the void, we introduced the [Community Wiki](community-wiki.md) in June 2020.
 
-### No email notifications after a period of inactivity
+### No email notifications after a period of inactivity {#email-notifications}
 
 Slack wants to make sure that users do not receive email notifications from workspaces that they don't regularly visit.
 

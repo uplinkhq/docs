@@ -38,7 +38,7 @@ We **do** believe in working remotely, though! In most cases, a freelancer will 
 * Via our client backend
 * You only have 48 hours to respond (why?)
 
-## Why do I only have a limited time to respond to a freelancer introduction?
+## Why do I only have a limited time to respond to a freelancer introduction? {#limited-time}
 
 Before we introduce a freelancer to you, we talk to them in detail about the project, the required skills. and the conditions (onsite/remote, fulltime/parttime, start date, duration etc.). When the freelancer then tells us that he is interested and available, we need to act quickly and schedule a first interview!
 
