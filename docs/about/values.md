@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Our values
+# Unsere Werte
 
 Uplink was founded with a few core values that are often missing in the IT recruiting industry: transparency, trust, and expertise.
 

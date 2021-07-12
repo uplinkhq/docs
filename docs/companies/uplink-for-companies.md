@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Why Uplink?
+# Uplink für Unternehmen
 
 There are many IT recruiters, freelancer networks, and other ways to find a freelancer out there. Why should you choose Uplink? Here's what makes us unique.
 
@@ -16,4 +16,4 @@ Everybody likes to call themselves a community nowadays. Go to any department st
 
 ## We value transparency, trust and expertise.
 
-More explained in [Our values](../../about/our-values).
+More explained in [Our values](../../about/values).

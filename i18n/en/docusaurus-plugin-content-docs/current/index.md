@@ -3,19 +3,31 @@ slug: /
 sidebar_position: 1
 ---
 
-# Welcome
+# Welcome!
 
-Hello, stranger! You came to the right place to learn everything about how the Uplink freelancer community works.
+This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
+
+Here you can learn everything about what Uplink offers [freelancers](freelancers/uplink-for-freelancers), [companies](companies/uplink-for-companies) and [recruiters](recruiters/uplink-for-recruiters).
 
 ## What is Uplink?
 
-Uplink is a network for IT freelancers in Germany. It was founded in 2016 and is headquartered in Berlin.
+Uplink is a community for IT freelancers and was founded in Berlin in 2016.
+[Learn more about the history of Uplink here »](about/history).
 
-**Our main goal is to get freelancers in touch with the companies that need them, quickly and painlessly.** In addition, we offer our members an active online community, regular events and meetups, webinars, cooperations, and much more!
+Over the years, the network has grown organically and today (as of July 2021) has over 1,900 active members: developers, DevOps engineers, data scientists, UI/UX designers, project and product managers, and QA/test engineers. Anyone who lives in Germany and works as a full-time freelancer in the IT field can join.
 
-**Are you a freelancer?** [**Join us!**](https://uplink.tech/freelancer#apply)
-**Are you looking for a freelancer?** [**Contact us!**](https://uplink.tech/unternehmen#request)
+You can find more information in the following categories:
 
-## Anything missing?
+**[For Freelancers »](freelancers/uplink-for-freelancers)**
 
-The goal of this knowledge base is to offer in-depth information about every part of Uplink. Therefore, if there is anything you're looking for but you can't find, please [get in touch](mailto:hello@uplink.tech)!
+**[For Companies »](companies/uplink-for-companies)**
+
+**[For Recruiters »](recruiters/uplink-for-recruiters)**
+
+**[About us »](about/values)**
+
+## Is anything missing?
+
+The goal of this Knowledge Base is to provide detailed information on all areas of Uplink. If anything is missing or incorrect, please let us know!
+
+You can either edit any of the pages yourself (see "Edit this page" link at the bottom of each page) or [contact us by email](mailto:hello@uplink.tech). Thank you! 🙇

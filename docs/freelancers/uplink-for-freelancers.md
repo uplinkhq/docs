@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Why Uplink?
+# Uplink für Freelancer
 
 There are many freelancer networks, job boards and other ways for freelancers to find new projects or connect to their peers. Why should you join Uplink?
 
