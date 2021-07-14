@@ -32,8 +32,8 @@ This is how the application process works:
 If it's a direct job:
 
 1. Someone from the Uplink team checks your application and decides whether you're a good match for the client, and possibly asks you some follow-up questions.
-2. If it's a match, we introduce you to the client. They will receive an email with a link to your profile in the [company area](../../companies/company-area) and you will receive a Slack message with the information included in your profile.
-3. The client can now access your profile for the next 48 hours ([why?](../../companies/finding-a-freelancer#why-is-the-time-to-respond-to-a-freelancer-introduction-limited)) and needs to decide within that period whether to schedule an interview with you or not. If they are interested in an interview, they can suggest up to three times that would work for them, and you will receive these via Slack.
+2. If it's a match, we introduce you to the client. They will receive an email with a link to your profile in the [company area](../companies/company-area.md) and you will receive a Slack message with the information included in your profile.
+3. The client can now access your profile for the next 48 hours ([why?](../companies/finding-a-freelancer.md#why-is-the-time-to-respond-to-a-freelancer-introduction-limited)) and needs to decide within that period whether to schedule an interview with you or not. If they are interested in an interview, they can suggest up to three times that would work for them, and you will receive these via Slack.
 4. You can then either accept one of the suggested interview times or make a counter-proposal. In both cases, an email will be sent to both you and the client with that information.
 
 At that point, the first interview between you and the client is scheduled and we are not directly involved anymore, but of course always available for questions and happy to help out if problems should occur. Once you have finished the interview, we ask you to let us know how it went and what the next steps are.
