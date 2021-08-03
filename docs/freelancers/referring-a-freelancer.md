@@ -12,7 +12,7 @@ The only conditions are that the referred freelancer must not yet be a member of
 
 ## **How should I introduce the freelancer?**
 
-Tell them to [apply via our website](https://uplink.tech/en/apply) and mention in the application that they were referred by you. Then [send us a mail](mailto:hello@uplink.tech) or tell someone from the Uplink team on Slack which project you referred your colleague for. We will make sure to send them the information about the project once they signed up.
+Tell them to [apply via our website](https://uplink.tech/freelancer#apply) and mention in the application that they were referred by you. Then [send us a mail](mailto:hello@uplink.tech) or tell someone from the Uplink team on Slack which project you referred your colleague for. We will make sure to send them the information about the project once they signed up.
 
 ## **When and how will I get the reward?**
 
