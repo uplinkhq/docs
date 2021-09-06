@@ -4,16 +4,16 @@ sidebar_position: 11
 
 # Referring a freelancer
 
-Similar to [referring a client](referring-a-client.md), we'd also like to encourage you to refer new freelancer to us. So if you see a project that a colleague for you would be a great fit for, let us know! If s/he gets the project, we'll offer you a token of our gratitude in the form of 300€ (net).
+The Uplink community grows primarily through the referrals of its members! We are very grateful for this and would like to show our appreciation to all members who recommend Uplink to their colleagues and friends.
 
-## **What are the conditions?**
+**For this reason, at the beginning of each month, we raffle off a thank you gift among all members who have recommended someone in the past month!** The winner gets to choose between:
 
-The only conditions are that the referred freelancer must not yet be a member of Uplink, and that s/he takes on the project that s/he was referred for.
+* 🍺 a craft beer package,
+* 🤖 a gadget of their choice
+* 🎽 or an Uplink t-shirt (coming soon).
 
-## **How should I introduce the freelancer?**
+We will contact the winner via Slack or email and also mention them (with their permission) in the Slack channel [#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA).
 
-Tell them to [apply via our website](https://uplink.tech/en/freelancers#apply) and mention in the application that they were referred by you. Then [send us a mail](mailto:hello@uplink.tech) or tell someone from the Uplink team on Slack which project you referred your colleague for. We will make sure to send them the information about the project once they signed up.
+## **Participate**
 
-## **When and how will I get the reward?**
-
-We will contact you via email or Slack if the freelancer you referred gets the project! Once they issue their first invoice to the client, we will ask you to send us an invoice for the 300€ (net) and pay it immediately.
+To participate, any member can refer Uplink to a colleague using their personal referral link found in the [member area](https://my.uplink.tech/)! All freelancers who apply to Uplink within 30 days of clicking on this link will be considered referred by the member.

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Applying for a job
+# Bewerbung für einen Job
 
 If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](our-slack.md#job-channels) or through the [list of open jobs in the member area](member-area.md#open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
 

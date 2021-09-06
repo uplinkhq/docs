@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Joining Uplink
+# Uplink beitreten
 
 Membership in Uplink is free and the only way to join is to [apply via our website](https://uplink.tech/en#apply).
 

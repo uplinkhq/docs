@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Working with a client
+# Zusammenarbeit mit einem Kunden
 
 It's different depending on whether the job was a direct or recruiter job, of course.
 

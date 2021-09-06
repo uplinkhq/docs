@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Our Slack
+# Unser Slack
 
 Slack has become our central hub, where all our members hang out and chat, and all new jobs are published.
 

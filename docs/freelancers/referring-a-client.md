@@ -2,32 +2,40 @@
 sidebar_position: 10
 ---
 
-# Referring a client
+# Kunden empfehlen
 
-Ever since Uplink started back in 2016, word-of-mouth has been our most important and effective ‘acquisition channel’ for new clients. Especially when one of our members recommends us to a company that they already work for or that has approached them, it has oftentimes lead to a very pleasant and trusting relationship.
+Seit dem Start von Uplink im Jahr 2016 waren Weiterempfehlungen durch unsere Mitglieder für uns immer der effektivste Weg, mit neuen Kunden in Kontakt zu kommen. Besonders wenn der Freelancer bereits mit dem Kunden gearbeitet hat und eine gegenseitige Vertrauensbeziehung besteht, führt die Empfehlung oft auf dem kürzesten Wege zum Erfolg. 😃
 
-**Naturally, we'd like to reward our members for introducing new clients to us. This is why we're offering a flat sum of 300€ (net) for each introduction that leads to the placement of a freelancer in the following six months.**
+**Um uns für eine erfolgreiche Empfehlung zu bedanken, zahlen wir dem Freelancer 250€, wenn wir innerhalb von 3 Monaten nach der Empfehlung einen Job des Kunden veröffentlichen können, und weitere 250€, wenn wir in der gleichen Zeitspanne dem Kunden einen Freelancer vermitteln können!**
 
-## **Why is it a flat sum instead of a percentage of the revenue the new client will bring in?**
+Es gibt drei Wege, einen Kunden zu empfehlen:
 
-One the one hand, [since our fee for a placement is paid over the course of 6 months](our-fee.md), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
+* **Referral Link** - im [Mitgliederbereich](https://my.uplink.tech/) findet jeder Freelancer seinen persönlichen Referral Link. Diesen kann man nutzen, um potentiellen Kunden Uplink zu empfehlen, oder den Link direkt auf der eigenen Webseite oder an anderer Stelle einbauen. Alle Kunden, die über den Referral Link zu uns finden und innerhalb von 30 Tagen eine Anfrage über die Webseite stellen, gelten automatisch als vom Freelancer empfohlen.
+* **Intro** - eine Intro per E-Mail oder LinkedIn ist oft der schnellste und effektivste Weg, um uns mit einem konkreten Ansprechpartner eines Kunden zu verknüpfen. Die E-Mail sollte an hello@uplink.tech und den Kunden adressiert sein und eine kurze Vorstellung beider Seiten enthalten. Wir übernehmen dann und verabreden ein Erstgespräch mit dem Kunden.
+* **Tipp** - falls dem Freelancer kein konkreter Ansprechpartner beim Kunden bekannt ist, kann er uns auch einfach per E-Mail oder Slack einen Tipp schicken, dass ein Kunde aktuell einen Freelancer sucht. Wir versuchen dann, mit dem Unternehmen Kontakt aufzunehmen und werten dieses dann auch als vom Freelancer empfohlen.
 
-## **Why do you limit the payout period to six months?**
+## **Auszahlung**
 
-You will receive the reward if we manage to place a freelancer with the new clients within 6 months after the introduction. The reason is that we are of course most interested in meeting clients who are actively looking for a freelancer right now, or in all likelihood very soon. In our experience, talking to clients who are not actively searching for freelancers rarely turns out to be a good investment of our time, or theirs.
+Sobald wir nach einer Intro oder einem Tipp den Prozess übernehmen bzw. wenn ein Kunde über den Referral Link eine Anfrage bei uns stellt, ist automatisch hinterlegt, welcher Freelancer den Kunden empfohlen hat. Wenn wir dann den ersten Job des Kunden veröffentlichen, kontaktieren wir direkt danach den Freelancer, der den Kunden geworben hat - ebenso, wenn wir erfolgreich einen Kandidaten für den Job vermitteln konnten.
 
-## **What kind of clients are you looking for?**
+Die Auszahlung erfolgt dann über eine [Gutschrift](https://www.informer.eu/de/buchhaltung-wiki/lexikon-fur-buchhaltung/gutschrift-was-ist-eine-gutschrift/). Dazu muss der Freelancer im Mitgliederbereich seine Rechnungsdaten und Kontoverbindung hinterlegen, damit der Betrag überwiesen werden kann.
 
-The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](../companies/working-with-a-freelancer.md#how-much-does-a-freelancer-charge).
+## **Pauschale statt prozentuale Beteiligung**
 
-## **What if you already know the client?**
+Eine Frage, die oft gestellt wird, ist, warum wir nicht statt eines Pauschalbetrags eine prozentuale Beteiligung an dem Umsatz, den wir an dem neuen Kunden verdienen, anbieten.
+Dafür gibt es zwei Gründe:
 
-Of course it might be the case that we already know the client from another referral, that we have worked with them before, or even that they have contacted us regarding the same project. In that case, we will tell you about it immediately. You can rest assured that — when in doubt — we will always try to err on the fair side of paying you the reward rather than insisting that we’ve already heard of the the client or project before. If you want to check whether we know the client already before introducing them to us, simply send us a mail and describe them (or the project) and we will tell you if we know them.
+* Zum einen [verdienen wir unsere Gebühr bei einer erfolgreichen Vermittlung über einen Zeitraum von max. 6 Monaten](our-fee.md), d.h. der Freelancer müsste auch so lange warten, um seine volle Belohnung für die Empfehlung zu bekommen. Die Pauschalgebühr dagegen können wir sofort auszahlen, sobald eine Vermittlung bestätigt ist.
+* Zum anderen kommt es immer wieder vor, dass ein Projekt kurz nach dem Start vom Freelancer oder vom Kunden abgebrochen wird - in diesem Fall würde der Freelancer, der den Kunden empfohlen hat, nur einen Bruchteil der Belohnung bekommen.
 
-## **When and how will I get the reward?**
+Aus diesen Gründen haben wir uns für eine Pauschalsumme anstatt einer prozentualen Beteiligung entschieden.
 
-We will automatically track when and by whom a new client was introduced and contact you via Slack or email as soon as we successfully place a freelancer with them. We will then ask you to issue an invoice to us for the referral reward.
+## **Passende Kunden**
 
-## **How should I introduce the client?**
+Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen sein, die für unser Modell der [Direktbeauftragung](../companies/direct-engagement.md) in Frage kommen, tendenziell also eher KMU, Startups und Agenturen. Darüber hinaus sollte der Kunde zum Zeitpunkt der Empfehlung (oder in absehbarere Zukunft) konkret einen Freelancer suchen.
 
-Simply send a mail to the client with us (hello@uplink.tech) in CC and tell them how we can help. If possible, mention a few details about the client and their project in the mail as well. We will then take over and schedule a first phone call with them.
+## **Bereis bekannte Kunden**
+
+Natürlich kann es immer vorkommen, dass wir den empfohlenen Kunden oder das Projekt schon kennen, entweder durch eine andere Empfehlung oder eine frühere Zusammenarbeit. In diesem Fall teilen wir das dem Freelancer natürlich sofort mit.
+
+Wenn ein Freelancer vor einer Empfehlung prüfen will, ob wir den Kunden bereits kennen, kann er uns auch jederzeit kontaktieren und den Kunden oder das Projekt beschreiben, so dass wir ihm sagen können, ob wir ihn schon kennen! 😄

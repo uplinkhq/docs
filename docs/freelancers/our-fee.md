@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Our fee
+# Unsere Gebühr
 
 We have a simple fee model that ensures that our interests are aligned with those of our members.
 

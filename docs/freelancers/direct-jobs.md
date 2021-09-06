@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Direct jobs
+# Direktjobs
 
 Direct jobs are the ones we have been publishing since the beginning of (Uplink) time. We talk directly to the clients that are looking for a freelancer, publish the job, and select and introduce the candidates. The candidate that ends up getting the job will make a contract directly with the client, and the invoices will also be issued by the candidate to the client.
 

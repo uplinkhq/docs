@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Working with a freelancer
+# Zusammenarbeit mit einem Freelancer
 
 ## How much does a freelancer charge?
 

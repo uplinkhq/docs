@@ -4,30 +4,38 @@ sidebar_position: 10
 
 # Referring a client
 
-Ever since Uplink started back in 2016, word-of-mouth has been our most important and effective ‘acquisition channel’ for new clients. Especially when one of our members recommends us to a company that they already work for or that has approached them, it has oftentimes lead to a very pleasant and trusting relationship.
+Since Uplink's launch in 2016, referrals from our members have always been the most effective way for us to get in touch with new clients. Especially if the freelancer has already worked with the client and there is a mutual relationship of trust, the recommendation often quickly leads to a success job post. 😃
 
-**Naturally, we'd like to reward our members for introducing new clients to us. This is why we're offering a flat sum of 300€ (net) for each introduction that leads to the placement of a freelancer in the following six months.**
+**As a thank-you for a successful referral, we pay the freelancer 250€ if we can publish a job of the client within 3 months after the referral, and another 250€ if we can refer a freelancer to the client in the same period!**
 
-## **Why is it a flat sum instead of a percentage of the revenue the new client will bring in?**
+There are three ways to refer a client:
 
-One the one hand, [since our fee for a placement is paid over the course of 6 months](our-fee.md), the freelancer who referred the client would have to wait a long time to receive the reward. And on the other hand, if we managed to place a freelancer with the client but the project was cancelled early, our revenue and thus a percentages reward might be very low. For those reasons we decided to make the reward a flat sum.
+* **Referral Link** - in the [member area](https://my.uplink.tech/), every freelancer can find his personal referral link. This can be used to recommend Uplink to potential clients, or the freelancer can place it directly on their website or elsewhere. All clients who reach us through the referral link and submit a request through the website within 30 days are automatically considered recommended by the freelancer.
+* **Intro** - an intro via email or LinkedIn is often the quickest and most effective way to connect us to a specific contact. The email should be addressed to hello@uplink.tech and the client, and include a brief introduction of both parties. We will then take over and arrange an initial meeting with the client.
+* **Tip** - if the freelancer does not know of a specific contact at the company, they can also simply send us a tip via email or Slack that a client is currently looking for a freelancer. We will then try to get in touch with the company and this will count as recommended by the freelancer.
 
-## **Why do you limit the payout period to six months?**
+## **Payout**
 
-You will receive the reward if we manage to place a freelancer with the new clients within 6 months after the introduction. The reason is that we are of course most interested in meeting clients who are actively looking for a freelancer right now, or in all likelihood very soon. In our experience, talking to clients who are not actively searching for freelancers rarely turns out to be a good investment of our time, or theirs.
+As soon as we take over the process after an intro or a tip, or when a client sends us a request via the referral link, it is automatically stored which freelancer recommended the client. When we then publish the client's first job, we contact the freelancer who referred the client immediately afterwards - likewise if we were successful in placing a candidate for the job.
 
-## **What kind of clients are you looking for?**
+Payment is then made via a [credit note](https://www.informer.eu/de/buchhaltung-wiki/lexikon-fur-buchhaltung/gutschrift-was-ist-eine-gutschrift/). For this purpose the freelancer has to enter his invoicing data and bank account details in the member area, so that the amount can be transferred.
 
-The most important condition is that the client is currently (or most likely very soon) looking for a freelancer. A great example is a client who contacted you about a project, but you don’t have the time or desire to do it. Apart from that, it should simply be a client that you would consider working for yourself and one that has [a realistic budget for a freelancer in Germany](../companies/working-with-a-freelancer.md#how-much-does-a-freelancer-charge).
+## **Lump sum instead of percentage**
 
-## **What if you already know the client?**
+One question that comes up quite often is why we don't offer a percentage share of the revenue we earn from the new client instead of a lump sum.
+There are two reasons for this:
 
-Of course it might be the case that we already know the client from another referral, that we have worked with them before, or even that they have contacted us regarding the same project. In that case, we will tell you about it immediately. You can rest assured that — when in doubt — we will always try to err on the fair side of paying you the reward rather than insisting that we’ve already heard of the the client or project before. If you want to check whether we know the client already before introducing them to us, simply send us a mail and describe them (or the project) and we will tell you if we know them.
+* First, [we earn our fee on a successful referral over a period of max. 6 months](our-fee.md), meaning the freelancer would also have to wait that long to get their full reward for the referral. The lump sum, on the other hand, we can pay immediately as soon as a referral is confirmed.
+* Secondly, it often happens that a project is cancelled by the freelancer or the client shortly after it has started - in this case, the freelancer who referred the client would only get a fraction of the reward.
 
-## **When and how will I get the reward?**
+For these reasons, we opted for a lump sum instead of a percentage.
 
-We will automatically track when and by whom a new client was introduced and contact you via Slack or email as soon as we successfully place a freelancer with them. We will then ask you to issue an invoice to us for the referral reward.
+## **Suitable clients**
 
-## **How should I introduce the client?**
+Which clients are suitable for a referral? In general, they should be companies that are a match for our [direct engagement](../companies/direct-engagement.md) model, which tend to be SMEs, startups and agencies. In addition, the client should be specifically looking for a freelancer at the time of the recommendation (or in the foreseeable future).
 
-Simply send a mail to the client with us (hello@uplink.tech) in CC and tell them how we can help. If possible, mention a few details about the client and their project in the mail as well. We will then take over and schedule a first phone call with them.
+## **Already known clients**
+
+Of course, it can always happen that we already know the recommended client or project, either through another referral or a previous collaboration. In this case, we will of course let the freelancer know immediately.
+
+If a freelancer wants to check if we already know the client before rererring them, they can also contact us at any time and describe the client or project so we can tell them if we already know them! 😄

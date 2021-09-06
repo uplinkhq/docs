@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# Finding a freelancer
+# Freelancer finden
 
 We will help you find a freelancer from our community that matches your requirements!
 
