@@ -16,4 +16,7 @@ We will contact the winner via Slack or email and also mention them (with their 
 
 ## **Participate**
 
-To participate, any member can refer Uplink to a colleague using their personal referral link found in the [member area](https://my.uplink.tech/)! All freelancers who apply to Uplink within 30 days of clicking on this link will be considered referred by the member.
+There are two ways to refer freelancers:
+
+1. Any member can refer a colleague to Uplink using the personal referral link found in the [member area](https://my.uplink.tech/)! All freelancers who apply to Uplink within 30 days of clicking this link are considered referred by the member.
+2. Next to every job posting in Slack and in the member area there is a "Recommend" button that can be used to recommend a colleague.
