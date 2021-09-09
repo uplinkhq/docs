@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Recruiter jobs
 
-Recruiter jobs are not posted by the Uplink team, but by one of our Recruiting Partners. If you apply to a recruiter job, they are the ones who will interview you and introduce you to the end customer. If you and the end customer decide to work together, you will make a contract with the Recruiting Partner and your invoices will be issued to them as well.
+Unlike direct jobs, recruiter jobs are not posted by the Uplink team, but by one of our recruiting partners. These are selected recruiters and agencies that can independently post their jobs on our platform. They do not have direct access to the profiles of our members and cannot contact them directly, though.
 
-For recruiter jobs, we charge you a [fee of 3% for the first 6 months of working with the end customer.](our-fee.md)
+[Our fee](our-fee.md) for recruiter jobs is 3% of what the freelancer invoices the recruiter, not 10% as for direct jobs.
+
+When a member applies for a recruiter job and an interview with the recruiter is set up, the rest of the process is directly between the freelancer and the recruiter. The recruiter introduces the freelancer to the end customer and takes care of the further application and interview process. The contract is then also concluded directly between the freelancer and the recruiter.
