@@ -4,17 +4,23 @@ sidebar_position: 3
 
 # Direktjobs
 
-Direct jobs are the ones we have been publishing since the beginning of (Uplink) time. We talk directly to the clients that are looking for a freelancer, publish the job, and select and introduce the candidates. The candidate that ends up getting the job will make a contract directly with the client, and the invoices will also be issued by the candidate to the client.
+Direktjobs sind diejenigen Jobs, die von uns - dem Uplink Team - veröffentlicht werden und bei denen auch die Bewerbungen zuerst bei uns landet. Wir wählen dann die am besten passendsten Kandidaten für den Job aus und stellen sie dem Kunden vor. Der Kunde kann daraufhin über einen eigenen Login-Bereich die Profile der Kandidaten einsehen und direkt Feedback geben, d.h. entweder einen Termin für ein erstes Interview vorschlagen oder dem Kandidaten eine Absage mit einer kurzen Begründung schicken.
 
-For direct jobs, we charge you a [fee of 10% for the first 6 months of working with the client.](our-fee.md)
+Schlägt der Kunde ein Interview vor, wird der Kandidat darüber direkt im Slack benachrichtigt, und kann dann einen der vorgeschlagenen Termine annehmen oder einen Gegenvorschlag machen.
 
-## Our selection process
+Ab dem Punkt läuft die weitere Kommunikation direkt zwischen dem Kandidaten und dem Kunden - wir sind aber natürlich für Fragen und bei Problemen immer verfügbar! 😀
 
-After publishing a new direct job, we usually try to ensure that it stays open for applications for at least 24 hours, so that all interested candidates have the opportunity to apply. Afterwards, we check the applications in terms of the candidates' expertise (skills and experience) and whether they fulfill the job’s general conditions (start date, availability, rate, etc.).
+Einigt sich der Kunde mit einem der Kandidaten, kommt der Vertrag direkt zwischen dem Kunden und Freelancer zustande, und die Rechnungen werden ebenfalls vom Freelancer an den Kunden ausgestellt.
 
-Usually, we try to introduce 2-3 suitable candidates for each job, unless the client is looking for several freelancers for the same job, in which case we might introduce more candidates. In cases where a lot of candidates apply to a job quickly after publishing, we may have to close a job before 24 hours have passed, or even reject candidates who could be a good match.
+Unsere Gebühr für Direktjobs liegt bei [10% in den ersten 6 Monaten der Zusammenarbeit mit dem Kunden.](our-fee.md)
 
-**If you are rejected for a job and are unsure why or would like to know more details, please don't hesitate to ask!** We will always try to give you as detailed feedback as possible. A rejection is never intended to be personal.
+## Unser Auswahlprozess
+
+Nach der Veröffentlichung eines neuen Direktjobs versuchen wir in der Regel sicherzustellen, dass er mindestens 24 Stunden lang für Bewerbungen offen bleibt, damit alle interessierten Kandidaten die Möglichkeit haben, sich in Ruhe zu bewerben. Anschließend prüfen wir die Bewerbungen im Hinblick auf die Kompetenz der Bewerber (Fähigkeiten und Erfahrung) und wie gut sie die Rahmenbedingungen des Jobs erfüllen (Starttermin, Verfügbarkeit, Budget usw.).
+
+In der Regel versuchen wir, für jede Stelle 2-3 geeignete Kandidaten vorzustellen, es sei denn, der Kunde sucht mehrere Freiberufler für dieselbe Stelle, in welchem Fall wir mehr Kandidaten vorstellen können. Wenn sich innerhalb kurzer Zeit nach der Veröffentlichung des Jobs viele Kandidaten auf einen Job bewerben, kann es vorkommen, dass wir solch einen Job schon vor Ablauf der 24 Stunden schließen müssen oder sogar Kandidaten ablehnen müssen, die sonst gut zu dem Job gepasst hätten.
+
+**Wenn ein Kandidat für einen Job abgelehnt wird und sich nicht sicher ist, warum, oder mehr Details zu der Ablehnung habe möchten, ist das ohne weiteres möglich!** Wir versuchen immer, jedem ein möglichst detailliertes Feedback zu geben. Eine Ablehnung ist nie persönlich gemeint.
 
 ### How do we assess the candidate's expertise?
 

@@ -4,17 +4,23 @@ sidebar_position: 3
 
 # Direct jobs
 
-Direct jobs are the ones we have been publishing since the beginning of (Uplink) time. We talk directly to the clients that are looking for a freelancer, publish the job, and select and introduce the candidates. The candidate that ends up getting the job will make a contract directly with the client, and the invoices will also be issued by the candidate to the client.
+Direct jobs are those jobs that are posted by us - the Uplink team - and where applications also land with us first. We then select the most suitable candidates for the job and introduce them to the client. The client can then access their own login area to view the candidates' profiles and give feedback directly, i.e. either suggest a date for a first interview or send the candidate a rejection with a short explanation.
 
-For direct jobs, we charge you a [fee of 10% for the first 6 months of working with the client.](our-fee.md)
+If the customer suggests an interview, the candidate is notified of this directly in Slack, and can then accept one of the suggested dates or make a counter-proposal.
+
+From that point on, the further communication runs directly between the candidate and the client - but we are of course always available for questions and in case of problems! 😀
+
+If the client and one of the candidates agree to work together, the contract is signed directly between them, and the invoices are also issued by the freelancer directly to the client.
+
+Our fee for direct jobs is [10% in the first 6 months of cooperation with the client.](our-fee.md)
 
 ## Our selection process
 
-After publishing a new direct job, we usually try to ensure that it stays open for applications for at least 24 hours, so that all interested candidates have the opportunity to apply. Afterwards, we check the applications in terms of the candidates' expertise (skills and experience) and whether they fulfill the job’s general conditions (start date, availability, rate, etc.).
+After publishing a new direct job, we usually try to ensure that it remains open for applications for at least 24 hours, so that all interested candidates have the opportunity to apply at their own pace. We then review the applications in terms of the candidates' expertise (skills and experience) and how well they meet the parameters of the job (start date, availability, budget, etc.).
 
-Usually, we try to introduce 2-3 suitable candidates for each job, unless the client is looking for several freelancers for the same job, in which case we might introduce more candidates. In cases where a lot of candidates apply to a job quickly after publishing, we may have to close a job before 24 hours have passed, or even reject candidates who could be a good match.
+Usually, we try to introduce 2-3 suitable candidates for each job, unless the client is looking for multiple freelancers for the same job, in which case we may be able to introduce more candidates. If a lot of candidates apply for a job within a short period of time after the job is published, we may have to close such a job before the 24 hours are up, or even reject candidates who would have otherwise been a good fit for the job.
 
-**If you are rejected for a job and are unsure why or would like to know more details, please don't hesitate to ask!** We will always try to give you as detailed feedback as possible. A rejection is never intended to be personal.
+**If a candidate is rejected for a job and is not sure why, or would like more details about the rejection, that is no problem!** We always try to give everyone as detailed feedback as possible. A rejection is never meant to be personal.
 
 ### How do we assess the candidate's expertise?
 
