@@ -140,4 +140,4 @@ The way that Slack defines 'showing activity' is very specific - sending at leas
 
 So if you don't receive any email notifications from our workspace anymore, most likely Slack has tagged you as 'inactive'. **This can happen even if you log in regularly, read messages, or even post messages yourself, since you might still end up under the 'showing activity' threshold explained before!**
 
-**The easiest way to make sure that your account is set to 'active' and you're receiving email notifications is to** [**send 10 quick messages to yourself**](https://slack.com/help/articles/219899267-Save-notes-and-files-in-your-personal-DM)**. Yes, this actually works! (confirmed by Slack support)**
+**The easiest way to make sure that your account is set to 'active' and you're receiving email notifications is to** [**send 10 quick messages to yourself**](https://slack.com/help/articles/212281468-What-is-a-direct-message)**. Yes, this actually works! (confirmed by Slack support)**
