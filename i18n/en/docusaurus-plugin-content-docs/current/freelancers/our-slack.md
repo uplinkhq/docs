@@ -4,26 +4,26 @@ sidebar_position: 5
 
 # Our Slack
 
-Slack has become our central hub, where all our members hang out and chat, and all new jobs are published.
+Slack is our (virtual) clubhouse where all our members hang our and chat, and where all new jobs are posted.
 
-You can love or hate Slack, but for our community is has proven to be a fantastic hub, where all threads come together. All new Uplink members receive an invite to our Slack automatically and most choose to accept it, since this is where most of the action happens, i.e. discussions among members, announcements from the Uplink team, job postings and more.
+You can love or hate Slack, but for our community it has proven to be a fantastic "hub", where all threads come together. All new Uplink members automatically receive an invite to our Slack, and most accept it, as this is where almost everything happens, i.e. discussions among members, announcements from the Uplink team, job postings, and much more.
 
-**Moreover, we have implemented the complete job application process as a workflow in Slack, so if you plan to apply to a job, you better get on board!** 🤠
+**Moreover, we have implemented the entire job application process as a Slack workflow. So if you're planning to apply for a job, get on board!** 🤠
 
-You can find a number of **public channels** and **job channels** in our Slack. Read on to find out what each one is there for!
+In our Slack, you'll find a number of **public channels** and **job channels**.
 
-## Public channels
+## Public channels {#public-channels}
 
 This is where you can talk with other Uplink members!
 
 * **\#announcements** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can (and is encouraged to) comment in a thread on the announcements!
-* **\#business** - Discussions about self-employment, projects, recruiters, taxes, insurance, etc. - everything that is related to the "business" of being an IT freelancer!
-* **\#events** - Links to interesting meetups, events, and conferences where you can meet other Uplink members.
+* **\#business** - Chat about everything related to the business side of freelancing - clients, contracts, finances, insurance, freelancer registration, company incorporation, etc. Feel free to ask for help if you’re new to the game!
+* **\#events** - Are you organizing or planning to attend an event, meetup or conference? Let the other Uplink members know!
 * **\#ideas** - Post your side projects or ideas for new services or products here to get feedback!
 * **\#investing** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
 * **\#uplink** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
 * **\#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
-* **\#lang-rust -** Everything about the Rust programming language.
+* **\#lang-rust** - Everything about the Rust programming language.
 * **\#tech-backend, \#tech-frontend** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
 * **\#city-berlin, \#city-hamburg** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
 

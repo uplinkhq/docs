@@ -4,28 +4,28 @@ sidebar_position: 5
 
 # Unser Slack
 
-Slack has become our central hub, where all our members hang out and chat, and all new jobs are published.
+Slack ist unser (virtuelles) Vereinsheim, in dem alle unsere Mitglieder zusammenkommen und sich unterhalten, und wo alle neuen Jobs veröffentlicht werden.
 
-You can love or hate Slack, but for our community is has proven to be a fantastic hub, where all threads come together. All new Uplink members receive an invite to our Slack automatically and most choose to accept it, since this is where most of the action happens, i.e. discussions among members, announcements from the Uplink team, job postings and more.
+Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fantastische “Schaltzentrale” erwiesen, in der alle Fäden zusammenlaufen. Alle neuen Uplink-Mitglieder erhalten automatisch eine Einladung in unseren Slack, und die meisten nehmen sie an, da sich hier fast alles abspielt, d.h. der Austausch unter den Mitgliedern, Ankündigungen des Uplink-Teams, Jobausschreibungen und vieles mehr.
 
-**Moreover, we have implemented the complete job application process as a workflow in Slack, so if you plan to apply to a job, you better get on board!** 🤠
+**Darüber hinaus haben wir den gesamten Bewerbungsprozess für einen Job als Slack-Workflow implementiert. Wenn du also vorhast, dich auf einen Job zu bewerben, komm an Bord!** 🤠
 
-You can find a number of **public channels** and **job channels** in our Slack. Read on to find out what each one is there for!
+In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-Channels**.
 
-## Public channels
+## Öffentliche Channels {#public-channels}
 
-This is where you can talk with other Uplink members!
+In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedenen Themen austauschen:
 
-* **\#announcements** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can (and is encouraged to) comment in a thread on the announcements!
-* **\#business** - Discussions about self-employment, projects, recruiters, taxes, insurance, etc. - everything that is related to the "business" of being an IT freelancer!
-* **\#events** - Links to interesting meetups, events, and conferences where you can meet other Uplink members.
+* **\#announcements** - Offizielle Nachrichten vom Uplink-Team. Nur Admins können in diesem Channel posten, aber alle Mitglieder können (und sollen! 😄) die Nachrichten in Threads kommentieren!
+* **\#business** - Fragen und Unterhaltungen zu allen Business-Themen des Freelancertums - Kunden, Verträge, Finanzen, Versicherungen, Registrierung als Freiberufler, Firmengründung usw. Auch Fragen von "Neulingen" werden gerne beantwortet!
+* **\#events** - Organisierst du ein Event, Meetup oder eine Konferenz oder planst du, daran teilzunehmen? Dann lass es die anderen Uplink-Mitglieder wissen!
 * **\#ideas** - Post your side projects or ideas for new services or products here to get feedback!
 * **\#investing** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
 * **\#uplink** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
 * **\#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
-* **\#lang-rust -** Everything about the Rust programming language.
-* **\#tech-backend, \#tech-frontend** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
-* **\#city-berlin, \#city-hamburg** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
+* **\#lang-rust** - Everything about the Rust programming language.
+* **\#tech-backend, \#tech-frontend** + more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
+* **\#city-berlin, \#city-hamburg** + more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
 
 ### Guidelines
 
@@ -36,7 +36,7 @@ Here are a few articles with guidelines for effective online conversations that 
 * [Don't ask to ask, just ask](https://dontasktoask.com/)
 * [No Hello](https://www.nohello.com/)
 
-## Job channels {#job-channels}
+## Job-Channels {#job-channels}
 
 Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **\#jobs-direct-frontend-react** and **\#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
