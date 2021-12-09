@@ -27,6 +27,12 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **\#tech-backend, \#tech-frontend** + more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
 * **\#city-berlin, \#city-hamburg** + more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
 
+adventofcode
+agile
+engagement-group
+hacktoberfest
+taxes
+
 ### Guidelines
 
 Here are a few articles with guidelines for effective online conversations that we recommend everyone to skim:
