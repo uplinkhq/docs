@@ -42,14 +42,14 @@ If you prefer, you can move your project list to a separate document to keep you
 
 **The importance of the project list cannot be overstated.** Whether we like it or not, clients (and recruiters) will often look at this list alone to determine if a candidate is a good fit for a job. If the job’s main skills are mentioned in the last 2 or 3 jobs of the candidate, it makes a very good impression. If not, a different candidate might be given priority for that reason alone.
 
-{% hint style="success" %}
-Here is a good example of a project list entry:
+:::tip Example of a project list entry
 
 ### Senior Frontend Developer
 
-_Sep 2019 - Jun 2020 - Hyper Scale Startup GmbH - Berlin_
+> _Sep 2019 - Jun 2020 - Hyper Scale Startup GmbH - Berlin_
 
 Supported the client’s development team consisting of 4 frontend and 3 backend developers. Performed development and testing of new features, bugfixing, and integration of a chat tool and different payment providers.
 
 Technologies used: React.js, Jest, Node.js, GraphQL, MySQL, Docker
-{% endhint %}
+
+:::
