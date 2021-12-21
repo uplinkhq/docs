@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Meetups
 
-As a community we would like to give you, besides exciting projects, a lot of opportunities to network and exchange ideas. We announce every event in our #announcements chanel via slack.
+As a community we would like to give you, besides exciting projects, a lot of opportunities to network and exchange ideas. We announce every event in our [#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA) chanel via slack.
 
 **IPAs & APIs Community Meetup**
 Once a month we organize a Community Meetup for you in Berlin. In a cozy atmosphere mostly in a local bar you have the opportunity to network with each other and exchange information about current topics. Up to now, the Meetup has taken place regularly just in Berlin. In the future we are planning to organize these Meetups in all major German cities on a regular basis.
