@@ -16,18 +16,18 @@ In our Slack, you'll find a number of **public channels** and **job channels**.
 
 This is where you can talk with other Uplink members!
 
-* **\#announcements** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can (and is encouraged to) comment in a thread on the announcements!
-* **\#business** - Chat about everything related to the business side of freelancing - clients, contracts, finances, insurance, freelancer registration, company incorporation, etc. Feel free to ask for help if you’re new to the game!
-* **\#events** - Are you organizing or planning to attend an event, meetup or conference? Let the other Uplink members know!
-* **\#ideas** - Post your side projects or ideas for new services or products here to get feedback!
-* **\#investing** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
-* **\#uplink** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
-* **\#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
-* **\#lang-rust** - Everything about the Rust programming language.
-* **\#tech-backend, \#tech-frontend** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
-* **\#city-berlin, \#city-hamburg** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
+* **#announcements** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can (and is encouraged to) comment in a thread on the announcements!
+* **#business** - Chat about everything related to the business side of freelancing - clients, contracts, finances, insurance, freelancer registration, company incorporation, etc. Feel free to ask for help if you’re new to the game!
+* **#events** - Are you organizing or planning to attend an event, meetup or conference? Let the other Uplink members know!
+* **#ideas** - Post your side projects or ideas for new services or products here to get feedback!
+* **#investing** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
+* **#uplink** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
+* **#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
+* **#lang-rust** - Everything about the Rust programming language.
+* **#tech-backend, #tech-frontend** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
+* **#city-berlin, #city-hamburg** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
 
-### Guidelines
+## Guidelines
 
 Here are a few articles with guidelines for effective online conversations that we recommend everyone to skim:
 
@@ -38,71 +38,71 @@ Here are a few articles with guidelines for effective online conversations that 
 
 ## Job channels {#job-channels}
 
-Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **\#jobs-direct-frontend-react** and **\#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
+Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **#jobs-direct-frontend-react** and **#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
 [**Direct jobs**](direct-jobs.md) **and** [**recruiter jobs**](recruiter-jobs.md) **are posted to separate channels. Join the ones that are relevant to you!**
 
 ### **All jobs**
 
-* **\#jobs-direct** - All direct jobs
-* **\#jobs-recruiter** - All recruiter jobs
+* **#jobs-direct** - All direct jobs
+* **#jobs-recruiter** - All recruiter jobs
 
 ### Direct jobs by location
 
 If you're only interested in direct jobs in Berlin, Hamburg, Frankfurt, or München, or full-remote jobs, join one of these channels:
 
-* **\#jobs-direct-berlin** - Jobs in Berlin
-* **\#jobs-direct-hamburg** - Jobs in Hamburg
-* **\#jobs-direct-frankfurt** - Jobs in Frankfurt
-* **\#jobs-direct-muenchen** - Jobs in München
-* **\#jobs-direct-remote** - Jobs that can be done completely remotely (apart from possibly a kickoff meeting at the client's office)
+* **#jobs-direct-berlin** - Jobs in Berlin
+* **#jobs-direct-hamburg** - Jobs in Hamburg
+* **#jobs-direct-frankfurt** - Jobs in Frankfurt
+* **#jobs-direct-muenchen** - Jobs in München
+* **#jobs-direct-remote** - Jobs that can be done completely remotely (apart from possibly a kickoff meeting at the client's office)
 
 ### Direct jobs by technologies/skills
 
 If you're interested in direct jobs in a specific skill area, join one of these channels.
 
-Note that the channels **\#jobs-direct-backend**, **\#jobs-direct-frontend**, and **\#jobs-direct-mobile** will receive all job postings from their sub-groups, i.e. every job posted to **\#jobs-direct-backend-ruby** will also be posted to **\#jobs-direct-backend**.
+Note that the channels **#jobs-direct-backend**, **#jobs-direct-frontend**, and **#jobs-direct-mobile** will receive all job postings from their sub-groups, i.e. every job posted to **#jobs-direct-backend-ruby** will also be posted to **#jobs-direct-backend**.
 
-* **\#jobs-direct-cms** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
-* **\#jobs-direct-devops** - Direct DevOps jobs (Docker, Kubernetes, AWS, GCP, etc.)
-* **\#jobs-direct-ecommerce** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
-* **\#jobs-direct-agile** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **\#jobs-direct-ui-ux** - Direct UI/UX design jobs
-* **\#jobs-direct-backend** - All direct backend jobs (C++, .NET, Go, etc.)
-* **\#jobs-direct-backend-cpp** - Direct C++ jobs
-* **\#jobs-direct-backend-dotnet** - Direct .NET jobs
-* **\#jobs-direct-backend-go** - Direct Go jobs
-* **\#jobs-direct-backend-java** - Direct Java jobs
-* **\#jobs-direct-backend-node** - Direct Node.js jobs
-* **\#jobs-direct-backend-php** - Direct PHP jobs
-* **\#jobs-direct-backend-python** - Direct Python jobs
-* **\#jobs-direct-backend-ruby** - Direct Ruby jobs
-* **\#jobs-direct-frontend** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
-* **\#jobs-direct-frontend-angular** - Direct Angular jobs
-* **\#jobs-direct-frontend-react** - Direct React.js jobs
-* **\#jobs-direct-frontend-vue** - Direct Vue.js jobs
-* **\#jobs-direct-mobile** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
-* **\#jobs-direct-mobile-android** - Direct Android jobs
-* **\#jobs-direct-mobile-ios** - Direct iOS jobs
-* **\#jobs-direct-mobile-hybrid** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
+* **#jobs-direct-cms** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
+* **#jobs-direct-devops** - Direct DevOps jobs (Docker, Kubernetes, AWS, GCP, etc.)
+* **#jobs-direct-ecommerce** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
+* **#jobs-direct-agile** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
+* **#jobs-direct-ui-ux** - Direct UI/UX design jobs
+* **#jobs-direct-backend** - All direct backend jobs (C++, .NET, Go, etc.)
+* **#jobs-direct-backend-cpp** - Direct C++ jobs
+* **#jobs-direct-backend-dotnet** - Direct .NET jobs
+* **#jobs-direct-backend-go** - Direct Go jobs
+* **#jobs-direct-backend-java** - Direct Java jobs
+* **#jobs-direct-backend-node** - Direct Node.js jobs
+* **#jobs-direct-backend-php** - Direct PHP jobs
+* **#jobs-direct-backend-python** - Direct Python jobs
+* **#jobs-direct-backend-ruby** - Direct Ruby jobs
+* **#jobs-direct-frontend** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
+* **#jobs-direct-frontend-angular** - Direct Angular jobs
+* **#jobs-direct-frontend-react** - Direct React.js jobs
+* **#jobs-direct-frontend-vue** - Direct Vue.js jobs
+* **#jobs-direct-mobile** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
+* **#jobs-direct-mobile-android** - Direct Android jobs
+* **#jobs-direct-mobile-ios** - Direct iOS jobs
+* **#jobs-direct-mobile-hybrid** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
 
 ### Recruiter jobs by technologies/skills
 
 Recruiter jobs are grouped by technologies and can be found in the following channels:
 
-* **\#jobs-recruiter-frontent** - Recruiter frontend jobs
-* **\#jobs-recruiter-backend** - Recruiter backend jobs (PHP, Java, .NET, etc.)
-* **\#jobs-recruiter-mobile** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
-* **\#jobs-recruiter-devops** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
-* **\#jobs-recruiter-consulting** - Recruiter consulting jobs
-* **\#jobs-recruiter-agile** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **\#jobs-recruiter-sap** - Recruiter SAP jobs
+* **#jobs-recruiter-frontent** - Recruiter frontend jobs
+* **#jobs-recruiter-backend** - Recruiter backend jobs (PHP, Java, .NET, etc.)
+* **#jobs-recruiter-mobile** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
+* **#jobs-recruiter-devops** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
+* **#jobs-recruiter-consulting** - Recruiter consulting jobs
+* **#jobs-recruiter-agile** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
+* **#jobs-recruiter-sap** - Recruiter SAP jobs
 
 ### **Community jobs**
 
-If you'd like to hear about jobs from other members of the Uplink community, join **\#jobs-community**!
+If you'd like to hear about jobs from other members of the Uplink community, join **#jobs-community**!
 
-Unlike the other job channels, **\#jobs-community** is open for everyone to post. Post your job here if:
+Unlike the other job channels, **#jobs-community** is open for everyone to post. Post your job here if:
 
 * you have a personal project, but are missing the skills or time to work on it, or
 * you're working on a client project that you could need some help with, or

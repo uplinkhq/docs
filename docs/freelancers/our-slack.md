@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Unser Slack
+# Unser Slack {#our-slack}
 
 Slack ist unser (virtuelles) Vereinsheim, in dem alle unsere Mitglieder zusammenkommen und sich unterhalten, und wo alle neuen Jobs veröffentlicht werden.
 
@@ -16,26 +16,23 @@ In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-
 
 In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedenen Themen austauschen:
 
-* **\#announcements** - Offizielle Nachrichten vom Uplink-Team. Nur Admins können in diesem Channel posten, aber alle Mitglieder können (und sollen! 😄) die Nachrichten in Threads kommentieren!
-* **\#business** - Fragen und Unterhaltungen zu allen Business-Themen des Freelancertums - Kunden, Verträge, Finanzen, Versicherungen, Registrierung als Freiberufler, Firmengründung usw. Auch Fragen von "Neulingen" werden gerne beantwortet!
-* **\#events** - Organisierst du ein Event, Meetup oder eine Konferenz oder planst du, daran teilzunehmen? Dann lass es die anderen Uplink-Mitglieder wissen!
-* **\#ideas** - Post your side projects or ideas for new services or products here to get feedback!
-* **\#investing** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
-* **\#uplink** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
-* **\#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
-* **\#lang-rust** - Everything about the Rust programming language.
-* **\#tech-backend, \#tech-frontend** + more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
-* **\#city-berlin, \#city-hamburg** + more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
+* **[#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA)** - Offizielle Nachrichten vom Uplink-Team. Nur Admins können in diesem Channel posten, aber alle Mitglieder können (und sollen! 😄) die Nachrichten in Threads kommentieren!
+* **#business** - Fragen und Unterhaltungen zu allen Business-Themen des Freelancertums - Kunden, Verträge, Finanzen, Versicherungen, Registrierung als Freiberufler, Firmengründung usw. Auch Fragen von "Neulingen" werden gerne beantwortet!
+* **#taxes** - Steuerthemen werden in diesem Channel besprochen - wo finde ich einen Steuerberater, welche Steuersoftware ist die beste, welches Firmenkonstrukt ist steuerlich vorteilhaft, etc.
+* **#events** - Organisierst du ein Event, Meetup oder eine Konferenz oder planst du, daran teilzunehmen? Dann lass es die anderen Uplink-Mitglieder wissen!
+* **#ideas** - Poste deine Nebenprojekte oder Ideen hier, um Feedback zu bekommen!
+* **#investing** - Hier geht es darum, wo man als Freelancer sein hart verdientes Geld invstieren kann - Aktien, ETFs, Crypto, etc.
+* **#uplink** - In diesem Channel kannst du dem Uplink-Team Ideen für neue Features mitteilen oder auch einen Bug reporten. In unregelmäßigen Abständen fragt das Uplink-Team hier auch selbst nach Feedback zu neuen Ideen und Features.
+* **#lounge** - Alles, was in die Kategorie "offtopic" gehört, also nicht direkt mit der Arbeit als IT-Freelancer zu tun hat.
+* **#agile** - Diskussionen zum Thema Agile, SCRUM und Projektmanagement.
+* **#adventofcode** - Der [Advent of Code](https://adventofcode.com/) findet jedes Jahr im Dezember statt! In diesem Channel werden Lösungen verglichen und automatisch Updates zum Uplink-Leaderboard gepostet.
+* **#lang-rust** - Alles zur Programmiersprache Rust.
+* **#tech-backend, #tech-frontend** + more - Channels, die mit "tech-" beginnen, sind Fragen, Diskussionen und News zu einem bestimmten Tech-Thema gewidmet.
+* **#city-berlin, #city-hamburg** + more - Channels, die mit "city-" beginnen, sind Fragen und Diskussionen zu einer bestimmten Stadt gewidmet, z.B. zur lokalen IT-Szene, Events, Coworking-Spaces, etc.
 
-adventofcode
-agile
-engagement-group
-hacktoberfest
-taxes
+## Guidelines {#guidelines}
 
-### Guidelines
-
-Here are a few articles with guidelines for effective online conversations that we recommend everyone to skim:
+Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommunikation enthalten:
 
 * [How to be helpful online](https://nedbatchelder.com//blog/202009/how_to_be_helpful_online.html)
 * [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
@@ -44,71 +41,93 @@ Here are a few articles with guidelines for effective online conversations that 
 
 ## Job-Channels {#job-channels}
 
-Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **\#jobs-direct-frontend-react** and **\#jobs-direct-backend-java**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
+Jedes Mal, wenn ein neuer Job veröffentlicht wird, wird er in einem oder (meistens) mehreren Channels gepostet. Alle Mitglieder, die einem der Channels beigetreten sind, können sich dann darauf bewerben.
 
-[**Direct jobs**](direct-jobs.md) **and** [**recruiter jobs**](recruiter-jobs.md) **are posted to separate channels. Join the ones that are relevant to you!**
+Als Mitglied kannst du dir also genau aussuchen, welchen Channels du beitrittst, so dass du nur für die Jobs eine [Benachrichtigung](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) bekommst, die dich interessieren. [Direktjobs](direct-jobs.md) und [Recruiter-Jobs](recruiter-jobs.md) werden dabei in separaten Channels gepostet.
 
-### **All jobs**
+:::tip Beispiel
 
-* **\#jobs-direct** - All direct jobs
-* **\#jobs-recruiter** - All recruiter jobs
+Wenn du z.B. nur über Direktjobs mit Fokus auf React.js oder Java informiert werden möchten, tritt einfach den Channels **#jobs-direct-frontend-react** und **#jobs-direct-backend-java** bei.
 
-### Direct jobs by location
+:::
 
-If you're only interested in direct jobs in Berlin, Hamburg, Frankfurt, or München, or full-remote jobs, join one of these channels:
+Diese Job-Channels gibt es bei Uplink:
 
-* **\#jobs-direct-berlin** - Jobs in Berlin
-* **\#jobs-direct-hamburg** - Jobs in Hamburg
-* **\#jobs-direct-frankfurt** - Jobs in Frankfurt
-* **\#jobs-direct-muenchen** - Jobs in München
-* **\#jobs-direct-remote** - Jobs that can be done completely remotely (apart from possibly a kickoff meeting at the client's office)
+### **Alle Jobs** {#job-channels-all-jobs}
 
-### Direct jobs by technologies/skills
+In diesen Channels werden alle Jobs einer Kategorie (Direkt oder Recruiter) veröffentlicht:
 
-If you're interested in direct jobs in a specific skill area, join one of these channels.
+* **#jobs-direct** - Alle Direktjobs
+* **#jobs-recruiter** - Alle Recruiter-Jobs
 
-Note that the channels **\#jobs-direct-backend**, **\#jobs-direct-frontend**, and **\#jobs-direct-mobile** will receive all job postings from their sub-groups, i.e. every job posted to **\#jobs-direct-backend-ruby** will also be posted to **\#jobs-direct-backend**.
+### Direktjobs nach Locations {#job-channels-direct-locations}
 
-* **\#jobs-direct-cms** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
-* **\#jobs-direct-devops** - Direct DevOps jobs (Docker, Kubernetes, AWS, GCP, etc.)
-* **\#jobs-direct-ecommerce** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
-* **\#jobs-direct-agile** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **\#jobs-direct-ui-ux** - Direct UI/UX design jobs
-* **\#jobs-direct-backend** - All direct backend jobs (C++, .NET, Go, etc.)
-* **\#jobs-direct-backend-cpp** - Direct C++ jobs
-* **\#jobs-direct-backend-dotnet** - Direct .NET jobs
-* **\#jobs-direct-backend-go** - Direct Go jobs
-* **\#jobs-direct-backend-java** - Direct Java jobs
-* **\#jobs-direct-backend-node** - Direct Node.js jobs
-* **\#jobs-direct-backend-php** - Direct PHP jobs
-* **\#jobs-direct-backend-python** - Direct Python jobs
-* **\#jobs-direct-backend-ruby** - Direct Ruby jobs
-* **\#jobs-direct-frontend** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
-* **\#jobs-direct-frontend-angular** - Direct Angular jobs
-* **\#jobs-direct-frontend-react** - Direct React.js jobs
-* **\#jobs-direct-frontend-vue** - Direct Vue.js jobs
-* **\#jobs-direct-mobile** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
-* **\#jobs-direct-mobile-android** - Direct Android jobs
-* **\#jobs-direct-mobile-ios** - Direct iOS jobs
-* **\#jobs-direct-mobile-hybrid** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
+In diesen Channels werden alle Direktjobs veröffentlicht, die entweder komplett remote machbar sind oder (zumindest teilweise) die Onsite-Arbeit beim Kunden in einer bestimmten Stadt erfordern:
 
-### Recruiter jobs by technologies/skills
+* **#jobs-direct-remote** - Direktjobs, die komplett remote machtbar sind
+* **#jobs-direct-berlin** - Direktjobs mit Onsite-Arbeit in Berlin
+* **#jobs-direct-hamburg** - Direktjobs mit Onsite-Arbeit in Hamburg
+* **#jobs-direct-frankfurt** - Direktjobs mit Onsite-Arbeit in Frankfurt
+* **#jobs-direct-muenchen** - Direktjobs mit Onsite-Arbeit in München
+
+### Direktjobs nach Skills {#job-channels-direct-skills}
+
+In diesen Channels werden die Direktjobs nach Skills gruppiert veröffentlicht.
+
+:::caution Achtung
+
+Diese Channels sind hierarchisch organisiert, was dazu führen kann, dass man doppelte [Benachrichtigungen](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) bekommt, wenn man Channels beitritt, die sich "überlappen".
+
+**Beispiel:** wenn ein Direktjob mit Fokus auf Ruby veröffentlicht wird, wird er immer in diesen drei Channels gepostet:
+
+* *#jobs-direct*
+* *#jobs-direct-backend*
+* *#jobs-direct-backend-ruby*
+
+Mehr als einem dieser drei Channels beizutreten, ist also eigentlich nicht nötig, und führt dazu, dass man von Slack für den gleichen Job mehremals benachrichtigt wird.
+
+:::
+
+* **#jobs-direct-cms** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
+* **#jobs-direct-devops** - Direct DevOps jobs (Docker, Kubernetes, AWS, GCP, etc.)
+* **#jobs-direct-ecommerce** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
+* **#jobs-direct-agile** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
+* **#jobs-direct-ui-ux** - Direct UI/UX design jobs
+* **#jobs-direct-backend** - All direct backend jobs (C++, .NET, Go, etc.)
+* **#jobs-direct-backend-cpp** - Direct C++ jobs
+* **#jobs-direct-backend-dotnet** - Direct .NET jobs
+* **#jobs-direct-backend-go** - Direct Go jobs
+* **#jobs-direct-backend-java** - Direct Java jobs
+* **#jobs-direct-backend-node** - Direct Node.js jobs
+* **#jobs-direct-backend-php** - Direct PHP jobs
+* **#jobs-direct-backend-python** - Direct Python jobs
+* **#jobs-direct-backend-ruby** - Direct Ruby jobs
+* **#jobs-direct-frontend** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
+* **#jobs-direct-frontend-angular** - Direct Angular jobs
+* **#jobs-direct-frontend-react** - Direct React.js jobs
+* **#jobs-direct-frontend-vue** - Direct Vue.js jobs
+* **#jobs-direct-mobile** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
+* **#jobs-direct-mobile-android** - Direct Android jobs
+* **#jobs-direct-mobile-ios** - Direct iOS jobs
+* **#jobs-direct-mobile-hybrid** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
+
+### Recruiter jobs by technologies/skills {#job-channels-recruiter-skills}
 
 Recruiter jobs are grouped by technologies and can be found in the following channels:
 
-* **\#jobs-recruiter-frontent** - Recruiter frontend jobs
-* **\#jobs-recruiter-backend** - Recruiter backend jobs (PHP, Java, .NET, etc.)
-* **\#jobs-recruiter-mobile** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
-* **\#jobs-recruiter-devops** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
-* **\#jobs-recruiter-consulting** - Recruiter consulting jobs
-* **\#jobs-recruiter-agile** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **\#jobs-recruiter-sap** - Recruiter SAP jobs
+* **#jobs-recruiter-frontent** - Recruiter frontend jobs
+* **#jobs-recruiter-backend** - Recruiter backend jobs (PHP, Java, .NET, etc.)
+* **#jobs-recruiter-mobile** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
+* **#jobs-recruiter-devops** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
+* **#jobs-recruiter-consulting** - Recruiter consulting jobs
+* **#jobs-recruiter-agile** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
+* **#jobs-recruiter-sap** - Recruiter SAP jobs
 
-### **Community jobs**
+### **Community jobs** {#job-channels-community}
 
-If you'd like to hear about jobs from other members of the Uplink community, join **\#jobs-community**!
+If you'd like to hear about jobs from other members of the Uplink community, join **#jobs-community**!
 
-Unlike the other job channels, **\#jobs-community** is open for everyone to post. Post your job here if:
+Unlike the other job channels, **#jobs-community** is open for everyone to post. Post your job here if:
 
 * you have a personal project, but are missing the skills or time to work on it, or
 * you're working on a client project that you could need some help with, or
