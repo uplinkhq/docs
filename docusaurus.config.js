@@ -96,7 +96,8 @@ module.exports = {
       darkTheme: darkCodeTheme,
     },
     algolia: {
-      apiKey: process.env.ALGOLIA_API_KEY,
+      appId: 'K9RDB6VV79',
+      apiKey: '137ddb554c86d39a0706b3a11d37928c',
       indexName: 'uplink',
     },
   },
