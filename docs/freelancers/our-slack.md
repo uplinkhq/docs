@@ -47,7 +47,7 @@ Als Mitglied kannst du dir also genau aussuchen, welchen Channels du beitrittst,
 
 :::tip Beispiel
 
-Wenn du z.B. nur über Direktjobs mit Fokus auf React.js oder Java informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C83PKG99V)** und **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** bei.
+Wenn du z.B. nur über Direktjobs mit Fokus auf React.js oder Java informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** und **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** bei.
 
 :::
 
@@ -95,19 +95,19 @@ Mehr als einem dieser drei Channels beizutreten, ist also eigentlich nicht nöti
 * **[#jobs-direct-ui-ux](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CCX8CCYMC)** - Direct UI/UX design jobs
 * **[#jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)** - All direct backend jobs (C++, .NET, Go, etc.)
 * **[#jobs-direct-backend-cpp](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CJL8RT347)** - Direct C++ jobs
-* **[#jobs-direct-backend-dotnet](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=CB1TQCBJL)** - Direct .NET jobs
+* **[#jobs-direct-backend-dotnet](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CB1TQCBJL)** - Direct .NET jobs
 * **[#jobs-direct-backend-go](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CEJ7YL28Y)** - Direct Go jobs
 * **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java jobs
 * **[#jobs-direct-backend-js](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C99U5R7KR)** - Direct JS backend jobs
 * **[#jobs-direct-backend-php](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263T1T3)** - Direct PHP jobs
-* **[#jobs-direct-backend-python](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C83HMC4RL)** - Direct Python jobs
+* **[#jobs-direct-backend-python](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMC4RL)** - Direct Python jobs
 * **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** - Direct Ruby jobs
 * **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
-* **[#jobs-direct-frontend-angular](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C83PKHGMV)** - Direct Angular jobs
-* **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C83PKG99V)** - Direct React.js jobs
+* **[#jobs-direct-frontend-angular](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKHGMV)** - Direct Angular jobs
+* **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** - Direct React.js jobs
 * **[#jobs-direct-frontend-vue](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMHEES)** - Direct Vue.js jobs
 * **[#jobs-direct-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9KMNE)** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
-* **[#jobs-direct-mobile-android](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C82RH25D3)** - Direct Android jobs
+* **[#jobs-direct-mobile-android](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RH25D3)** - Direct Android jobs
 * **[#jobs-direct-mobile-ios](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9MMJ6)** - Direct iOS jobs
 * **[#jobs-direct-mobile-hybrid](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C89R781ME)** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
 
@@ -119,7 +119,7 @@ Recruiter jobs are grouped by technologies and can be found in the following cha
 * **[#jobs-recruiter-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RD8F9)** - Recruiter backend jobs (PHP, Java, .NET, etc.)
 * **[#jobs-recruiter-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RQQDV)** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
 * **[#jobs-recruiter-devops](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01GL3Q41K6)** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
-* **[#jobs-recruiter-consulting](https://slack.com/app_redirect?team=T1LBG4C5Nchannel=C01A94A65GT)** - Recruiter consulting jobs
+* **[#jobs-recruiter-consulting](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A94A65GT)** - Recruiter consulting jobs
 * **[#jobs-recruiter-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R468SH)** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
 * **[#jobs-recruiter-sap](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5QD7L7)** - Recruiter SAP jobs
 
