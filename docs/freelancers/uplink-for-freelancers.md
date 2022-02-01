@@ -49,4 +49,4 @@ Als Freelancer steht man bei den Themen Rechnungsstellung, Steuern, Bankkonto, e
 
 Wir wollen darüber hinaus unseren Mitgliedern durch gezielte Kooperationen mit einigen dieser Services die Möglichkeit geben, sie einfacher (und günstiger) ausprobieren und auf Herz und Nieren testen zu können.
 
-Darüber hinaus haben wir das Ziel, einige Services selbst zu entwickeln. Der erste ist unser Vertrags-Check, der es unseren Mitgliedern erlaubt, einen Recruiter-Vertrag in kürzester Zeit für eine fixe Gebühr von 200€ von einem Anwalt durchleuchten zu lassen.
+Darüber hinaus haben wir das Ziel, einige Services selbst zu entwickeln. Der erste ist unser Vertragscheck, der es unseren Mitgliedern erlaubt, einen Recruiter-Vertrag in kürzester Zeit für eine fixe Gebühr von 200€ von einem Anwalt durchleuchten zu lassen.
