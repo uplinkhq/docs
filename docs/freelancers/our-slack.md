@@ -89,7 +89,7 @@ Mehr als einem dieser drei Channels beizutreten, ist also eigentlich nicht nöti
 :::
 
 * **[#jobs-direct-cms](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CE3PJ54FK)** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
-* **[#jobs-direct-devops](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RH3P29)** - Direct DevOps jobs (Docker, Kubernetes, AWS, GCP, etc.)
+* **[#jobs-direct-devops-cloud](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RH3P29)** - Direct DevOps and Cloud jobs (Docker, Kubernetes, AWS, GCP, Azure, etc.)
 * **[#jobs-direct-ecommerce](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CBD50SFD2)** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
 * **[#jobs-direct-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CCVTDDRMG)** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
 * **[#jobs-direct-ui-ux](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CCX8CCYMC)** - Direct UI/UX design jobs
@@ -118,7 +118,7 @@ Recruiter jobs are grouped by technologies and can be found in the following cha
 * **#jobs-recruiter-frontent** - Recruiter frontend jobs
 * **[#jobs-recruiter-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RD8F9)** - Recruiter backend jobs (PHP, Java, .NET, etc.)
 * **[#jobs-recruiter-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RQQDV)** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
-* **[#jobs-recruiter-devops](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01GL3Q41K6)** - Recruiter DevOps jobs (AWS, GCP, Azure, etc.)
+* **[#jobs-recruiter-devops-cloud](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01GL3Q41K6)** - Recruiter DevOps and Cloud jobs (Docker, Kubernetes, AWS, GCP, Azure, etc.)
 * **[#jobs-recruiter-consulting](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A94A65GT)** - Recruiter consulting jobs
 * **[#jobs-recruiter-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R468SH)** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
 * **[#jobs-recruiter-sap](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5QD7L7)** - Recruiter SAP jobs
