@@ -10,7 +10,7 @@ Die Uplink-Community wächst hauptsächlich durch die Weiterempfehlungen ihrer M
 
 * 🍺 einem Craftbeer-Paket,
 * 🤖 einem Gadget seiner Wahl
-* 🎽 oder ein Uplink T-Shirt (coming soon)
+* 🎽 oder ein Uplink T-Shirt
 
 Wir kontaktieren den Gewinner via Slack oder E-Mail und erwähnen ihn (mit seiner Erlaubnis) auch im Slack-Channel [#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA).
 

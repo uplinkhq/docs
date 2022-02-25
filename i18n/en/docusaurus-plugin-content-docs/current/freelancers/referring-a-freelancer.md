@@ -10,7 +10,7 @@ The Uplink community grows primarily through the referrals of its members! We ar
 
 * 🍺 a craft beer package,
 * 🤖 a gadget of their choice
-* 🎽 or an Uplink t-shirt (coming soon).
+* 🎽 or an Uplink t-shirt.
 
 We will contact the winner via Slack or email and also mention them (with their permission) in the Slack channel [#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA).
 
