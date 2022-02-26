@@ -47,7 +47,7 @@ Als Mitglied kannst du dir also genau aussuchen, welchen Channels du beitrittst,
 
 :::tip Beispiel
 
-Wenn du z.B. nur über Direktjobs mit Fokus auf React.js oder Java informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** und **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** bei.
+Wenn du z.B. nur über Direktjobs mit Fokus auf React.js, Java oder Kotlin informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** und **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** bei.
 
 :::
 
@@ -97,7 +97,7 @@ Mehr als einem dieser drei Channels beizutreten, ist also eigentlich nicht nöti
 * **[#jobs-direct-backend-cpp](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CJL8RT347)** - Direct C++ jobs
 * **[#jobs-direct-backend-dotnet](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CB1TQCBJL)** - Direct .NET jobs
 * **[#jobs-direct-backend-go](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CEJ7YL28Y)** - Direct Go jobs
-* **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java jobs
+* **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java and Kotlin jobs
 * **[#jobs-direct-backend-js](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C99U5R7KR)** - Direct JS backend jobs
 * **[#jobs-direct-backend-php](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263T1T3)** - Direct PHP jobs
 * **[#jobs-direct-backend-python](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMC4RL)** - Direct Python jobs

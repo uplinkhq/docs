@@ -38,7 +38,7 @@ Here are a few articles with guidelines for effective online conversations that 
 
 ## Job channels {#job-channels}
 
-Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js or Java, join **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** and **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
+Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js, Java, or Kotlin, join **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** and **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
 [**Direct jobs**](direct-jobs.md) **and** [**recruiter jobs**](recruiter-jobs.md) **are posted to separate channels. Join the ones that are relevant to you!**
 
@@ -72,8 +72,8 @@ Note that the channels **[#jobs-direct-backend](https://slack.com/app_redirect?t
 * **[#jobs-direct-backend-cpp](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CJL8RT347)** - Direct C++ jobs
 * **[#jobs-direct-backend-dotnet](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CB1TQCBJL)** - Direct .NET jobs
 * **[#jobs-direct-backend-go](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CEJ7YL28Y)** - Direct Go jobs
-* **[#jobs-direct-backend-java](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java jobs
-* **[#jobs-direct-backend-js](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C99U5R7KR)** - Direct backend JS jobs
+* **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java and Kotlin jobs
+* **[#jobs-direct-backend-js](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C99U5R7KR)** - Direct JS backend jobs
 * **[#jobs-direct-backend-php](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263T1T3)** - Direct PHP jobs
 * **[#jobs-direct-backend-python](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMC4RL)** - Direct Python jobs
 * **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** - Direct Ruby jobs
