@@ -122,11 +122,11 @@ You should **not** post in this channel if you simply received a job offer from 
 
 Our Slack workspace has a few restrictions:
 
-### 10k messages limit {#10k-messages-limit}
+### 90 days limit {#90-days-limit}
 
 We are on the free Slack plan and have no way to switch to any of the paid plans, since this would mean several thousand Euros per month in fees that we would have to pay to Slack.
 
-On the free plan, only the last 10.000 messages are accessible in our workspace. This sounds like a lot, but depending on how active our members are and how many jobs are posted (and applied to), it means only the last 1-2 months' messages are visible.
+On the free plan, only the messages of the last 90 days (before September 2022, the last 10k messages) are accessible in our workspace.
 
 To avoid all the knowledge, that is shared by our members, ending up in the void, we introduced the [Community Wiki](community-wiki.md) in June 2020.
 
