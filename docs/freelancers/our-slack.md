@@ -38,6 +38,7 @@ Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommun
 * [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
 * [Don't ask to ask, just ask](https://dontasktoask.com/)
 * [No Hello](https://www.nohello.com/)
+* [Want quick answers? Ask questions well!](https://quick-answers.kronis.dev/)
 
 ## Job-Channels {#job-channels}
 
