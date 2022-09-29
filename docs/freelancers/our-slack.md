@@ -61,16 +61,6 @@ In diesen Channels werden alle Jobs einer Kategorie (Direkt oder Recruiter) ver�
 * **[#jobs-direct](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PJPB8F)** - Alle Direktjobs
 * **[#jobs-recruiter](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01AP26K7KK)** - Alle Recruiter-Jobs
 
-### Direktjobs nach Locations {#job-channels-direct-locations}
-
-In diesen Channels werden alle Direktjobs veröffentlicht, die entweder komplett remote machbar sind oder (zumindest teilweise) die Onsite-Arbeit beim Kunden in einer bestimmten Stadt erfordern:
-
-* **[#jobs-direct-remote](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CA4EM6PPZ)** - Direktjobs, die komplett remote machtbar sind
-* **[#jobs-direct-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RG7PQD)** - Direktjobs mit Onsite-Arbeit in Berlin
-* **[#jobs-direct-hamburg](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82K3J61H)** - Direktjobs mit Onsite-Arbeit in Hamburg
-* **[#jobs-direct-frankfurt](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263L9BK)** - Direktjobs mit Onsite-Arbeit in Frankfurt
-* **[#jobs-direct-muenchen](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82K3PVEF)** - Direktjobs mit Onsite-Arbeit in München
-
 ### Direktjobs nach Skills {#job-channels-direct-skills}
 
 In diesen Channels werden die Direktjobs nach Skills gruppiert veröffentlicht.

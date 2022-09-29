@@ -48,16 +48,6 @@ Each time a new job is published, it is posted to one or (most of the time) mult
 * **[#jobs-direct](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PJPB8F)** - All direct jobs
 * **[#jobs-recruiter](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01AP26K7KK)** - All recruiter jobs
 
-### Direct jobs by location
-
-If you're only interested in direct jobs in Berlin, Hamburg, Frankfurt, or München, or full-remote jobs, join one of these channels:
-
-* **[#jobs-direct-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RG7PQD)** - Jobs in Berlin
-* **[#jobs-direct-hamburg](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82K3J61H)** - Jobs in Hamburg
-* **[#jobs-direct-frankfurt](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263L9BK)** - Jobs in Frankfurt
-* **[#jobs-direct-muenchen](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82K3PVEF)** - Jobs in München
-* **[#jobs-direct-remote](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CA4EM6PPZ)** - Jobs that can be done completely remotely (apart from possibly a kickoff meeting at the client's office)
-
 ### Direct jobs by technologies/skills
 
 If you're interested in direct jobs in a specific skill area, join one of these channels.
