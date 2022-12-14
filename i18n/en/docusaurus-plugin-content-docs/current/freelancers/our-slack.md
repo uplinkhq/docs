@@ -24,8 +24,10 @@ This is where you can talk with other Uplink members!
 * **[#uplink](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CE5F24679)** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
 * **[#lounge](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C97PG11KK)** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
 * **[#lang-rust](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CHT3P0WNL)** - Everything about the Rust programming language.
-* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX)** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
+* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX), [#tech-security](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04AYLYS6A2)** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
 * **[#city-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PHS0RM), [#city-hamburg](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8262C15X)** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
+* **[#marketplace](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04CGALF3K9)** - This is the right channel for buying and selling hardware, software, office equipment, or similar.
+* **[#fun](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04EA93RZPW)** - This is the place to come to for your daily dose of FUN - ridiculous recruiter messages, client fails, jokes, memes, and everything else that is worth a chuckle!
 
 ## Guidelines
 

@@ -27,8 +27,10 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **[#agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C02F5A06BE1)** - Diskussionen zum Thema Agile, SCRUM und Projektmanagement.
 * **[#adventofcode](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01EY7Y8R89)** - Der [Advent of Code](https://adventofcode.com/) findet jedes Jahr im Dezember statt! In diesem Channel werden Lösungen verglichen und automatisch Updates zum Uplink-Leaderboard gepostet.
 * **[#lang-rust](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CHT3P0WNL)** - Alles zur Programmiersprache Rust.
-* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX)** + more - Channels, die mit "tech-" beginnen, sind Fragen, Diskussionen und News zu einem bestimmten Tech-Thema gewidmet.
+* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX), [#tech-security](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04AYLYS6A2)** + more - Channels, die mit "tech-" beginnen, sind Fragen, Diskussionen und News zu einem bestimmten Tech-Thema gewidmet.
 * **[#city-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PHS0RM), [#city-hamburg](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8262C15X)** + more - Channels, die mit "city-" beginnen, sind Fragen und Diskussionen zu einer bestimmten Stadt gewidmet, z.B. zur lokalen IT-Szene, Events, Coworking-Spaces, etc.
+* **[#marketplace](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04CGALF3K9)** - Dies ist der richtige Channel für den Kauf und Verkauf von  Hardware, Software, Bürozubehör, oder ähnlichem.
+* **[#fun](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04EA93RZPW)** - Deine tägliche Dosis FUN bekommst du hier - idiotische Recruiter-Anfragen, Kunden FAILs, Witze, Memes,...
 
 ## Guidelines {#guidelines}
 
