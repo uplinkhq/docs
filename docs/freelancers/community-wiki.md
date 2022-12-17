@@ -8,6 +8,12 @@ sidebar_position: 17
 
 **The Community Wiki is here to change that!**
 
+:::info
+
+You can access the Community Wiki [in our member area](https://my.uplink.tech/community/wiki).
+
+:::
+
 The goal is for it to become a comprehensive collection of questions and answers for all topics relevant to IT freelancers in Germany.
 
 This is how it works: every member can easily suggest to add a Slack message to the Community Wiki using a [message shortcut](https://slack.com/help/articles/360004063011-Work-with-apps-in-Slack-using-shortcuts#message-shortcuts):
