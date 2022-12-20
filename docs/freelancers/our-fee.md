@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Unsere Gebühr
 
-Wir haben ein einfaches, wenn auch unübliches, Gebührenmodell: wir berechnen nicht unseren Kunden - also den Unternehmen, die einen Freelancer über Uplink suchen - eine Gebühr, sondern unseren Mitgliedern, wenn sie über Uplink einen neuen Kunden finden konnten. Diese Gebühr beträgt 10% des Honorars, das unser Mitglied dem Kunden in den ersten 6 Monaten der Zusammenarbeit berechnet.
+Wir haben ein einfaches, wenn auch unübliches, Gebührenmodell: wir berechnen nicht unseren Kunden - also den Unternehmen, die einen Freelancer über Uplink suchen - eine Gebühr, sondern unseren Mitgliedern, wenn sie über Uplink einen neuen Kunden finden konnten. Diese Gebühr beträgt 10% des Honorars, das unser Mitglied dem Kunden in den ersten 12 Monaten der Zusammenarbeit berechnet.
 
 Diese Gebühr fällt nur für [Direktjobs](direct-jobs.md) an, nicht für [Recruiter-Jobs](recruiter-jobs.md).
 

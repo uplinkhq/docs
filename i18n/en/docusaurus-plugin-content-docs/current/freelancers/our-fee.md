@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Our fee
 
-We have a simple, if unusual, fee model: we don't charge our clients - i.e. the companies looking for a freelancer through Uplink - but we charge our members a fee when they acquire a new client through us. This fee is 10% of the rate that the freelancer charges the client in the first 6 months of working with them.
+We have a simple, if unusual, fee model: we don't charge our clients - i.e. the companies looking for a freelancer through Uplink - but we charge our members a fee when they acquire a new client through us. This fee is 10% of the rate that the freelancer charges the client in the first 12 months of working with them.
 
 This fee only applies for [direct jobs](direct-jobs.md), not for [recruiter jobs](recruiter-jobs.md).
 

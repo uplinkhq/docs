@@ -6,7 +6,7 @@ sidebar_position: 9
 
 Bevor wir dich bei einem Kunden für einen [Direktjob](direct-jobs.md) vorstellen können, bitten wir dich, unseren Vertrag zu unterschreiben. Dieser beinhaltet folgende Punkte:
 
-1. Wenn es mit dem Kunden, mit dem du über Uplink in Kontakt gekommen ist, zu einer Zusammenarbeit kommt, berechnen wir dir für die ersten 6 Monate dieser Zusammenarbeit [eine Gebühr von 10% deines Honorars](our-fee.md). Diese Gebühr fällt nur an, wenn die Zusammenarbeit innerhalb von 12 Monaten nach unserer Vorstellung startet.
+1. Wenn es mit dem Kunden, mit dem du über Uplink in Kontakt gekommen ist, zu einer Zusammenarbeit kommt, berechnen wir dir für die ersten 12 Monate dieser Zusammenarbeit [eine Gebühr von 10% deines Honorars](our-fee.md). Diese Gebühr fällt nur an, wenn die Zusammenarbeit innerhalb von 12 Monaten nach unserer Vorstellung startet.
 
 2. Während der provisionspflichtigen Zeit bitten wir dich, uns die Rechnungen, die du dem Kunden stellst, auch direkt zuzuschicken, entweder per Slack (präferiert) oder per E-Mail an [invoices@uplink.tech](mailto:invoices@uplink.tech). Wir stellen dir dann jeweils eine Rechnung über unsere Gebühr, die du aber erst zahlen musst, wenn deine Rechnung vom Kunden bezahlt ist.
 

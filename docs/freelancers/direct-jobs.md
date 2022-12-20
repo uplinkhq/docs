@@ -12,7 +12,7 @@ Ab dem Punkt läuft die weitere Kommunikation direkt zwischen dem Kandidaten und
 
 Einigt sich der Kunde mit einem der Kandidaten, kommt der Vertrag direkt zwischen dem Kunden und Freelancer zustande, und die Rechnungen werden ebenfalls vom Freelancer an den Kunden ausgestellt.
 
-Unsere Gebühr für Direktjobs liegt bei [10% in den ersten 6 Monaten der Zusammenarbeit mit dem Kunden.](our-fee.md)
+Unsere Gebühr für Direktjobs liegt bei [10% in den ersten 12 Monaten der Zusammenarbeit mit dem Kunden.](our-fee.md)
 
 ## Unser Auswahlprozess
 

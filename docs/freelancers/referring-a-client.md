@@ -25,7 +25,7 @@ Die Auszahlung erfolgt dann über eine [Gutschrift](https://www.informer.eu/de/b
 Eine Frage, die oft gestellt wird, ist, warum wir nicht statt eines Pauschalbetrags eine prozentuale Beteiligung an dem Umsatz, den wir an dem neuen Kunden verdienen, anbieten.
 Dafür gibt es zwei Gründe:
 
-* Zum einen [verdienen wir unsere Gebühr bei einer erfolgreichen Vermittlung über einen Zeitraum von max. 6 Monaten](our-fee.md), d.h. der Freelancer müsste auch so lange warten, um seine volle Belohnung für die Empfehlung zu bekommen. Die Pauschalgebühr dagegen können wir sofort auszahlen, sobald eine Vermittlung bestätigt ist.
+* Zum einen [verdienen wir unsere Gebühr bei einer erfolgreichen Vermittlung über einen Zeitraum von max. 12 Monaten](our-fee.md), d.h. der Freelancer müsste auch so lange warten, um seine volle Belohnung für die Empfehlung zu bekommen. Die Pauschalgebühr dagegen können wir sofort auszahlen, sobald eine Vermittlung bestätigt ist.
 * Zum anderen kommt es immer wieder vor, dass ein Projekt kurz nach dem Start vom Freelancer oder vom Kunden abgebrochen wird - in diesem Fall würde der Freelancer, der den Kunden empfohlen hat, nur einen Bruchteil der Belohnung bekommen.
 
 Aus diesen Gründen haben wir uns für eine Pauschalsumme anstatt einer prozentualen Beteiligung entschieden.

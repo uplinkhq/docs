@@ -25,7 +25,7 @@ Payment is then made via a [credit note](https://www.informer.eu/de/buchhaltung-
 One question that comes up quite often is why we don't offer a percentage share of the revenue we earn from the new client instead of a lump sum.
 There are two reasons for this:
 
-* First, [we earn our fee on a successful referral over a period of max. 6 months](our-fee.md), meaning the freelancer would also have to wait that long to get their full reward for the referral. The lump sum, on the other hand, we can pay immediately as soon as a referral is confirmed.
+* First, [we earn our fee on a successful referral over a period of max. 12 months](our-fee.md), meaning the freelancer would also have to wait that long to get their full reward for the referral. The lump sum, on the other hand, we can pay immediately as soon as a referral is confirmed.
 * Secondly, it often happens that a project is cancelled by the freelancer or the client shortly after it has started - in this case, the freelancer who referred the client would only get a fraction of the reward.
 
 For these reasons, we opted for a lump sum instead of a percentage.
