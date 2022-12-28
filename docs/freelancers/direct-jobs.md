@@ -14,7 +14,7 @@ Einigt sich der Kunde mit einem der Kandidaten, kommt der Vertrag direkt zwische
 
 Unsere Gebühr für Direktjobs liegt bei [10% in den ersten 12 Monaten der Zusammenarbeit mit dem Kunden.](our-fee.md)
 
-## Unser Auswahlprozess
+## Unser Auswahlprozess {#selection-process}
 
 Nach der Veröffentlichung eines neuen Direktjobs versuchen wir in der Regel sicherzustellen, dass er mindestens 24 Stunden lang für Bewerbungen offen bleibt, damit alle interessierten Kandidaten die Möglichkeit haben, sich in Ruhe zu bewerben. Anschließend prüfen wir die Bewerbungen im Hinblick auf die Kompetenz der Bewerber (Fähigkeiten und Erfahrung) und wie gut sie die Rahmenbedingungen des Jobs erfüllen (Starttermin, Verfügbarkeit, Budget usw.).
 

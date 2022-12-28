@@ -14,7 +14,7 @@ If the client and one of the candidates agree to work together, the contract is 
 
 Our fee for direct jobs is [10% in the first 12 months of cooperation with the client.](our-fee.md)
 
-## Our selection process
+## Our selection process {#selection-process}
 
 After publishing a new direct job, we usually try to ensure that it remains open for applications for at least 24 hours, so that all interested candidates have the opportunity to apply at their own pace. We then review the applications in terms of the candidates' expertise (skills and experience) and how well they meet the parameters of the job (start date, availability, budget, etc.).
 
