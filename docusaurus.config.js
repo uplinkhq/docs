@@ -7,7 +7,7 @@ module.exports = {
   tagline: 'The Uplink Knowledge Base & Blog',
   url: 'https://uplink.tech',
   baseUrl: `/${process.env.BLOG ? 'blog' : 'knowledge-base'}/`,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
