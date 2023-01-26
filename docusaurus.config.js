@@ -30,22 +30,18 @@ module.exports = {
       },
       items: [
         {
+          to: 'blog',
+          label: 'Blog'
+        }, {
           label: 'Website',
           href: 'https://uplink.tech/',
-        },
-        {
-          label: 'Blog',
-          href: 'https://uplink.tech/blog',
-        },
-        {
+        }, {
           label: 'Slack',
           href: 'https://uplinkhq.slack.com',
-        },
-        {
+        }, {
           type: 'localeDropdown',
           position: 'right',
-        },
-        {
+        }, {
           label: 'GitHub',
           href: 'https://github.com/uplinkhq/knowledge-base',
           position: 'right',
