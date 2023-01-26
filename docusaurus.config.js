@@ -23,13 +23,15 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Docs',
       logo: {
         alt: 'Uplink',
         src: 'img/logo.png',
       },
       items: [
         {
+          to: 'knowledge-base',
+          label: 'Knowledge Base'
+        }, {
           to: 'blog',
           label: 'Blog'
         }, {
@@ -57,12 +59,7 @@ module.exports = {
             {
               label: 'Website',
               href: 'https://uplink.tech/',
-            },
-            {
-              label: 'Blog',
-              href: 'https://uplink.tech/blog',
-            },
-            {
+            }, {
               label: 'Slack',
               href: 'https://uplinkhq.slack.com',
             },
@@ -103,7 +100,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/',
+          routeBasePath: '/knowledge-base',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
         },
