@@ -3,15 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Uplink Knowledge Base',
-  tagline: 'Everything there is to know about how Uplink works',
+  title: 'Uplink Docs',
+  tagline: 'The Uplink Knowledge Base & Blog',
   url: 'https://uplink.tech',
-  baseUrl: '/knowledge-base/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
-  projectName: 'knowledge-base',
+  projectName: 'docs',
   trailingSlash: true,
   scripts: [
     {
@@ -23,7 +23,7 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Knowledge Base',
+      title: 'Docs',
       logo: {
         alt: 'Uplink',
         src: 'img/logo.png',
@@ -43,7 +43,7 @@ module.exports = {
           position: 'right',
         }, {
           label: 'GitHub',
-          href: 'https://github.com/uplinkhq/knowledge-base',
+          href: 'https://github.com/uplinkhq/docs',
           position: 'right',
         },
       ],
@@ -104,7 +104,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/uplinkhq/knowledge-base/edit/main/',
+          editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
         },
         theme: {
