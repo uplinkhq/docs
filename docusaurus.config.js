@@ -6,8 +6,8 @@ module.exports = {
   title: 'Uplink Docs',
   tagline: 'The Uplink Knowledge Base & Blog',
   url: 'https://uplink.tech',
-  baseUrl: `/${process.env.BLOG ? 'blog' : 'knowledge-base'}/`,
-  onBrokenLinks: 'warn',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'uplinkhq',
@@ -30,10 +30,10 @@ module.exports = {
       items: [
         {
           label: 'Knowledge Base',
-          to: process.env.BLOG ? '../knowledge-base' : '/'
+          to: 'knowledge-base'
         }, {
           label: 'Blog',
-          to: process.env.BLOG ? '/' : '../blog'
+          to: 'blog'
         }, {
           label: 'Website',
           href: 'https://uplink.tech/',
@@ -100,12 +100,9 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: process.env.BLOG ? ' knowledge-base' : '/',
+          routeBasePath: '/knowledge-base',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
-        },
-        blog: {
-          routeBasePath: process.env.BLOG ? '/' : 'blog'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
