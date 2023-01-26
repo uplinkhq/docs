@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Uplink Docs',
   tagline: 'The Uplink Knowledge Base & Blog',
-  url: 'https://uplink.tech',
+  url: 'https://docs.uplink.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
