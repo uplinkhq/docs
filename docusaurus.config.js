@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Uplink Docs',
   tagline: 'The Uplink Knowledge Base & Blog',
-  url: 'https://docs.uplink.tech',
-  baseUrl: '/',
+  url: 'https://uplink.tech',
+  baseUrl: `/${process.env.BLOG ? 'blog' : 'knowledge-base'}/`,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
@@ -29,11 +29,11 @@ module.exports = {
       },
       items: [
         {
-          to: 'knowledge-base',
-          label: 'Knowledge Base'
+          label: 'Knowledge Base',
+          to: process.env.BLOG ? '../knowledge-base' : '/'
         }, {
-          to: 'blog',
-          label: 'Blog'
+          label: 'Blog',
+          to: process.env.BLOG ? '/' : '../blog'
         }, {
           label: 'Website',
           href: 'https://uplink.tech/',
@@ -100,9 +100,12 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/knowledge-base',
+          routeBasePath: process.env.BLOG ? ' knowledge-base' : '/',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
+        },
+        blog: {
+          routeBasePath: process.env.BLOG ? '/' : 'blog'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
