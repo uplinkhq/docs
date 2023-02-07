@@ -16,10 +16,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Await Cloudflare Pages build and send Slack notification
-        uses: arddluma/cloudflare-pages-slack-notification@v2.5
+        uses: arddluma/cloudflare-pages-slack-notification@v3
         with:
-          accountEmail: ${{ secrets.CLOUDFLARE_ACCOUNT_EMAIL }}
-          apiKey: ${{ secrets.CLOUDFLARE_API_KEY }}
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           project: uplink-docs
           githubToken: ${{ secrets.GITHUB_TOKEN }}
