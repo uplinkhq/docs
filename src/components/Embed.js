@@ -1,7 +1,8 @@
 import React from "react";
 
 export default function Embed({children}) {
-  iframely.load()
+  if (window.iframely)
+    window.iframely.load()
   return (
     <div className="iframely-embed">
       <div className="iframely-responsive">
