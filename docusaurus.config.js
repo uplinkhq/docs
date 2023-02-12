@@ -100,7 +100,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/knowledge-base',
+          routeBasePath: '/',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
         },

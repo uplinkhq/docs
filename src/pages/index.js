@@ -10,5 +10,5 @@ export default function Home() {
         Hello!
       </main>
     </Layout>
-  );
+  )
 }

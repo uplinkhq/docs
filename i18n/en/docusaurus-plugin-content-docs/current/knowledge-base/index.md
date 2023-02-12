@@ -1,5 +1,4 @@
 ---
-slug: /
 sidebar_position: 1
 ---
 
@@ -7,24 +6,24 @@ sidebar_position: 1
 
 This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
 
-Here you can learn everything about what Uplink offers [freelancers](freelancers/uplink-for-freelancers.md), [companies](companies/uplink-for-companies.md) and [recruiters](recruiters/uplink-for-recruiters.md).
+Here you can learn everything about what Uplink offers [freelancers](knowledge-base/freelancers/uplink-for-freelancers.md), [companies](knowledge-base/companies/uplink-for-companies.md) and [recruiters](knowledge-base/recruiters/uplink-for-recruiters.md).
 
 ## What is Uplink?
 
 Uplink is a community for IT freelancers and was founded in Berlin in 2016.
-[Learn more about the history of Uplink here »](about/history.md).
+[Learn more about the history of Uplink here »](knowledge-base/about/history.md).
 
 Over the years, the network has grown organically and today (as of August 2022) has over 2,500 active members: developers, DevOps engineers, data scientists, UI/UX designers, project and product managers, and QA/test engineers. Anyone who lives in Germany and works as a full-time freelancer in the IT field can join.
 
 You can find more information in the following categories:
 
-**[For Freelancers »](freelancers/uplink-for-freelancers.md)**
+**[For Freelancers »](knowledge-base/freelancers/uplink-for-freelancers.md)**
 
-**[For Companies »](companies/uplink-for-companies.md)**
+**[For Companies »](knowledge-base/companies/uplink-for-companies.md)**
 
-**[For Recruiters »](recruiters/uplink-for-recruiters.md)**
+**[For Recruiters »](knowledge-base/recruiters/uplink-for-recruiters.md)**
 
-**[About us »](about/values.md)**
+**[About us »](knowledge-base/about/values.md)**
 
 ## Is anything missing?
 
