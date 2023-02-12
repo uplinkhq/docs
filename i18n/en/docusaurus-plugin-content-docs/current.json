@@ -3,16 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Freelancers": {
-    "message": "Freelancers",
-    "description": "The label for category Freelancers in sidebar tutorialSidebar"
+  "sidebar.knowledgeBaseSidebar.category.Für Freelancer": {
+    "message": "For Freelancers",
+    "description": "The label for category Für Freelancer in sidebar knowledgeBaseSidebar"
   },
-  "sidebar.tutorialSidebar.category.Companies": {
-    "message": "Companies",
-    "description": "The label for category Companies in sidebar tutorialSidebar"
+  "sidebar.knowledgeBaseSidebar.category.Für Unternehmen": {
+    "message": "For Companies",
+    "description": "The label for category Für Unternehmen in sidebar knowledgeBaseSidebar"
   },
-  "sidebar.tutorialSidebar.category.About us": {
+  "sidebar.knowledgeBaseSidebar.category.Für Recruiter": {
+    "message": "For Recruiters",
+    "description": "The label for category Für Recruiter in sidebar knowledgeBaseSidebar"
+  },
+  "sidebar.knowledgeBaseSidebar.category.Über uns": {
     "message": "About us",
-    "description": "The label for category About us in sidebar tutorialSidebar"
+    "description": "The label for category Über uns in sidebar knowledgeBaseSidebar"
   }
 }
