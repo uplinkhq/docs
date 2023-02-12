@@ -15,6 +15,9 @@ module.exports = {
   trailingSlash: true,
   scripts: [
     {
+      src: '//cdn.iframe.ly/embed.js?key=8af38be2d6c7c3c47a395519c784880e',
+      async: true
+    }, {
       src: '/qwerty/js/script.js',
       defer: true,
       'data-domain': 'uplink.tech',
@@ -31,6 +34,9 @@ module.exports = {
         {
           label: 'Knowledge Base',
           to: 'knowledge-base'
+        }, {
+          label: 'Topics',
+          to: 'topics'
         }, {
           label: 'Blog',
           to: 'blog'
