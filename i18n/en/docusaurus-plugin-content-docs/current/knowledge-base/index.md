@@ -13,7 +13,7 @@ Here you can learn everything about what Uplink offers [freelancers](knowledge-b
 Uplink is a community for IT freelancers and was founded in Berlin in 2016.
 [Learn more about the history of Uplink here »](knowledge-base/about/history.md).
 
-Over the years, the network has grown organically and today (as of February 2023) has over 3,000 active members: developers, designers, engineers, and product manager.
+Over the years, the network has grown organically and today (as of February 2023) has over 3,000 active members: developers, designers, engineers, and product managers.
 
 You can find more information in the following categories:
 
