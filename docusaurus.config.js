@@ -104,15 +104,20 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+        blog: {
+          blogTitle: 'The Uplink Blog',
+          postsPerPage: 10,
+          blogSidebarCount: 10
+        }
       },
     ],
   ],
