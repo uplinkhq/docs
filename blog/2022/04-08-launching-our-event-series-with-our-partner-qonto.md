@@ -9,10 +9,12 @@ We have already organized several successful webinars with our partner [Qonto](h
 
 Recently, we talked with Torben Rabe, Qonto's Country Director Germany, about topics such as finance tools and market trends. In our last webinar, Torben shared insights on best practices on how to go from MVP to Unicorn.
 
+<!--truncate-->
+
 All our joint events are always very interactive and include a Q/A part at the end where everyone is encouraged to ask questions!
 
-**We had so much fun with the events and the feedback from the community was overwhelmingly positive, so we decided to launch a long-term event series with Qonto on the topic "How to scale up your business". 🙌**  
-  
+**We had so much fun with the events and the feedback from the community was overwhelmingly positive, so we decided to launch a long-term event series with Qonto on the topic "How to scale up your business". 🙌**
+
 For the upcoming period, we will organize quarterly Deep Dives with members from our community and speakers from Qonto's various business units, covering a wide range of topics related to successfully scaling up a business. You can look forward to the following topics:
 
 - How to build a successful sales unit

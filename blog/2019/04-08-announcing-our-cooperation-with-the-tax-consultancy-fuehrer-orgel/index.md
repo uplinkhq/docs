@@ -9,6 +9,8 @@ Dealing with taxes is an unavoidable part of being self-employed. Especially in 
 
 Today we want to announce our partnership with the tax consultancy [Führer & Orgel](http://fo-steuerberater.de/), who we have been working with for over 10 years (so even before Uplink was born about 2.5 years ago). They have been a reliable partner and helped us—and many freelancers and small companies that we referred to them—with all tax-related issues we have encountered over the years.
 
+<!--truncate-->
+
 ![](P_1046918.jpg)
 
 To start our cooperation, we will...

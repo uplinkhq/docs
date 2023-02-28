@@ -5,9 +5,11 @@ authors: nick
 
 One of the key responsibilities of a company regarding an innovative corporate culture is to ensure an efficient knowledge management. Employees should always be willing to share their knowledge with all other members of the organisation. This involves permanent employees as well as freelancers. The only difference between them is the average length of time they stay with the company.
 
-**_Your major goal should be to keep the freelancer's external know-how permanently in the company, so that it can benefit everyone!_**
+<!--truncate-->
 
-Almost 80 percent of freelance projects have a duration of one to six months, and only 19 percent last more than one year. This was the result of a [survey by freelance.de](https://www.freelance.de/blog/durchschnittliche-projektdauer/) in 2015. Permanent employees in Germany between the age of 15 and 64 stay in the same company for an average of 10.4 years. Even if freelancers leave the company again after a relatively short time, their knowledge can be kept in the company in the long term through relatively simple means. The advantage of freelancers is that they are used to providing short-term support in various areas within different projects and to reliably document their knowledge, &nbsp;so it can be used after they have left the company. In contrast to a permanent employee, who often leaves the company out of the blue, you can plan the end of the project much better in advance.
+**Your major goal should be to keep the freelancer's external know-how permanently in the company, so that it can benefit everyone!**
+
+Almost 80 percent of freelance projects have a duration of one to six months, and only 19 percent last more than one year. This was the result of a [survey by freelance.de](https://www.freelance.de/blog/durchschnittliche-projektdauer/) in 2015. Permanent employees in Germany between the age of 15 and 64 stay in the same company for an average of 10.4 years. Even if freelancers leave the company again after a relatively short time, their knowledge can be kept in the company in the long term through relatively simple means. The advantage of freelancers is that they are used to providing short-term support in various areas within different projects and to reliably document their knowledge, so it can be used after they have left the company. In contrast to a permanent employee, who often leaves the company out of the blue, you can plan the end of the project much better in advance.
 
 ## The environment
 
@@ -19,7 +21,7 @@ The first steps of the project's start should be well planned ahead and you shou
 
 You can probably already imagine that it is not promising if the freelancer just makes a few notes on his own. You should think about a suitable medium in advance and involve your team. It is recommended to set up a solid infrastructure for documentation before the project is launched.
 
-**1. "Lessons learned" in all documentations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**
+**1. "Lessons learned" in all documentations**
 
 The term "lessons learned" refers to knowledge that is based on practical insights. It is important to document positive and negative experiences. Preferably, lessons learned should be reported at regular intervals, not only at the end of the project.
 

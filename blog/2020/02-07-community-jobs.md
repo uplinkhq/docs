@@ -11,6 +11,8 @@ _Update June 2020 - #jobs-community is now also open for Uplink members, who sta
 
 Every now and then, a freelancer from our community approaches us to ask how and where they can share their own job posts. Sometimes it's for a personal project they are pursuing, but for which they don't have the necessary time or skills, but most of the time they are working on a client project and the workload is just too much, so they'd like to find someone to share it with.
 
+<!--truncate-->
+
 Until now we struggled to handle these questions. Of course we could handle those kind of 'community' jobs just like regular client jobs, but this would work for us – i.e. writing the job description, posting the job, vetting candidates, and introducing the most qualified one(s) – so we would need to charge our usual 10% fee. But we didn't really want to do that, and neither did most freelancers.
 
 We wanted to find a simple way for the freelancers to post their own jobs to the community, without the need for us to get involved (apart from having an eye on the posts to make sure they are of high quality), and without charging anyone anything.

@@ -9,6 +9,8 @@ One of the features, that many members of our community have asked for over the 
 
 **We are happy to announce that this functionality has finally arrived in the form of our Community Wiki!**
 
+<!--truncate-->
+
 The way it works is that every member can from now on use a Slack [message shortcut](https://slack.com/help/articles/360004063011-Work-with-apps-in-Slack-using-shortcuts#message-shortcuts) to suggest that a message be added to the Community Wiki:
 
 ![](Community-Wiki-Message-Action.png)

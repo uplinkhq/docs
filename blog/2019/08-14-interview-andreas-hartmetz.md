@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 **Heute: C++-Entwickler Andreas Hartmetz**
 
+<!--truncate-->
+
 **Andreas, was hat dich dazu bewegt, dich selbstständig zu machen?**
 
 Erstens das Gehalt. Zweitens nicht an die Strukturen einer Organisation gebunden zu sein und machen zu können, was ich will.

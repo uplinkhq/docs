@@ -13,6 +13,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Mastermind_group):
 
 Sounds simple? Technically yes. The tricky part is to find a group of like-minded individuals who can relate to each others' situations in order to give advice or to ask the right questions. Thankfully, at Uplink we have a large pool of like-minded individuals who can relate to being a freelancer in the IT world. For the kind of mastermind we introduced at Uplink, a group between 4 and 8 people with a similar mission is ideal.
 
+<!--truncate-->
+
 ### Meetings
 
 ![](margarida-csilva-121801-unsplash.jpg)

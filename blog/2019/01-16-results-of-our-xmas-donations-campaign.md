@@ -9,6 +9,8 @@ tags:
 
 Every member received 100 (virtual) cents to allocate between four non-profit companies chosen by us. We would then add up the results and donate the amounts to those companies.
 
+<!--truncate-->
+
 Today we finally found time to look at the results. 29 members took part and this is how they allocated their funds:
 
 - 39% - **[The Ocean Cleanup](https://www.theoceancleanup.com)**

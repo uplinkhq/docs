@@ -9,6 +9,8 @@ On April 5 it was time for our next "IPAs and APIs" community meetup and oh boy,
 
 It's really inspiring to see our community come together at these meetups to share stories from the trenches, make plans for joined projects or simply enjoy a few pints of good beer! And [The Muted Horn](https://themutedhorn.com/) is a fantastic location to do so, with super-friendly staff and a craft beer selection that keeps you entertained all night long.
 
+<!--truncate-->
+
 Here are a few impressions from the evening:
 
 ![](_MG_8025.jpg)

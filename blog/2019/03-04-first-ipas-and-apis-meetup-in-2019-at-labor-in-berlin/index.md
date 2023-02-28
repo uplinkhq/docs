@@ -9,6 +9,8 @@ On February 7 we invited our freelancer community to our first "IPAs and APIs" m
 
 Moreover, on this 8th meetup, we finally managed to get some photos taken! (thanks to Daniel Schmude of [Launch Fotostudio](http://www.launchfotostudio.com/))
 
+<!--truncate-->
+
 Here are some impressions of the evening in Berlin:
 
 ![](IMG_7478.JPG)

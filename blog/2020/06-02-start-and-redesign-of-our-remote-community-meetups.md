@@ -7,6 +7,8 @@ tags:
 
 With our "Remote Community Meetup" concept we are already entering the 8th round. We came up with the idea, as it was no longer possible for us to meet face-to-face due to the Corona situation. We are very happy that freelancers can network with each other remotely and that we can exchange ideas with you in times of social distancing!
 
+<!--truncate-->
+
 ## How can I imagine a "Remote Community Meetup"?
 
 Similar to our event series " IPAs & APIs - Community Meetup", the members of our community come together in a relaxed atmosphere to discuss current topics and network with each other. The cold drinks have to be arranged by each member individually. 😊
@@ -19,7 +21,7 @@ We love the concept and the fact that it's possible to network and exchange info
 
 ## What's new?
 
-Up until now, the meetups took place every 14 days in a relaxed and informal atmosphere. &nbsp;We would like to maintain this approach, but from now on we will organize the meetup only once a month and structure the schedule a bit more.
+Up until now, the meetups took place every 14 days in a relaxed and informal atmosphere. We would like to maintain this approach, but from now on we will organize the meetup only once a month and structure the schedule a bit more.
 
 ### Presentations
 

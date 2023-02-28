@@ -5,9 +5,9 @@ tags:
 - announcement
 ---
 
-**Today, we're launching referral links, which enable our members to easily refer clients and freelancers to Uplink. We're also increasing the reward for referring clients, and introducing a reward for referring freelancers. Read on for the details!**
+Today, we're launching referral links, which enable our members to easily refer clients and freelancers to Uplink. We're also increasing the reward for referring clients, and introducing a reward for referring freelancers.
 
----
+<!--truncate-->
 
 Our members' feedback and recommendations, whether it's potential clients, new freelancers, meetup locations, or new features for our platform, have been at the core of Uplink from the very beginning! It's an overstrained saying, but **we wouldn't be where we are without our members! 😄**
 

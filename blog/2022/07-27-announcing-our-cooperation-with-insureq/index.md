@@ -5,14 +5,16 @@ tags:
 - cooperation
 ---
 
-**_Update from November 2022 -insureQ has discontinued its operations._**
+_Update from November 2022 - insureQ has discontinued its operations._
 
 We are very happy to announce our brand new cooperation with [insureQ](https://www.insureq.de/), a insurance service for your freelance business that wants to revolutionize the insurance market with their digital approach.
 
 The Munich-based InsureTech offers customized insurance solutions for self-employed entrepreneurs and small business owners. They focus on providing a digital solution that is both transparent and easy to understand for their customers. The vision of insureQ is to simplify commercial insurance for SMEs, startups, and self-employed people while adapting it to specific industries and professional requirements. 🚀
 
-To kick off our partnership, we hosted a joint webinar with [Dominik Herrmann](https://www.linkedin.com/in/dominik-herrmann-756986196) on "Navigation im Versicherungsdschungel", which was held in German.   
-  
+<!--truncate-->
+
+To kick off our partnership, we hosted a joint webinar with [Dominik Herrmann](https://www.linkedin.com/in/dominik-herrmann-756986196) on "Navigation im Versicherungsdschungel", which was held in German.
+
 Some highlights of the webinar were:
 
 - Essential and optional insurances for freelancers
@@ -25,4 +27,4 @@ Particularly useful was the differentiation of possible insurances for freelance
 
 ![](insureQ--16_9-.png)
 
-_ **We are already looking forward to**  **the further cooperation with insureQ!**  **The whole event was recorded and you can rewatch the webinar at any time on** _ [_ **our Crowdcast page** _](https://www.crowdcast.io/e/recruitingstrategies)_ **.** _
+**We are already looking forward to the further cooperation with insureQ! The whole event was recorded and you can rewatch the webinar at any time on [our Crowdcast page](https://www.crowdcast.io/e/recruitingstrategies).**

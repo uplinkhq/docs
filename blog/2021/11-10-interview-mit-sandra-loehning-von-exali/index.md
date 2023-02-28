@@ -5,7 +5,9 @@ tags:
 - cooperation
 ---
 
-_ **Exali ist ein Spezialmakler für digitale Risiken und hat sich unter anderem auf Berufshaftpflichtversicherungen für die IT-, Medien- und Beratungsbranche spezialisiert. Sandra Löhning ist als exali-Partnermanagerin für die Zusammenarbeit mit Verbänden, Institutionen und Unternehmen zuständig. Wir haben mit ihr über die typischen Haftungsrisken für Freelancer im IT Bereich und ihre Tipps bei der Bemessung einer adäquaten Schadenshöhe gesprochen.** _
+**Exali ist ein Spezialmakler für digitale Risiken und hat sich unter anderem auf Berufshaftpflichtversicherungen für die IT-, Medien- und Beratungsbranche spezialisiert. Sandra Löhning ist als exali-Partnermanagerin für die Zusammenarbeit mit Verbänden, Institutionen und Unternehmen zuständig. Wir haben mit ihr über die typischen Haftungsrisken für Freelancer im IT Bereich und ihre Tipps bei der Bemessung einer adäquaten Schadenshöhe gesprochen.**
+
+<!--truncate-->
 
 ![](Bild1--1--2.jpg)
 
@@ -65,4 +67,4 @@ Grundsätzlich kann man sagen, dass es elementar für jeden Freelancer ist, gena
 
 Alles was ich gerade aufgezählt habe, sind Punkte, bei denen wir immer wieder in der Beratung oder im Schadenfall merken, dass sich der Freelancer gar nicht so detailliert damit auseinandergesetzt hat.
 
-**_Wenn ihr noch mehr über Exali erfahren und weitere spannende Tipps rund um das Thema Haftpflichtversicherung für IT Freelancer erhalten möchtet, könnt ihr euch gerne jederzeit unser [gemeinsames Webinar](https://www.crowdcast.io/e/uplinkexaliinsurances) mit Ralph Günther, dem Gründer von Exali bei Crowdcast anschauen._**
+**Wenn ihr noch mehr über Exali erfahren und weitere spannende Tipps rund um das Thema Haftpflichtversicherung für IT Freelancer erhalten möchtet, könnt ihr euch gerne jederzeit unser [gemeinsames Webinar](https://www.crowdcast.io/e/uplinkexaliinsurances) mit Ralph Günther, dem Gründer von Exali bei Crowdcast anschauen.**

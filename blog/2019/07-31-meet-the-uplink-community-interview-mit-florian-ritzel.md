@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit also, euch unsere Mitglieder ein
 
 Dieses Mal heißt es "Vorhang auf für **Florian Ritzel**", React- und React-Native-Entwickler in Berlin.
 
+<!--truncate-->
+
 **Florian, was hat dich dazu bewegt, dich selbstständig zu machen?**
 
 Freiheit, Unabhängigkeit und das Geld.

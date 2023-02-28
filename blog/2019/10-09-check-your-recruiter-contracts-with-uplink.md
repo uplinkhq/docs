@@ -9,6 +9,8 @@ Some of the most common questions we have seen over the years in our Slack works
 
 **A typical recruiter contract has 12-15 pages (often separated into a framework contract and a project agreement) and is not easy to understand by someone who doesn't see these kinds of documents every day.**
 
+<!--truncate-->
+
 What can you do when faced with such a contract? You could google certain clauses that sound fishy or ask other freelancers in a community like Uplink, but you can't be sure that the answers you receive are substantiated. Alternatively, you could try to find a lawyer specialized in these kinds of contracts, but it takes time to do so and you might end up spending several hundreds of Euros and not receive a satisfactory assessment either.
 
 **So we decided to team up with an experienced lawyer and offer the "contract check" as a service!** For a flat fee of 200€ (excl. VAT) our lawyer will review your contract and point out common pitfalls, exaggerated fees, and everything else you should be aware of.

@@ -7,6 +7,8 @@ tags:
 
 For a long time, we've been fans of FinTech startup Kontist's business account, which is specifically tailored to the needs of freelancers and includes many useful features such as accounting and invoicing integrations.
 
+<!--truncate-->
+
 ## Brand new comprehensive tax service tool for freelancers 🥳
 
 Kontist has now launched its new [tax service for freelancers and small businesses](https://kontist.com/landing/steuerservice-uplink/) for a fixed monthly price. It allows you to calculate your tax expenses much better and don't have to wait for surprising invoices from your tax consultant anymore. The tax service is not a tool- it's a real tax consulting service provided by experts of Kontist Steuerberatung who will take care of all your tax and accounting issues. You don't need a separate financial accounting or invoicing tool. If necessary, you simply contact the folks from Kontist Steuerberatung via the app. There's no need to panic before the deadline of your tax declaration - Kontist Steuerberatung takes care of the “Einnahmen-Überschuss-Rechnung” (EÜR) and the corresponding attachments in advance, which are decisive for calculating your actual tax expenses. If your earnings change, your tax prepayments are automatically adjusted. Monthly calculable fees and the reduction of your administrative work concerning tax issues allow you to focus on your key tasks as a freelancer.

@@ -5,7 +5,9 @@ tags:
 - cooperation
 ---
 
-_**[Accountable](https://www.accountable.de/) ist ein innovatives Buchhaltungstool für Freelancer und Selbstständige. Tino Keller ist Co-Founder & Managing Director des Startups. Wir haben mit ihm über die Revolution in der Buchhaltung, seinen Alltag sowie die nächsten Schritte für Accountable, nachdem sie erfolgreich Investoren überzeugen konnten, gesprochen.**_
+**[Accountable](https://www.accountable.de/) ist ein innovatives Buchhaltungstool für Freelancer und Selbstständige. Tino Keller ist Co-Founder & Managing Director des Startups. Wir haben mit ihm über die Revolution in der Buchhaltung, seinen Alltag sowie die nächsten Schritte für Accountable, nachdem sie erfolgreich Investoren überzeugen konnten, gesprochen.**
+
+<!--truncate-->
 
 ![](Tino_Keller-1.jpg)
 
@@ -15,7 +17,7 @@ Wie üblich gibt es in Startups immer mehr zu tun, als eigentlich möglich ist. 
 
 ## Was sind die Herausforderungen, denen insbesondere Freelancer:innen bei der Buchhaltung begegnen?
 
-Viele Selbstständige sind einfach komplett mit Ihren Kund:innen und Aufträgen beschäftigt und haben weder Lust noch Zeit, sich mit ihren Steuern zu beschäftigen. Dafür sind wir für sie da, indem wir die administrativen Aufgaben weitestgehend automatisieren und das Thema Steuern und Buchhaltung über eine einzige App für jede:n zugänglich machen.   
+Viele Selbstständige sind einfach komplett mit Ihren Kund:innen und Aufträgen beschäftigt und haben weder Lust noch Zeit, sich mit ihren Steuern zu beschäftigen. Dafür sind wir für sie da, indem wir die administrativen Aufgaben weitestgehend automatisieren und das Thema Steuern und Buchhaltung über eine einzige App für jede:n zugänglich machen.
 Viele Freelancer:innen lassen unwissentlich auch eine Menge Geld auf der Straße liegen. Hier geben wir unseren Nutzer:innen mit automatisierten Steuertipps in der App oder in Webinaren konkrete Hilfestellungen.
 
 ## Wie sieht die Zukunft im Bereich Buchhaltung aus?

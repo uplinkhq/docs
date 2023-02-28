@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 **Heute: React-Spezialist Manuel Bieh**
 
+<!--truncate-->
+
 ![](manuel-session-19-03c.jpg)
 
 **Manuel, was hat dich dazu bewegt, dich selbstständig zu machen?**

@@ -9,6 +9,8 @@ For our last community meetup in Berlin we returned to one of our regular bars -
 
 It turned out to be a great night again, and seeing new members turn up and meet some of the old dogs is always fantastic!
 
+<!--truncate-->
+
 Below are some impression of the evening:
 
 ![](IMG_2297.jpg)

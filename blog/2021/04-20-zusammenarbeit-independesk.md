@@ -5,11 +5,13 @@ tags:
 - cooperation
 ---
 
-[Independesk](https://independesk.com/)ist das AirBnB der Arbeitswelt – das Berliner Startup bietet freie Schreibtische in der Nachbarschaft als Alternative zum Homeoffice an, die stunden- und tageweise gebucht werden können. Der Gründer Karsten Kossatz erklärt uns, wie independesk das remote Arbeiten besser macht:
+[Independesk](https://independesk.com/)ist das AirBnB der Arbeitswelt – das Berliner Startup bietet freie Schreibtische in der Nachbarschaft als Alternative zum Homeoffice an, die stunden- und tageweise gebucht werden können. Der Gründer Karsten Kossatz erklärt uns, wie independesk das remote Arbeiten besser macht.
+
+<!--truncate-->
 
 ### Wie ist independesk entstanden?
 
-> Ich beschäftige mich schon lange mit dem Thema „remote work“. Spätestens seit der Corona-Pandemie haben viele verstanden, dass ein tägliches Pendeln ins Firmenbüro nicht nur unnötige Zeitverschwendung ist, sondern genauso unnötig viel CO2 ausstößt und die Straßen verstopft. Gleichzeitig merken wir aber auch in der Pandemie, dass das Homeoffice oft nicht die einzige Alternative zum Firmenoffice sein kann: schreiende Kinder, eine Partnerin, die auch im Homeoffice Zoom-Calls hat oder einfach mal der Wunsch nach Tapetenwechsel brachten uns auf die Idee für independesk: _ **Eine App, in der man sich in seiner Nähe einen Schreibtisch mieten kann – ganz wie beim Carsharing, aber eben mit Desks. Dabei ist uns besonders wichtig, dass man keine monatliche Mitgliedschaft bezahlen muss, sondern eben nur die Stunden, die man auch nutzt.** _
+> Ich beschäftige mich schon lange mit dem Thema „remote work“. Spätestens seit der Corona-Pandemie haben viele verstanden, dass ein tägliches Pendeln ins Firmenbüro nicht nur unnötige Zeitverschwendung ist, sondern genauso unnötig viel CO2 ausstößt und die Straßen verstopft. Gleichzeitig merken wir aber auch in der Pandemie, dass das Homeoffice oft nicht die einzige Alternative zum Firmenoffice sein kann: schreiende Kinder, eine Partnerin, die auch im Homeoffice Zoom-Calls hat oder einfach mal der Wunsch nach Tapetenwechsel brachten uns auf die Idee für independesk: **Eine App, in der man sich in seiner Nähe einen Schreibtisch mieten kann – ganz wie beim Carsharing, aber eben mit Desks. Dabei ist uns besonders wichtig, dass man keine monatliche Mitgliedschaft bezahlen muss, sondern eben nur die Stunden, die man auch nutzt.**
 
 ### Wie funktioniert die Buchung eines Spaces über euch? Kann ich nicht auch einfach so in ein Kaffee gehen und von dort aus arbeiten?
 

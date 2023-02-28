@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 Diese Woche: **React-Native-Entwickler Niels Madan**
 
+<!--truncate-->
+
 ![](Bildschirmfoto-2019-10-21-um-08.30.26.png)
 
 **Niels, was hat dich dazu bewegt, dich selbstständig zu machen?**

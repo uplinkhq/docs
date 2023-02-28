@@ -5,6 +5,8 @@ authors: nick
 
 **We would like to say thank you for the great joint event we had last week with three freelancers from the Uplinkverse, which was attended by more than 50 people. Especially the interactive part was a lot of fun! 🤗**
 
+<!--truncate-->
+
 The participants were:
 
 - [Erik Matt](https://www.linkedin.com/in/erik-matt-727b996a/), who helps his clients to be prepared for exceptional situations and supports them to set new courses during times of crisis.

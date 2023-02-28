@@ -9,6 +9,8 @@ Der Begriff Company Culture wird heutzutage oft inflationär genutzt, aber was s
 
 In einem Interview hat uns Torben Rabe verraten, wie die Company Culture bei [Qonto](https://qonto.com/de) gelebt wird. Torben habt ihr bereits in unseren Deep Dive Webinar Serien kennengelernt, er leitet als Country Director die Erfolgsgeschichte von Qonto in Deutschland und teilt mit uns regelmäßig Insights aus der Startup Branche.
 
+<!--truncate-->
+
 Qonto bietet ein Bankkonto, das auf die Bedürfnisse von Freelancern zugeschnitten ist, kombiniert mit intelligenten Tools, die deine Buchhaltung und Steuererklärung wesentlich bequemer machen. Wenn du Qonto ausprobieren willst haben wir für alle Uplinklings weitere Informationen und einen Rabattcode in unserem [Mitgliederbereich](https://my.uplink.tech/services/cooperations) 🚀.
 
 ### Company Culture ist ein häufig genutzter Begriff und wird, je nach Unternehmen, sehr unterschiedlich definiert. Was bedeutet Company Culture bei Qonto?
@@ -41,7 +43,7 @@ Mit zunehmender Größe wird es in erster Linie komplexer, ein gutes Onboarding 
 
 ### Wie wichtig ist euch Diversität und was tut ihr, um sie im Unternehmen zu fördern?
 
-Diversität nimmt bei Qonto eine zentrale Stellung ein - schon allein deshalb, weil wir mittlerweile in vier europäischen Märkten aktiv sind: Frankreich, Spanien, Deutschland und Italien. Unser Headquarter ist in Paris und etwa zwei Drittel unserer Mitarbeitenden sind französischer Nationalität. Dazu kommen 11 Prozent Italiener:innen und 6 Prozent Spanier:innen. Das restliche Team kommt aus 40 weiteren Ländern, von Kamerun bis China, über die USA bis Madagaskar. Dank des Zusammenschlusses mit Penta haben wir seit kurzem außerdem einen Standort sowie Mitarbeitende in Belgrad und über 200 zusätzliche Kolleg:innen gewonnen, mit denen wir auf ein gemeinsames Ziel hinarbeiten: die führende Finanzmanagement-Lösung für 1 Million Kunden bis 2025 zu werden.  
+Diversität nimmt bei Qonto eine zentrale Stellung ein - schon allein deshalb, weil wir mittlerweile in vier europäischen Märkten aktiv sind: Frankreich, Spanien, Deutschland und Italien. Unser Headquarter ist in Paris und etwa zwei Drittel unserer Mitarbeitenden sind französischer Nationalität. Dazu kommen 11 Prozent Italiener:innen und 6 Prozent Spanier:innen. Das restliche Team kommt aus 40 weiteren Ländern, von Kamerun bis China, über die USA bis Madagaskar. Dank des Zusammenschlusses mit Penta haben wir seit kurzem außerdem einen Standort sowie Mitarbeitende in Belgrad und über 200 zusätzliche Kolleg:innen gewonnen, mit denen wir auf ein gemeinsames Ziel hinarbeiten: die führende Finanzmanagement-Lösung für 1 Million Kunden bis 2025 zu werden.
 Ein weiterer wichtiger Aspekt für uns ist der Anteil an Mitarbeiterinnen im Unternehmen. Aktuell sind insgesamt 44 Prozent unserer Qontoers weiblich und 36 Prozent unserer Führungspositionen sind mit Frauen besetzt. Allerdings reicht uns das nicht – besonders im Bereich IT und Engineering müssen wir noch mehr tun. Deshalb arbeiten wir mit Organisationen wie BECOMTECH zusammen und versuchen, junge Frauen schon während ihrer Schulzeit für Berufe im Tech-Bereich zu begeistern - zum Beispiel durch Schulpraktika.
 
 ### Qonto ist in Frankreich gegründet worden - wie unterscheidet sich eure Company Culture in Paris von der in Berlin?

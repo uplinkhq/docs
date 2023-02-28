@@ -11,6 +11,8 @@ In times where working remotely is becoming more and more normal among freelance
 
 We're happy to report that we found one in [Welance](https://welance.de/)!
 
+<!--truncate-->
+
 Welance originated as a freelancer collective and is still mostly composed of freelancers who work on their own projects or occasionally team up to work on a larger client project together. It has a more personal touch compared to larger coworking spaces like Betahaus or The Factory, yet the atmosphere is quite professional and the interior is of high quality. Welance is located in a beautiful building in a backyard in Berlin-Kreuzberg, just a short walk from Oranienplatz.
 
 So if you're a member of Uplink and currently looking for a place to work with like-minded freelancers, Welance offers you three free trial days (limited to the first 10 people). Simply [contact them via email](mailto:hello@welance.de) to book your days.

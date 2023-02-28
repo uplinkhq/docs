@@ -11,6 +11,8 @@ _Update July 2020 - Our cooperation with Modis has now ended and will not be ren
 
 **tl;dr - Starting today, we'll run a 6-month trial cooperation with** [**Modis**](https://www.modis.com/) **, a recruitment company and solutions provider for IT and engineering companies. We will post selected freelance jobs from Modis in our community to help them find matching candidates more quickly.**
 
+<!--truncate-->
+
 The long version:
 
 When I started Uplink in 2016, my main motivation was to build a "simple, fair, and transparent alternative to classic IT recruiters", and indeed for a long time, this was how I explained Uplink to people who hadn't heard about it.
@@ -19,7 +21,7 @@ Positioning Uplink to be 'against' recruiters was an easy sell when talking to c
 
 And indeed, in many ways, this is still the case. My personal LinkedIn, XING, and email inboxes still receive regular spam messages from clueless recruiters, pitching irrelevant projects or positions, even though it's crystal clear to everyone who bothers looking at my profiles that I am no longer working as a freelance developer (let alone ever considered a permanent position in this field).
 
-## **They're not all bad, though**
+## They're not all bad, though
 
 But as our community grew to more than 1,000 members over the years, two things happened:
 
@@ -31,13 +33,13 @@ Some freelancers told us that they have a list of a few trusted recruiters that 
 
 And some of the companies we talked to said the same thing — that they've had a positive experience working with selected recruiters who got to know them very well and did a good job vetting and filtering potential candidates. Moreover, especially folks from larger companies said that recruiters solve even more of their problems. If you work in the HR department of a company that regularly employs a substantial number of freelancers, for example, you neither want to negotiate a contract with every single one of them nor do you want to receive a separate invoice from each one at the end of the month. Employing them through a recruiter allows you to work out a contract only once, and receive only one unified invoice per month. And what is maybe even more important than the simplified hiring and accounting, is that recruiters help these companies with compliance issues, and lower the risk of the much dreaded "Scheinselbständigkeit".
 
-## **First contact**
+## First contact
 
 Realizing that recruiters do have a 'raison d'être' and our members would most likely appreciate being able to apply to recruiter jobs through our platform, we decided to explore the possibility of working with one of them. We asked our members for recommendations of who to talk to and set up lunch meetings. Many of those didn't go anywhere — either the recruiter clearly saw us as a competitor and only wanted information from us but had no interest in a serious cooperation, or they seemed interested, but after the first meeting, the continued conversation via email quickly fizzled out.
 
 The only conversation partner who we could talk to at eye level and whose approach to recruiting to a large extent mirrors our own was[Yaobang Chen](https://www.linkedin.com/in/yaobang-chen-bb45711a/) from[Modis](https://www.modis.com/). Yaobang is Area Manager Contracting for Northern and Eastern Germany, and Modis itself specializes in recruiting for IT and engineering roles and works with startups and 'Mittelstand' companies, as well as corporates. In addition to recruiting for freelance and permanent roles, they also take on client projects themselves and offer their consulting expertise.
 
-## **Let's try this**
+## Let's try this
 
 **Today, we are happy to announce a cooperation with Modis in the form of a 6-month trial phase, starting on February 1.**
 

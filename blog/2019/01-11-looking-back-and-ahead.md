@@ -11,6 +11,8 @@ In this post, I want to look back at what we accomplished in 2018 and give an ou
 
 It was [pretty, pretty good](https://media.giphy.com/media/d2jjIRvGomz6GMkU/source.gif), to be honest!
 
+<!--truncate-->
+
 Let's start with the hard facts:
 
 - The number of freelancers in our community more than doubled! (from **279** at the beginning of the year to **592** at the end of it)

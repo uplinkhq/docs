@@ -9,6 +9,8 @@ What better way to start the roaring 20s than to meet some fellow freelancers fo
 
 On January 10, we did just that and met at the wonderful [Bräugier Brewpub](https://www.braeugier.de/brewpub/) in Berlin Prenzlauer Berg!
 
+<!--truncate-->
+
 Here are a few photos from the evening:
 
 ![](_MG_9490.jpg)

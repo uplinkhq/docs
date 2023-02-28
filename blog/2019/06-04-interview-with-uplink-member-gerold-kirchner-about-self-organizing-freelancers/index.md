@@ -9,6 +9,8 @@ _Did you ever wonder what other Uplink members are working on? We did. That's wh
 
 Our subject is Gerold Kirchner. Gerold and I met in an Asian restaurant in Berlin-Charlottenburg to talk about his upcoming project which he has been planning for a while: a circle of freelancers working together as a team to reduce the isolation of working solo.
 
+<!--truncate-->
+
 **Henrik** : Hey Gerold, thanks for taking the time to talk about your project! I have these “Ice Breaker Cards” with me, which one of our clients, Equal Experts, brought to our most recent community meetup and found a nice question to start this interview. May I?
 
 **Gerold** : Sure, go for it!
@@ -53,7 +55,7 @@ Our subject is Gerold Kirchner. Gerold and I met in an Asian restaurant in Berli
 
 **Gerold** : Yes. When I read this I looked them up and thought that there are quite a few ideas that go in the same direction. I'm looking to get in contact with them to ask them about their experiences.
 
-**Henrik** : I stumbled upon them a while ago. They are a group of software developers in southern Germany, who committed themselves to work on projects with a purpose. They have their ‘[Selfix Manifesto](https://selfix-manifesto.org/)’ &nbsp;which sets some principles for the group and the work they do. In that sense I was wondering: where do you draw the line between purposeful and not purposeful? Let's say Company A would like you to develop a new software which will help them run things smoother internally. It would help many stakeholders — employees, managers, and customers — to work more efficiently, whereas the purpose of the company remains to be financially profitable. Would this be a project with "purpose", since you are making someone's life easier?
+**Henrik** : I stumbled upon them a while ago. They are a group of software developers in southern Germany, who committed themselves to work on projects with a purpose. They have their ‘[Selfix Manifesto](https://selfix-manifesto.org/)’ which sets some principles for the group and the work they do. In that sense I was wondering: where do you draw the line between purposeful and not purposeful? Let's say Company A would like you to develop a new software which will help them run things smoother internally. It would help many stakeholders — employees, managers, and customers — to work more efficiently, whereas the purpose of the company remains to be financially profitable. Would this be a project with "purpose", since you are making someone's life easier?
 
 ![](selfix-manifesto.png)
 

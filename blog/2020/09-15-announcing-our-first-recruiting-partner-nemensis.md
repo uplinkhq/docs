@@ -9,6 +9,8 @@ tags:
 
 _Update September 16, 2020 - We changed our pricing model slightly and will charge the 3% fee, which we initially planned to charge to the recruiter, to the candidate instead. Also, after feedback from the community, we changed the term "middleman" everywhere (including the new Slack channel names) to "recruiter". Let's call a spade a spade._ 😉
 
+<!--truncate-->
+
 ---
 
 When I founded Uplink back in 2016, my main idea was offering "a fair and transparent alternative to recruiters." In the 8 years before that, I worked as a freelancer and experienced first-hand in many interactions with recruiters, that these parts were often missing - fairness and transparency.

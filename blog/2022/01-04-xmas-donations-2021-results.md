@@ -5,7 +5,7 @@ tags:
 - xmas donations
 ---
 
-Happy New Year! 🎉  
+Happy New Year! 🎉
 We hope you had a wonderful Christmas period and found some time to recharge "between the years".
 
 **Today I'd like to give you the results of our [Xmas Donations campaign](https://uplink.tech/blog/xmas-donations-2021/).**
@@ -17,7 +17,7 @@ I'm happy to report that 78 of our members took part and distributed their virtu
 - 47 members assigned 2,69€ on average to [FragDenStaat](https://fragdenstaat.de/) for a total of 126,50€.
 - 53 members assigned 2,99€ on average to [Traglinge e.V.](https://www.traglinge-ev.de/) for a total of 158,50€.
 
-Thanks to everyone who participated!  
+Thanks to everyone who participated!
 We have decided to double each donation and will transfer the sums within the next days.
 
 ---

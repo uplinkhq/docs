@@ -5,8 +5,10 @@ tags:
 - cooperation
 ---
 
-Wir freuen uns auf eine neue Partnerschaft mit dem Buchhaltungstool [Papierkram](https://www.papierkram.de/). In einem Interview haben wir 7 Fragen an Rainer Rapp gestellt.  
+Wir freuen uns auf eine neue Partnerschaft mit dem Buchhaltungstool [Papierkram](https://www.papierkram.de/). In einem Interview haben wir 7 Fragen an Rainer Rapp gestellt.
 Rainer Rapp arbeitet seit mehr als 6 Jahren bei der odacer finanzsoftware GmbH für das Buchhaltungstool Papierkram. Vor 8 Jahren entstand das Buchhaltungstool aufgrund mangelnder Alternativen und erleichtert mittlerweile die Buchhaltung für viele Freelancer. Im Interview erfahren wir mehr über das Buchhaltungstool und das Team hinter Papierkram.
+
+<!--truncate-->
 
 ### Wie kam die Idee für das Buchhaltungstool Papierkram?
 
@@ -16,9 +18,9 @@ Papierkram ist in einem Unternehmen für Softwareentwicklung und IT-Dienstleistu
 
 Da ist zu einem die schon erwähnte Zeiterfassung und das Projekt-management zu nennen, die bei Papierkram automatisch mit an Bord sind. Zum anderen wurde von Anfang an akribisch darauf geachtet, dass die Bedienung sehr einfach gehalten ist, so dass sich auch nicht-Buchhalter sofort zurechtfinden. Man benötigt keine umfassenden Kenntnisse in Buchhaltung und kann nach der Anmeldung sofort starten. Daher nennen wir Papierkram „Buchhaltungssoftware für normale Menschen, also keine Buchhalter“ ;).
 
-### Mit einem abgeschlossenen Jahresabo bei Papierkram leistet man einen Beitrag zum Klimaschutz. &nbsp;Was steckt dahinter?
+### Mit einem abgeschlossenen Jahresabo bei Papierkram leistet man einen Beitrag zum Klimaschutz. Was steckt dahinter?
 
-Wenn man Papierkram verwendet, leistet man automatisch einen Beitrag zum Klimaschutz, weil man alle Vorgänge digital abwickeln kann und üblicherweise kein Papier benötigt wird. Alle Dokumente lassen sich als   
+Wenn man Papierkram verwendet, leistet man automatisch einen Beitrag zum Klimaschutz, weil man alle Vorgänge digital abwickeln kann und üblicherweise kein Papier benötigt wird. Alle Dokumente lassen sich als
 E-Mail-Anhang oder per Kundenportal direkt aus Papierkram heraus versenden. Außerdem betreiben wir Papierkram seit Beginn in Rechenzentren, die ausschließlich mit Ökostrom betrieben werden. Wir hatten dann gedacht, es wäre schön und passend, wenn wir hier noch einen Schritt weiter gehen und aktive Aufforstung unterstützen. So kam der Kontakt zu natureoffice zustande, einer Klimaschutzagentur, die ebenfalls hier in Wiesbaden sitzt. Seitdem unterstützen wir das PROJEKT TOGO, ein Aufforstungs- und Entwicklungshilfeprojekt in Afrika. Für jedes abgeschlossene Jahresabo spenden wir pro Jahr einen Baum.
 
 ### Hast du Tipps, wie Freelancer am besten ihre Buchhaltung organisieren?

@@ -9,6 +9,8 @@ On June 8, we organized a "Freelance Summer Fest" in cooperation with CodeContro
 
 **It was a fantastic event and about 100 people showed up, many of them members of the Uplink or CodeControl communities, but also new freelancers who had seen the invitations. We really enjoyed spending time together, especially since we hadn't seen many of the people who came by in 2 years due to Corona.**
 
+<!--truncate-->
+
 Events like these are super-important for us (the Uplink team), since so much of what we do is purely online - our community mostly talks to each other and applies to our jobs via Slack, our webinars and (soon to be published) podcast episodes are never in-person, and even the Uplink team itself is completely remote - no two people live in the same city - which is why [we used the occasion to bring the whole team together in Berlin](https://uplink.tech/blog/sollten-sich-remote-teams-von-zeit-zu-zeit-offline-treffen/)!
 
 All in all, the summer fest was a big success, and I'm sure we'll organize one next year as well! And since the collaboration with CodeControl/9am worked nicely as well, we're even thinking about doing a Freelance Winter Fest! 😄

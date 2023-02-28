@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 **Heute: Rust-Experte Bastian Gruber**
 
+<!--truncate-->
+
 ![](IMG_8383.png)
 
 **Bastian, was hat dich dazu bewegt, dich selbstständig zu machen?**

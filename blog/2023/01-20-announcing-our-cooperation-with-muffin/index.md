@@ -9,7 +9,7 @@ We are very happy to announce our brand new cooperation with [muffin](https://ww
 
 <!--truncate-->
 
-What's particularly exciting about muffin is their all-digital approach - &nbsp;you can simply reach out to your insurance broker via WhatsApp and find out, for example, whether it makes sense for you to switch from public to private health insurance.
+What's particularly exciting about muffin is their all-digital approach - you can simply reach out to your insurance broker via WhatsApp and find out, for example, whether it makes sense for you to switch from public to private health insurance.
 
 To kick off our partnership, we hosted a joint webinar with [Simon Moser](https://www.linkedin.com/in/moser-simon/) & [Tomas Gan](https://www.linkedin.com/in/tomas-gan/), two of muffin's co-founders, on “Insurance and Pension 101 for Freelancers”. More than 60 people attended. 🙌
 
@@ -31,4 +31,4 @@ If you missed the webinar, you can rewatch it here:
 
 And if you're interested in the slides that were used, you can find them [here](https://drive.google.com/file/d/1vNt-kayGLiOsJgFhcrMdAhQdqzJkKqOt/view?usp=sharing).
 
-_ **We are looking forward to**  **a long and fruitful**  **cooperation with**  **muffin****!**_
+**We are looking forward to a long and fruitful cooperation with muffin!**

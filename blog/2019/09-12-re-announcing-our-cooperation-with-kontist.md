@@ -5,11 +5,13 @@ tags:
 - cooperation
 ---
 
-**_Update from August 2020 - we reactivated our cooperation with Kontist. Find out the new conditions in our recent Blogpost._**
+**Update from August 2020 - we reactivated our cooperation with Kontist. Find out the new conditions in our recent blog post.**
 
 ---
 
 The Berlin-based FinTech startup Kontist [was our first cooperation partner](https://medium.com/uplink-it-freelancer-network/announcing-uplinks-first-partner-kontist-2484d587528e) and we are still big fans of their business bank account designed for freelancers! Nowadays they're offering even more and help you to stay on top of your business with real-time tax calculation, accounting integrations, and much more.
+
+<!--truncate-->
 
 This is why we're renewing our cooperation by offering Uplink members an even sweeter deal than before: [**starting today, Uplink members get the Kontist premium business bank account for free for 12 months!**](https://kontist.com/offers/uplink?shortlink=uplink&pid=Marketing%20Partnership&af_channel=uplink&af_site_id=uplink100&campaign=lexoffice100)
 

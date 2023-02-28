@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit also, euch unsere Mitglieder ein
 
 **Heute: Agile Coach Britta Ollrogge**
 
+<!--truncate-->
+
 ![](2018_10_22-Britta-Ollrogge-Pressefoto-Panorama-2x3-WEB.jpg)
 
 **Britta, was hat dich dazu bewegt, dich selbstständig zu machen?**
@@ -19,7 +21,7 @@ Als freiberuflicher Agile Coach habe ich da einen anderen Anspruch: Ich vereinba
 
 **Mit welchen Kunden und Technologien arbeitest du am liebsten?**
 
-Mein Fokus liegt auf Kunden in den Branchen Logistik, Transport und Mobilität. Ich begleite die Kunden bei der Umsetzung agiler Transformationsprojekte.   
+Mein Fokus liegt auf Kunden in den Branchen Logistik, Transport und Mobilität. Ich begleite die Kunden bei der Umsetzung agiler Transformationsprojekte.
 Es gibt viele populäre agile Frameworks, wie zum Beispiel Scrum, Kanban und auch welche zur Skalierung von Agilität, wie SAFe, Nexus oder das Spotify-Modell. Agilität ist für mich kein Selbstzweck, sondern hilft, die Organisation und Arbeitsweisen so anzupassen, dass Problemen besser begegnet werden kann. Typische Probleme beim Kunden sind beispielsweise hoher Wettbewerbsdruck, unzufriedene Kunden, eine zu lange Time-to-Market oder auch Schwierigkeiten, gute Mitarbeiter zu finden und zu halten.
 
 Ich beschränke mich bei meiner Beratung nicht auf ein bestimmtes Framework, sondern schaue, welche Probleme den Kunden bewegen und erarbeite mit ihm gemeinsam eine tragfähige Lösung unter Verwendung der hierfür besten Methoden.

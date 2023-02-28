@@ -9,6 +9,8 @@ In beginning of June, the Uplink community in Berlin got together once again to 
 
 Below are a few photos from the evening. If you are an IT freelancer in Berlin, Hamburg, München or anywhere else in Germany and would like to connect with your fellow freelancers, [join us](https://uplink.tech/freelancer/#apply)!
 
+<!--truncate-->
+
 ![](_MG_9029.jpg)
 
 ![](_MG_9037.jpg)

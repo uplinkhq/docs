@@ -5,6 +5,8 @@ authors: manuel
 
 **I love reading [posts](https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/) [like](https://baremetrics.com/blog/tools-and-services-we-use-to-run-our-startup) [these](https://panelbear.com/blog/tech-stack/), in which startups talk about the tech and tools they chose to run their businesses. Even if you don't find something new to use for yourself, it's always interesting to learn about the thought and reasoning that goes into the choices small startups make.**
 
+<!--truncate-->
+
 So let's look at what we use to run [Uplink](https://uplink.tech/), our network for IT freelancers! We're a [team of two](https://uplink.tech/ueber-uns#team) and I am the only engineer, i.e. I've written every line of code and made most of the technical choices. It's quite a special situation with lots of advantages and some disadvantages. 😁 Probably a good topic for another post...
 
 ## Tech
@@ -42,7 +44,7 @@ _Cost: free_
 
 ## Communication
 
-**Slack** powers all of our communication internally and with our freelancer community. We actually run two separate workspaces, one for our community (currently ca. 1.900 members) and one for our team. The community workspace is free - we'd be happy to pay for it, e.g. to remove the limit of only the last 10k messages being accessible, but due to Slack's pricing model it's either free or 6,25€ per active member per month, which would add up to \> 1.000€ per month - not really practical for us. The team workspace is a paid one, though, and we use the great [Slack Connect](https://slack.com/connect) feature with some of our partners.
+**Slack** powers all of our communication internally and with our freelancer community. We actually run two separate workspaces, one for our community (currently ca. 1.900 members) and one for our team. The community workspace is free - we'd be happy to pay for it, e.g. to remove the limit of only the last 10k messages being accessible, but due to Slack's pricing model it's either free or 6,25€ per active member per month, which would add up to > 1.000€ per month - not really practical for us. The team workspace is a paid one, though, and we use the great [Slack Connect](https://slack.com/connect) feature with some of our partners.
 _Cost: $12.50/month_
 
 We use **Notion** as our internal wiki and note-taking tool. It works great and we're very happy with it. We also use their [public pages](https://notion.notion.site/Public-pages-web-publishing-9a1cbda1c1b5438390b93a7ee0f481ae) functionality sometimes to share docs with our members or partners.

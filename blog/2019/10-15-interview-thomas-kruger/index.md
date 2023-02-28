@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 Diese Woche: **Android-Experte Thomas Krüger**
 
+<!--truncate-->
+
 ![](Thomas_Krueger_weWork_1215-1568x1047.jpg)
 
 **Thomas, was hat dich dazu bewegt, dich selbstständig zu machen?**

@@ -3,11 +3,13 @@ title: How to spot unfair freelance contracts
 authors: manuel
 ---
 
-**_Earlier this month the VGSD — Verband der Gründer und Selbstständigen Deutschland e.V. — held an online presentation with lawyer Julia Gertz, who specializes in IT contracts and showed us how to identify unfair service contracts._**
+**Earlier this month the VGSD — Verband der Gründer und Selbstständigen Deutschland e.V. — held an online presentation with lawyer Julia Gertz, who specializes in IT contracts and showed us how to identify unfair service contracts.**
 
 _Please note that we are not lawyers and this post should not be taken as legal advice! Every contract is unique, so if you have one on the table, get it checked by an actual lawyer! (scroll down for Julia Gertz's contact info)_
 
 When the client sets out the rules of how they want to work with the freelancer, it is the case, more often than not, that those rules work in the client’s favor. There seems to be a common belief that, as the smaller party with less legal assertiveness, we have no choice but to accept these rules But our position is stronger than we think: It pays off to inspect the contracts and demand changes to create a level playing field.
+
+<!--truncate-->
 
 ![](inspect-contract.with-cursor.jpg)
 
@@ -38,17 +40,17 @@ A short note on **Sittenwidrigkeit** (unconscionability): There is little legal 
 
 Some contracts contain passages like the following:
 
-> _The contractor_ **_ensures_** _to be knowledgeable in his or her field of expertise to provide the requested service. [...]_
+> The contractor **ensures** to be knowledgeable in his or her field of expertise to provide the requested service. [...]
 
-> _Der Auftragnehmer **sichert zu**, das für die Erbringung der vereinbarten Leistung erforderliche Fachwissen zu besitzen. [...]_
+> Der Auftragnehmer **sichert zu**, das für die Erbringung der vereinbarten Leistung erforderliche Fachwissen zu besitzen. [...]
 
 Let's say you are working in a team of engineers, and because of your[commits from last night](http://www.commitlogsfromlastnight.com/), a team member claims you don't know what you're doing. If your contract contains something like the passage above, your client could make claims for compensation until you prove that you, in fact, do have the required expertise. If you can't, the client may even withdraw from the contract and you will have to return any payments you received.
 
 Another sneaky passage might be the following:
 
-> _[...] to provide the requested service._ In addition, the Freelancer guarantees to appear at the Customer's premises with an appropriate appearance (dress code). **The Freelancer shall be liable in accordance with the legal regulations.**
+> [...] to provide the requested service. In addition, the Freelancer guarantees to appear at the Customer's premises with an appropriate appearance (dress code). **The Freelancer shall be liable in accordance with the legal regulations.**
 
-> _[...] erforderliche Fachwissen zu besitzen._ Außerdem sichert der Auftragnehmer zu, beim Kunden mit angemessenem äußerlichen Erscheinungsbild (Kleiderordnung) aufzutreten. **Der Auftragnehmer haftet nach den gesetzlichen Regelungen.**
+> [...] erforderliche Fachwissen zu besitzen. Außerdem sichert der Auftragnehmer zu, beim Kunden mit angemessenem äußerlichen Erscheinungsbild (Kleiderordnung) aufzutreten. **Der Auftragnehmer haftet nach den gesetzlichen Regelungen.**
 
 An ambiguous passage like the part in **bold** one holds you liable for all damage during or related to the job, including the server you accidentally spilled coffee on or the car you accidentally scratched on your way to work. To give you a really scary example: Let's say you include a library into a project for which a vulnerability was found long after you completed the project. **Based on the passage above, you may be held liable for any damage caused by security leaks which can be traced back to that library you included.** It would be advisable to restrict your liability to reduce unforeseeable risks.
 
@@ -90,7 +92,7 @@ Sometimes, middlemen permit themselves to terminate a contract while prohibiting
 
 To give you a rule of thumb for your contracts: It's not unalterable just because it's printed on paper! If you believe a certain passage in your contract to be to your disadvantage, be brave and tell your contracting partner. The contract they send you is just a proposal; you are free to make a counterproposal. Make sure to ask your contracting partner whether they, or someone in close proximity, have the competence to edit the contract, and include suggestions on how you would like to word the passage instead. There are a number of freelancer's at Uplink who successfully changed their client's contract to balance out their rights and liabilities.
 
-And as Julia Gertz said: Give it a try, it works! Stay friendly and objective, educate yourself on the topic in question and explain your request for changes thoroughly to avoid long and tiresome &nbsp;discussions.
+And as Julia Gertz said: Give it a try, it works! Stay friendly and objective, educate yourself on the topic in question and explain your request for changes thoroughly to avoid long and tiresome discussions.
 
 If you have any questions regarding your contract, don't hesitate to contact Julia Gertz! You will get a special rate if you tell her about your Uplink Membership =)
 

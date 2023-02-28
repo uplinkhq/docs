@@ -8,6 +8,8 @@ tags:
 Before Corona hit Germany in early 2020, we organized a monthly community meetup in Berlin, and it was honestly one of the most fun and energizing party of running Uplink! 😄
 Meeting so many like-minded freelancers and enjoying a few delicious craft beers together reminded us why we had started this community in the first place!
 
+<!--truncate-->
+
 **This is why the past 1,5 years, during which we couldn't organize any in-person meetups, were really painful. We tried to compensate by setting up "online community meetups" a few times but quickly realized they were not the same.**
 
 The pandemic is not over, but a few weeks ago we decided it was safe enough to finally organize another meetup!

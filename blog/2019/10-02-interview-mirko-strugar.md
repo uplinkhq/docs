@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 Diese Woche: **Frontend-Entwickler Mirko Strugar!**
 
+<!--truncate-->
+
 **Mirko, was hat dich dazu bewegt, dich selbstständig zu machen?**
 
 Das war direkt nach meiner allerersten Festanstellung. Ich hatte das Gefühl, ich stecke fest und wollte neue Herausforderungen. Außerdem hat man in großen Konzernen ja auch immer ein Stück weit Politik. Titel und Konzernkarriere haben mich aber nicht so sehr interessiert, sondern ich wollte vor allem spannende und lehrreiche Projekte machen.
@@ -21,17 +23,17 @@ Ich komme ursprünglich aus der Ruby-on-Rails-Ecke, habe aber auch oft nebenher 
 
 **Was sind für dich persönlich die Vorteile des Freelancens? Wo siehst du Schwierigkeiten?**
 
-Grundsätzlich sind vor allem die Flexibilität und die Abwechslung die größten Vorteile für mich.  
-Zum Beispiel die Möglichkeit auch mal einen Monat freizunehmen oder die Arbeitszeit verkürzen zu können, wenn es mal nötig ist.  
-  
-Diese Vorteile bringen allerdings auch so ihre Schwierigkeiten mit sich.  
-Zum Beispiel bin ich nicht so gut darin, mich selbst zu verkaufen, weswegen mir die Akquise immer eher schwer fällt.  
-Aber um möglichst nahtlos ein Anschlussprojekt zu finden, muss man da neben der Arbeit auch immer am Ball bleiben und darf sich nicht zu sehr einrichten.  
-Auch bringt die ganze Freelancerei so ihre bürokratischen Fallstricke und Verpflichtungen mit sich, die alle noch erledigt werden wollen.  
-  
-Und letztendlich ist da auch immer wieder die Problematik mit der Scheinselbstständigkeit, die über allem zu schweben scheint, was über 3 Monate hinaus geht.  
-Das kann auch mal ein Grund sein, dass man ein tolles Projekt vorzeitig dann leider verlassen muss.  
-  
+Grundsätzlich sind vor allem die Flexibilität und die Abwechslung die größten Vorteile für mich.
+Zum Beispiel die Möglichkeit auch mal einen Monat freizunehmen oder die Arbeitszeit verkürzen zu können, wenn es mal nötig ist.
+
+Diese Vorteile bringen allerdings auch so ihre Schwierigkeiten mit sich.
+Zum Beispiel bin ich nicht so gut darin, mich selbst zu verkaufen, weswegen mir die Akquise immer eher schwer fällt.
+Aber um möglichst nahtlos ein Anschlussprojekt zu finden, muss man da neben der Arbeit auch immer am Ball bleiben und darf sich nicht zu sehr einrichten.
+Auch bringt die ganze Freelancerei so ihre bürokratischen Fallstricke und Verpflichtungen mit sich, die alle noch erledigt werden wollen.
+
+Und letztendlich ist da auch immer wieder die Problematik mit der Scheinselbstständigkeit, die über allem zu schweben scheint, was über 3 Monate hinaus geht.
+Das kann auch mal ein Grund sein, dass man ein tolles Projekt vorzeitig dann leider verlassen muss.
+
 Das ist manchmal schon störend, denn trotz aller Abwechslung arbeite ich sehr gerne länger auf besonders interessanten und/oder lehrreichen Projekten, vor allem weil ich bei größeren Projekten meist eh erst ab 6-8 Monaten das Gefühl habe, richtig in der Materie "angekommen" zu sein.
 
 **Nenne uns eine Sache, die man als erfolgreiche/r Freelancer/in unbedingt tun sollte!**
@@ -50,7 +52,7 @@ Buchhaltung und Steuererklärung. Und Projekte, bei denen man sich im Aufwand ve
 
 Ich habe kein wirklich schönstes Kundenprojekt. Ich habe zum Beispiel ein Projekt für eine amerikanische Agentur gemacht, das war von der tatsächlichen Codebase und den Aufgaben her keine große Herausforderung, dafür war aber das Pendeln in die USA und das gesamte Team(work) großartig.
 
-Mein momentanes Projekt ist zwar vor Ort in Berlin, dafür ist es aber mit Abstand das sauberste und am besten organisierte und strukturierte Projekt.  
+Mein momentanes Projekt ist zwar vor Ort in Berlin, dafür ist es aber mit Abstand das sauberste und am besten organisierte und strukturierte Projekt.
 Das Design ist immer lange vor der Implementierung fertig und abgenommen, die Codebase ist sauber, gut verständlich und weist nur wenig Technical Debt auf und der Kunde hat vollstes Vertrauen in das gesamte Team.
 
 **Woran arbeitest du gerade neben deinen Auftragsjobs?**

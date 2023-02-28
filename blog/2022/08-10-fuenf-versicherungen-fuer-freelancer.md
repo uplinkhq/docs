@@ -9,6 +9,8 @@ _Dies ist ein Gastbeitrag von unserem Partner [insureQ](https://www.insureq.de/)
 
 Ein unzufriedener Kunde oder ein Missgeschick bei der Erfüllung eines Auftrags können für Freelancer zur existenziellen Bedrohung werden. So können sich Schadensersatzforderungen schnell im sechsstelligen Bereich bewegen. Effektiv vorbeugen kann man nur mit einer maßgeschneiderten Risikoabsicherung für Freelancer. insureQ bietet eine individuelle Versicherungsberechnung und beantwortet in diesem Beitrag die wichtigsten Fragen zu verschiedenen Policen.
 
+<!--truncate-->
+
 ### Sind Freelancer verpflichtet Versicherungen abzuschließen?
 
 In Deutschland herrscht grundsätzlich eine Krankenversicherungspflicht. Diese Versicherung muss hierzulande also zwingend abgeschlossen werden. Anders als bei einer Anstellung müssen sich Freelancer um diese Versicherung selbst kümmern. Dabei lohnt es sich unverzüglich in Aktion zu treten, um gesundheitlichen und finanziellen Folgen vorzubeugen. Neben der Krankenversicherung ist eine Rentenversicherung ausschließlich für spezifische Berufsgruppen vorgeschrieben. Diese Versicherungspflicht umfasst freiberuflich Tätige, die nicht in einer Versorgungskammer oder der Künstlersozialkasse versichert sind. Die Wichtigkeit einer umfassenden Rentenversicherung für Freelancer sollte zudem nicht unterschätzt werden. Auch eine private Absicherung kann sich neben der gesetzlichen Vorsorge im Alter lohnen. Im gewerblichen Bereich ist die Vermögensschaden-haftpflichtversicherung – auch Berufshaftpflicht genannt – für Rechtsanwälte, Wirtschaftsprüfer, Versicherungsmakler, Notare und Steuerberater vorgeschrieben. Diese Berufsgruppen sind Tag für Tag einem verstärkten Risiko ausgesetzt hohe Vermögensschäden zu verursachen.
@@ -19,7 +21,7 @@ Freelancer ist nicht gleich Freelancer. So gibt es sehr unterschiedliche Branche
 
 ### Vermögensschadenhaftpflicht: Ist diese Versicherung für Freelancer wichtig?
 
-Vor allem für Freelancer in medizinischen oder beratenden Berufen ist eine  
+Vor allem für Freelancer in medizinischen oder beratenden Berufen ist eine
 Vermögensschadenhaftpflicht (Berufshaftpflicht) besonders wichtig und oft sogar eine Pflichtversicherung. Die Vermögensschaden-haftpflichtversicherung deckt finanzielle Schäden Dritter ab, die durch die berufliche Tätigkeit eines Freelancers entstehen. Dazu gehören unter anderem auch die finanziellen Folgen eines Beratungsfehlers oder ein Fristversäumnis, durch das ein finanzieller Schaden beim Kunden verursacht wird.
 
 ### Was ist der Unterschied zwischen einer Betriebs- und Berufshaftpflichtversicherung?

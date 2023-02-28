@@ -9,6 +9,8 @@ On August 30, we invited our Munich-based members out for a beer for the second 
 
 Thanks to [Jeff](https://www.linkedin.com/in/jewgenij-steinhart-57419932/) and [Stefan](https://mad-scientists.com) for hosting this meetup!
 
+<!--truncate-->
+
 ![](IMG_20190830_184409.jpg)
 
 ![](IMG_20190830_184436.jpg)

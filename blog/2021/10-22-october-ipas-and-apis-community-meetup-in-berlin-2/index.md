@@ -11,6 +11,8 @@ On October 14, we returned to our beloved craft beer brewery and bar [Straßenbr
 
 **As expected, it turned out to be a great evening with many tasty beers, and a chance for us to meet some new members from our community!**
 
+<!--truncate-->
+
 Our sponsor for this meetup was [Prepend](https://www.prepend.de/), a digital agency focussed on product development for Mittelstand companies and corporates. The founders [Sebastian](https://www.linkedin.com/in/sebastian-schlaak-3b7a5575/) and [Dennis](https://www.linkedin.com/in/denniskluge/) have been members of our community for a long time, so it was great to see how they are succeeding with their own venture. 🚀
 
 Here are some impressions from the event:

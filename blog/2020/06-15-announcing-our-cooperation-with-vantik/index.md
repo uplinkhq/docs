@@ -5,9 +5,11 @@ tags:
 - cooperation
 ---
 
-\*\*\*Update: our cooperation with Vantik has ended in February 2022\*\*\*
+_Update: our cooperation with Vantik has ended in February 2022_
 
 Recently, some of our members have expressed the wish to learn more about different savings and retirement options for freelancers. A survey during our webinar also revealed that most of the attendees associated the words "_confused_" and "_scared_" with thinking about their pension. Since we also think that the market of pension offerings in Germany is diverse but non-transparent, we wanted to give our members a better overview so that everyone can decide individually on a pension strategy.
+
+<!--truncate-->
 
 **We are pleased that we were able to win Vantik as our partner for this project!** On June 10, we started our first webinar together, during which Florian and Matthias from Vantik presented an overview of how to tackle your private pension as a freelancer.
 

@@ -9,6 +9,8 @@ On July 25, a good chunk of the Berlin Uplink community got together again to en
 
 If you're not yet a member of Uplink but would like to join the local IT freelancer community in Berlin, Hamburg, Munich or any other city in Germany, [sign up](https://uplink.tech/freelancer/#apply)!
 
+<!--truncate-->
+
 ![](_MG_0007.jpg)
 
 ![](_MG_0011.jpg)

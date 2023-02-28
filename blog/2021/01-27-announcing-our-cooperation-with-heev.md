@@ -7,6 +7,8 @@ tags:
 
 Time and again we observe lively discussions in our Slack about the best freelancing tools. The range of tools for accounting, invoicing, or tracking your expenses and time is constantly growing. Many services try to cover the whole range of possibilities. The solutions can often be used by solo entrepreneurs, start-ups and also corporate organisations. However, the issue here is that those tools quickly become overloaded, like huge management tools.
 
+<!--truncate-->
+
 The guys from [Heev](https://heev.me/) started working on an alternative solution, as they could not find any tool that really worked for them.
 
 ## What is the vision of Heev?

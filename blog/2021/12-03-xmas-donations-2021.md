@@ -9,6 +9,8 @@ Just like every year, we'd like to use the Christmas season to give something ba
 
 **This is how it works:** from suggestions from our community, we picked four organizations we'd like to support, and each member gets 5€ (in virtual currency) that they can allocate among them. We (Uplink) will then — after Christmas, when everybody has had the chance to participate — sum up the allocated amounts and donate the money to these organizations.
 
+<!--truncate-->
+
 **These are the organizations we will support this year:**
 
 ## A Bowl of Compassion e.V.
@@ -21,7 +23,7 @@ Just like every year, we'd like to use the Christmas season to give something ba
 
 ## Queer Lexikon e.V.
 
-[Queer Lexikon e.V.](https://queer-lexikon.net/) is a contact point for lesbian, gay, bi+sexual, a\_sexual, a\_romantic, trans, non-binary, inter\*, polyamorous and queer youth and children from rainbow families. Through an online encyclopedia, an anonymous ask box, podcasts, videos, and more, the association provides teens and young adults with free, comprehensive, non-discriminatory, and easily accessible information about sexual and gender diversity, the queer community, and coming out.
+[Queer Lexikon e.V.](https://queer-lexikon.net/) is a contact point for lesbian, gay, bi+sexual, a\_sexual, a\_romantic, trans, non-binary, inter*, polyamorous and queer youth and children from rainbow families. Through an online encyclopedia, an anonymous ask box, podcasts, videos, and more, the association provides teens and young adults with free, comprehensive, non-discriminatory, and easily accessible information about sexual and gender diversity, the queer community, and coming out.
 
 ## Traglinge e.V.
 
@@ -29,5 +31,5 @@ Just like every year, we'd like to use the Christmas season to give something ba
 
 ---
 
-If you're already a Uplink member, you can take part in the [member area](https://my.uplink.tech/community/xmas_donations).  
+If you're already a Uplink member, you can take part in the [member area](https://my.uplink.tech/community/xmas_donations).
 If you're not a member yet, [join us](https://uplink.tech/en/freelancers#apply)! 😁

@@ -7,11 +7,11 @@ tags:
 
 _Dies ist ein Gastbeitrag von unserem Partner Hiscox, einem Versicherungsanbieter, der maßgeschneiderte Versicherungen für Freelancer, Agenturen und Unternehmen anbietet._
 
----
-
 **Was IT-Dienstleister über den Unterschied zwischen einer IT- und Cyber-Versicherung wissen müssen!**
 
 Wenn du dich als IT-Freelancer schon einmal mit der Absicherung deines Business beschäftigt hast, dann bist du vermutlich den Begriffen **Cyber- und IT-Versicherung** begegnet. IT- und Cyber-Risiken stellen aufgrund ihrer Komplexität und Veränderungsdynamik eine leider nach wie vor von vielen Freelancern und Unternehmen unterschätzte Bedrohung dar. Umso wichtiger ist es, den Unterschied zwischen den beiden Risiken zu kennen sowie die Risiken passgenau abzusichern. Denn eines sei vorweggenommen: dass IT- und Cyber-Risiken das Gleiche sind, ist ein gängiger Irrglaube, der leider zu gefährlichen Lücken im Versicherungsschutz führen kann.
+
+<!--truncate-->
 
 ## Was versteht man unter IT-Risiken?
 

@@ -24,6 +24,6 @@ Some highlights of the episode were:
 
 Particularly interesting were the insights on how to make the best use of one's time and how this can define a service. First of all, you have to be aware of what suits you best, what you enjoy doing and with what kind of clients you would most like to work with. Then you have to analyze the potential challenges of the clients and highlight how you have already supported similar clients in the past. Create a playbook - with which methods and processes can you support best? In the final step, you can develop the packages that you can offer.
 
-_ **If you want to know even more about Movers and Makers and get more exciting tips as well as an overview of their offerings for freelancers, check out** _ [_ **their website** _](https://www.moversmakers.eu/) _ **or contact** _ [_ **Max** _](https://www.linkedin.com/in/maxantosch) _**directly. As an Uplink member, you can find a code to a free brainstorming session by Movers and Makers in our [member area](https://my.uplink.tech/partners).**_
+**If you want to know even more about Movers and Makers and get more exciting tips as well as an overview of their offerings for freelancers, check out [their website](https://www.moversmakers.eu/) or contact [Max](https://www.linkedin.com/in/maxantosch) directly. As an Uplink member, you can find a code to a free brainstorming session by Movers and Makers in our [member area](https://my.uplink.tech/partners).**
 
-**_Last but not least, don’t forget to subscribe to our [podcast](https://uplink.tech/podcast) on the platform of your choice!_** 🎧
+**Last but not least, don’t forget to subscribe to our [podcast](https://uplink.tech/podcast) on the platform of your choice!** 🎧

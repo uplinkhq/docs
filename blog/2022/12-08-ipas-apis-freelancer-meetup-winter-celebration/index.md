@@ -11,6 +11,8 @@ The location was our tried and trusted bar [Straßenbräu](https://strassenbraeu
 
 This time, the whole Uplink team (Manuel, Nick, Lea and Maike) was there, since we took the opportunity to get everyone together in Berlin for some team activities in the days after the meetup. As you might know, we are "remote first", so it was the first time in a while that all of us were in the same room! 👯‍♀️ 👯
 
+<!--truncate-->
+
 This was **also** the first time we sold tickets for one of our meetups! They were 5€ each, and served two purposed:
 
 - Firstly, we wanted to test whether selling tickets would let us plan the number of attendees better. In the past, we were never sure how many people would really show up to a meetup, so it was hard to plan ahead, reserve seating etc. This time, 37 ticketst were sold and about 40-50 people showed up - some postponed buying the ticket until after 5pm, when the meetup officially started and Eventbrite wouldn't let you buy a ticket anymore. 🤷‍♂️ So, great success on this front, pretty much everyone who bought a ticket actually showed up! 👌

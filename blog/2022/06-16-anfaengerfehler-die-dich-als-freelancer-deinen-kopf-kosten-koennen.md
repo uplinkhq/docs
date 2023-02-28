@@ -9,6 +9,8 @@ _Dies ist ein Gastbeitrag von René Simon Pfisterer, der seit 2010 in der Digita
 
 Manchmal hat man als Freelancer so viel zu tun, dass man überhaupt nicht mehr weiß, wo einem der Kopf steht, und natürlich möchte man kein einziges Kundenprojekt hintenanstellen. Zeit fürs Networking sollte man dann auch noch haben. Selbst wenn du Nerven aus Stahl hast, kommst du mit einer solch chaotischen Planung früher oder später an deine Grenzen. Aus diesem Grund habe ich hier ein paar Tips für dich, die mir in meinem Alltag sehr helfen.
 
+<!--truncate-->
+
 ## Produktivität
 
 Wenn du den ganzen Tag viel zu tun hast, am Abend aber trotzdem nur einen ganz kleinen Teil deines Pensums abgearbeitet hast, dann warst du nicht produktiv, sondern beschäftigt. Dieses Problem kannst du mit einigen Tricks in den Griff bekommen.
@@ -17,12 +19,12 @@ Wenn du den ganzen Tag viel zu tun hast, am Abend aber trotzdem nur einen ganz k
 
 Beim Zeitmanagement legst du den Fokus darauf, dass du dir die Arbeiten so einteilst, damit diese möglichst schnell erledigt werden.
 
-- Wichtig und eilig --\> diese Aufgaben sofort erledigen
-- Wichtig, aber nicht eilig --\> feste Zeiten einplanen, zu denen die Aufgaben erledigt werden sollen
-- Nicht wichtig, aber eilig --\> diese Aufgaben von jemand anderem erledigen lassen, ansonsten priorisieren
-- Nicht wichtig und nicht eilig --\> Aufgaben können aufgeschoben werden
+- Wichtig und eilig --> diese Aufgaben sofort erledigen
+- Wichtig, aber nicht eilig --> feste Zeiten einplanen, zu denen die Aufgaben erledigt werden sollen
+- Nicht wichtig, aber eilig --> diese Aufgaben von jemand anderem erledigen lassen, ansonsten priorisieren
+- Nicht wichtig und nicht eilig --> Aufgaben können aufgeschoben werden
 
-Hast du deine Aufgaben entsprechend eingeteilt, vergibst du _ **Prioritäten** _ und planst, wie lange du für eine bestimmte Tätigkeit brauchst.
+Hast du deine Aufgaben entsprechend eingeteilt, vergibst du **Prioritäten** und planst, wie lange du für eine bestimmte Tätigkeit brauchst.
 
 ### Nicht nur Tage planen, sondern auch Wochen
 

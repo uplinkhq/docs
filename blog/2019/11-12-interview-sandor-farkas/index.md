@@ -9,6 +9,8 @@ _Die Uplink-Community wächst und wächst. Zeit, euch unsere Mitglieder einmal p
 
 Diese Woche: **Fullstack-Entwickler Sandor Farkas**
 
+<!--truncate-->
+
 ![](Bildschirmfoto-2019-11-11-um-11.30.29.png)
 
 **Sandor, was hat dich dazu bewegt, dich selbstständig zu machen?**

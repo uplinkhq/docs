@@ -5,6 +5,8 @@ authors: manuel
 
 A lot of people are surprised when they hear that [Uplink](https://uplink.tech/) is run by only two people - [Nick](https://www.linkedin.com/in/nick-oestreich-075218135/) and [me](https://www.linkedin.com/in/manuelmeurer/). We do everything ourselves: talking to clients, posting jobs, screening and introducing candidates, sales, marketing, meetups, webinars, etc. Not to mention all the mundane admin tasks needed to run any company (taxes, invoices, contracts, etc.).
 
+<!--truncate-->
+
 We do have plans to grow our team to maybe 4-5 people post-Corona, but we can handle the current workload without problems. What's our secret?
 
 **Three things: limited scope, efficient processes, and a relentless focus on automation.**

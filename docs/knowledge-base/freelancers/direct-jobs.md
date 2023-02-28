@@ -46,7 +46,7 @@ If you prefer, you can move your project list to a separate document to keep you
 
 ### Senior Frontend Developer
 
-> _Sep 2019 - Jun 2020 - Hyper Scale Startup GmbH - Berlin_
+> Sep 2019 - Jun 2020 // Hyper Scale Startup GmbH // Berlin
 
 Supported the client’s development team consisting of 4 frontend and 3 backend developers. Performed development and testing of new features, bugfixing, and integration of a chat tool and different payment providers.
 
