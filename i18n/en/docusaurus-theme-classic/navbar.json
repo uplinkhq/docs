@@ -11,9 +11,9 @@
     "message": "Blog",
     "description": "Navbar item with label Blog"
   },
-  "item.label.Website": {
-    "message": "Website",
-    "description": "Navbar item with label Website"
+  "item.label.Uplink Website": {
+    "message": "Uplink Website",
+    "description": "Navbar item with label Uplink Website"
   },
   "item.label.Slack": {
     "message": "Slack",

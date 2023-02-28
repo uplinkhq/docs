@@ -41,10 +41,10 @@ module.exports = {
           label: 'Blog',
           to: 'blog'
         }, {
-          label: 'Website',
+          label: 'Uplink Website',
           href: 'https://uplink.tech/',
         }, {
-          label: 'Slack',
+          label: 'Community Slack',
           href: 'https://uplinkhq.slack.com',
         }, {
           type: 'localeDropdown',
@@ -63,10 +63,10 @@ module.exports = {
           title: 'Uplink',
           items: [
             {
-              label: 'Website',
+              label: 'Uplink Website',
               href: 'https://uplink.tech/',
             }, {
-              label: 'Slack',
+              label: 'Community Slack',
               href: 'https://uplinkhq.slack.com',
             },
           ],
