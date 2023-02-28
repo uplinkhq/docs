@@ -1,5 +1,3 @@
-/knowledge-base/en/* /en/knowledge-base/:splat 301
-
 /blog/die-besten-podcasts-fuer-freelancer/ /blog/2023/02/06/die-besten-podcasts-fuer-freelancer/ 301
 /blog/announcing-our-cooperation-with-muffin/ /blog/2023/01/20/announcing-our-cooperation-with-muffin/ 301
 /blog/the-tools-and-tech-stack-we-use-to-run-our-startup/ /blog/2021/07/19/the-tools-and-tech-stack-we-use-to-run-our-startup/ 301
@@ -92,26 +90,29 @@
 /blog/results-of-our-xmas-donations-campaign/ /blog/2019/01/16/results-of-our-xmas-donations-campaign/ 301
 /blog/xmas-donations-campaign-2018/ /blog/2018/12/14/xmas-donations-campaign-2018/ 301
 
-/blog/member-news-february-2023/ https://uplink.tech/member-news/member-news-february-2023 301
-/blog/member-news-july-2021/ https://uplink.tech/member-news/member-news-july-2021 301
-/blog/member-news-august-2021/ https://uplink.tech/member-news/member-news-august-2021 301
-/blog/member-news-october-2021/ https://uplink.tech/member-news/member-news-october-2021 301
-/blog/member-news-september-2021/ https://uplink.tech/member-news/member-news-september-2021 301
-/blog/member-news-november-2021/ https://uplink.tech/member-news/member-news-november-2021 301
-/blog/member-news-january-2022/ https://uplink.tech/member-news/member-news-january-2022 301
-/blog/member-news-december-2021/ https://uplink.tech/member-news/member-news-december-2021 301
-/blog/member-news-february-2022/ https://uplink.tech/member-news/member-news-february-2022 301
-/blog/member-news-april-2022/ https://uplink.tech/member-news/member-news-april-2022 301
-/blog/member-news-march-2022/ https://uplink.tech/member-news/member-news-march-2022 301
-/blog/member-news-may-2022/ https://uplink.tech/member-news/member-news-may-2022 301
-/blog/member-news-july-2022/ https://uplink.tech/member-news/member-news-july-2022 301
-/blog/member-news-june-2022/ https://uplink.tech/member-news/member-news-june-2022 301
-/blog/member-news-september-2022/ https://uplink.tech/member-news/member-news-september-2022 301
-/blog/member-news-august-2022/ https://uplink.tech/member-news/member-news-august-2022 301
-/blog/member-news-october-2022/ https://uplink.tech/member-news/member-news-october-2022 301
-/blog/member-news-november-2022/ https://uplink.tech/member-news/member-news-november-2022 301
-/blog/member-news-december-2022/ https://uplink.tech/member-news/member-news-december-2022 301
-/blog/member-news-january-2023/ https://uplink.tech/member-news/member-news-january-2023 301
+/blog/member-news-february-2023/ /member-news/member-news-february-2023 301
+/blog/member-news-july-2021/ /member-news/member-news-july-2021 301
+/blog/member-news-august-2021/ /member-news/member-news-august-2021 301
+/blog/member-news-october-2021/ /member-news/member-news-october-2021 301
+/blog/member-news-september-2021/ /member-news/member-news-september-2021 301
+/blog/member-news-november-2021/ /member-news/member-news-november-2021 301
+/blog/member-news-january-2022/ /member-news/member-news-january-2022 301
+/blog/member-news-december-2021/ /member-news/member-news-december-2021 301
+/blog/member-news-february-2022/ /member-news/member-news-february-2022 301
+/blog/member-news-april-2022/ /member-news/member-news-april-2022 301
+/blog/member-news-march-2022/ /member-news/member-news-march-2022 301
+/blog/member-news-may-2022/ /member-news/member-news-may-2022 301
+/blog/member-news-july-2022/ /member-news/member-news-july-2022 301
+/blog/member-news-june-2022/ /member-news/member-news-june-2022 301
+/blog/member-news-september-2022/ /member-news/member-news-september-2022 301
+/blog/member-news-august-2022/ /member-news/member-news-august-2022 301
+/blog/member-news-october-2022/ /member-news/member-news-october-2022 301
+/blog/member-news-november-2022/ /member-news/member-news-november-2022 301
+/blog/member-news-december-2022/ /member-news/member-news-december-2022 301
+/blog/member-news-january-2023/ /member-news/member-news-january-2023 301
 
 /blog/tag/community-meetup/	/blog/tag/meetup/ 301
+
 /blog/tag/* /blog/tags/:splat 301
+
+/knowledge-base/en/* /en/knowledge-base/:splat 301
