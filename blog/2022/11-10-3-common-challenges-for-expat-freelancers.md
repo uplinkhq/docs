@@ -11,6 +11,8 @@ _Our partner_ [_Expath_](https://www.expath.com/) _offers relocation services in
 
 I was recently asked to outline the classic challenges that foreign freelancers are most vocal about when venturing into the freelance market in Germany. Here’s a quick peek at the first 3 that came to mind.
 
+<!--truncate-->
+
 ## First challenge: get into the country and get permission to stay for the long haul
 
 If you come from Australia, Canada, Japan, Israel, New Zealand, South Korea, UK or the USA, you can legally come to Germany visa-free and apply for a long-term residence permit from within Germany. This ‘visa-free’ stay is valid for 90 days, so you may consider booking an appointment to apply for your permit at the local immigration authorities before you relocate to keep well within the time restrictions. Make sure to secure an appointment to submit your application prior to the expiration of your 90 day ‘visa-free’ stay!

@@ -7,6 +7,8 @@ tags:
 
 We are more than happy to announce our new cooperation with [Movers and Makers](https://www.moversmakers.eu/), who offer a comprehensive set of tools and resources for freelancers providing digital and creative services. Their approach helps freelancers and small agencies to step out of the "time for money" circle and support them to implement value-based services for their businesses. Clients accomplish this through individual consulting, training and workshops about the possibilities of hybrid models of standardized offers.
 
+<!--truncate-->
+
 To kick off our partnership, we talked to the founder Max Antosch in our podcast about how freelancers can manage to sell their work based on value and increase their revenue. 🚀
 
 <emb>https://uplink.tech/podcast/6-weg-von-zeit-fuer-geld-wie-du-es-als-freelancer-schaffst-deine-arbeit-wertbasiert-zu-verkaufen</emb>

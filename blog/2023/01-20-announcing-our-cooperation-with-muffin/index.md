@@ -7,6 +7,8 @@ tags:
 
 We are very happy to announce our brand new cooperation with [muffin](https://www.getmuffin.de/), an insurance service that helps you to select the right insurance package and assists you with the whole setup. They also support you with the management, tracking and switching process from other providers. If you don't speak German, you can complete the entire process in English!
 
+<!--truncate-->
+
 What's particularly exciting about muffin is their all-digital approach - &nbsp;you can simply reach out to your insurance broker via WhatsApp and find out, for example, whether it makes sense for you to switch from public to private health insurance.
 
 To kick off our partnership, we hosted a joint webinar with [Simon Moser](https://www.linkedin.com/in/moser-simon/) & [Tomas Gan](https://www.linkedin.com/in/tomas-gan/), two of muffin's co-founders, on “Insurance and Pension 101 for Freelancers”. More than 60 people attended. 🙌

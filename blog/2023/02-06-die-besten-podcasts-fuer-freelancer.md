@@ -7,6 +7,8 @@ Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Story
   
 **Wir haben für euch die besten Podcasts rund um das Thema Freelancing zusammengestellt! 🎙️**
 
+<!--truncate-->
+
 ## Coaching/Services
 
 <emb>https://www.lynnkuehner.de/bossyourself-podcast/</emb>
