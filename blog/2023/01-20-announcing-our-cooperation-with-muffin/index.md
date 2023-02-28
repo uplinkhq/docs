@@ -19,7 +19,7 @@ Some highlights of the webinar:
 
 - Differences between private and public health insurance
 - Particularities of ETF pension plans
-- Importance of the national "Rentenversicherung" 
+- Importance of the national "Rentenversicherung"
 - Investment strategies for pension schemes
 - Tax aspects of several products and insurance
 

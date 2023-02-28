@@ -25,7 +25,7 @@ This realization coincided with us meeting (or getting back in touch) with [Ben]
 
 **So to cut this already long story short - Nemensis will become our first Recruiting Partner, meaning they will from today use our system and the processes we've build and optimized over the years to post their own jobs to our Slack community, interview with candidates, and introduce them to their own clients.**
 
-We are treating this as an experiment, just like our last recruiter cooperation, and we're ready to pull the plug if we realize it does not work out in the way we intended. **The main goal is to simply get more jobs on our platform** , because that was what we heard from our members over and over in the last months: "Sure, it's lovely you're taking the opportunity during this COVID-19 induced market slump to do webinars, online community meetups, and other gimmicks, _but please bring back the jobs_!"
+We are treating this as an experiment, just like our last recruiter cooperation, and we're ready to pull the plug if we realize it does not work out in the way we intended. **The main goal is to simply get more jobs on our platform**, because that was what we heard from our members over and over in the last months: "Sure, it's lovely you're taking the opportunity during this COVID-19 induced market slump to do webinars, online community meetups, and other gimmicks, _but please bring back the jobs_!"
 
 More job postings make our community more attractive for everyone, since even if you're not really interested in recruiter jobs, you can check them out to stay up-to-date on what is out there, what skills are in demand, and what the hourly rates are in different sectors.
 

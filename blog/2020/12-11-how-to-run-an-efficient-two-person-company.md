@@ -57,7 +57,7 @@ Over the years, we have built automated processes for everything we do, most not
 
 ---
 
-There you go, these are the three things that allow us the luxury of running a small community/software business without risking a burnout. Of course, there is much more to it, and we can count ourselves lucky to have such a great and supportive community around us. But without our focus on a **limited scope, efficient processes, and automation** , I don't think we would be where we are today.
+There you go, these are the three things that allow us the luxury of running a small community/software business without risking a burnout. Of course, there is much more to it, and we can count ourselves lucky to have such a great and supportive community around us. But without our focus on a **limited scope, efficient processes, and automation**, I don't think we would be where we are today.
 
 ---
 

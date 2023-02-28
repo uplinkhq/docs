@@ -5,7 +5,7 @@ tags:
 - meetup
 ---
 
-Last week ,we had the please to host our last IPAs & APIs Freelancer Meetup for the year! 🥳 🍻
+Last week, we had the please to host our last IPAs & APIs Freelancer Meetup for the year! 🥳 🍻
 
 The location was our tried and trusted bar [Straßenbräu](https://strassenbraeu.de/), which we've been to a few times before, and it turned out to be a great evening with many old and new faces!
 

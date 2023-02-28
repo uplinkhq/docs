@@ -36,7 +36,7 @@ What could the reasons be? Sure, it's possible we introduced candidates who are 
 
 ## What are our plans for this year?
 
-Glad you asked! Here are our plans for the **tech** , **team** , and **community** sides of Uplink:
+Glad you asked! Here are our plans for the **tech**, **team**, and **community** sides of Uplink:
 
 ### Tech
 

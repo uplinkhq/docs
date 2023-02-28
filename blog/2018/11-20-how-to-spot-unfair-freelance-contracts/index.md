@@ -40,7 +40,7 @@ Some contracts contain passages like the following:
 
 > _The contractor_ **_ensures_** _to be knowledgeable in his or her field of expertise to provide the requested service. [...]_
 
-> _Der Auftragnehmer **sichert zu** , das für die Erbringung der vereinbarten Leistung erforderliche Fachwissen zu besitzen. [...]_
+> _Der Auftragnehmer **sichert zu**, das für die Erbringung der vereinbarten Leistung erforderliche Fachwissen zu besitzen. [...]_
 
 Let's say you are working in a team of engineers, and because of your[commits from last night](http://www.commitlogsfromlastnight.com/), a team member claims you don't know what you're doing. If your contract contains something like the passage above, your client could make claims for compensation until you prove that you, in fact, do have the required expertise. If you can't, the client may even withdraw from the contract and you will have to return any payments you received.
 
@@ -72,7 +72,7 @@ This passage renders you helpless if the customer doesn't pay the recruiter, wha
 
 Also be careful about payment deadlines. There is no German law that limits them – and the longer your client is allowed to withhold payment, the riskier it is for you. A 45-day payment target is unreasonable for a one-man show.
 
-Note: You can reduce the risk of a payment default on long payment targets through **factoring** , i.e. using a service that pays you 80-90% of your bill now and the rest when the customer settles up. This usually costs 3-4% of the amount in question.
+Note: You can reduce the risk of a payment default on long payment targets through **factoring**, i.e. using a service that pays you 80-90% of your bill now and the rest when the customer settles up. This usually costs 3-4% of the amount in question.
 
 ## Unfair Term of Notice
 

@@ -3,8 +3,8 @@ title: Die besten Podcasts für Freelancer
 authors: lea
 ---
 
-Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Storytelling, Interviews oder Diskussionen, Podcasts sind vielfältig und bieten etwas für jeden Geschmack. Mittlerweile erfüllen Podcasts auch Zwecke, für die vorher andere Medien zuständig waren, und bieten viele Möglichkeiten, Wissen aufzubauen und sich über unterschiedlichste Themen zu informieren.   
-  
+Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Storytelling, Interviews oder Diskussionen, Podcasts sind vielfältig und bieten etwas für jeden Geschmack. Mittlerweile erfüllen Podcasts auch Zwecke, für die vorher andere Medien zuständig waren, und bieten viele Möglichkeiten, Wissen aufzubauen und sich über unterschiedlichste Themen zu informieren.
+
 **Wir haben für euch die besten Podcasts rund um das Thema Freelancing zusammengestellt! 🎙️**
 
 <!--truncate-->
@@ -75,6 +75,6 @@ Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Story
 
 <emb>https://uplink.tech/podcast</emb>
 
-In unserem eigenen Podcast haben wir spannende Menschen aus der Digitalszene zu Gast und sprechen mit ihnen über ihr Business und ihren Werdegang. Der Fokus liegt dabei auf den Themen Remote Work, Selbständigkeit und Entrepreneurship. 👩‍💻  
-  
+In unserem eigenen Podcast haben wir spannende Menschen aus der Digitalszene zu Gast und sprechen mit ihnen über ihr Business und ihren Werdegang. Der Fokus liegt dabei auf den Themen Remote Work, Selbständigkeit und Entrepreneurship. 👩‍💻
+
 **Wenn auch Du gerne mal zu Gast in unserem Podcast sein möchtest, kontaktiere [Nick vom Uplink Team](mailto:nick@uplink.tech)!**
