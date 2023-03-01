@@ -15,11 +15,31 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v3
 
-      - name: Await Cloudflare Pages build and send Slack notification
-        uses: arddluma/cloudflare-pages-slack-notification@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          cache: yarn
+
+      - name: Install JS packages
+        run: yarn install --immutable
+
+      - name: Build
+        run: npm run build
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          project: uplink-docs
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          slackWebHook: ${{ secrets.SLACK_WEBHOOK_URL }}
+          projectName: uplink-docs
+          directory: build
+
+      - name: Notify Slack
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          author_name: GitHub Actions
+          fields: repo,message,workflow,action
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        if: always()
