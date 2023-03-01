@@ -1,11 +1,14 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme             = require('prism-react-renderer/themes/github');
+const darkCodeTheme              = require('prism-react-renderer/themes/dracula');
+const rehypeCloudinaryDocusaurus = require('rehype-cloudinary-docusaurus');
+
+const url = "https://uplink.tech";
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Uplink Docs',
   tagline: 'The Uplink Knowledge Base & Blog',
-  url: 'https://uplink.tech',
+  url: url,
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -126,7 +129,7 @@ module.exports = {
           blogSidebarCount: 10,
           rehypePlugins: [
             [
-              docusaurusCloudinaryRehypePlugin,
+              rehypeCloudinaryDocusaurus,
               {
                 cloudName: "uplinkhq",
                 baseUrl: url
