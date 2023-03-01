@@ -62,8 +62,8 @@ module.exports = {
           label: 'GitHub',
           href: 'https://github.com/uplinkhq/docs',
           position: 'right',
-        },
-      ],
+        }
+      ]
     },
     footer: {
       style: 'dark',
@@ -77,26 +77,23 @@ module.exports = {
             }, {
               label: 'Community Slack',
               href: 'https://uplinkhq.slack.com',
-            },
-          ],
-        },
-        {
+            }
+          ]
+        }, {
           title: 'Login',
           items: [
             {
               label: 'Freelancer Login',
               href: 'https://my.uplink.tech',
-            },
-            {
+            }, {
               label: 'Company Login',
               href: 'https://app.uplink.tech',
-            },
-            {
+            }, {
               label: 'Recruiter Login',
               href: 'https://partners.uplink.tech',
-            },
-          ],
-        },
+            }
+          ]
+        }
       ]
     },
     prism: {
@@ -107,12 +104,13 @@ module.exports = {
       appId: 'K9RDB6VV79',
       apiKey: '137ddb554c86d39a0706b3a11d37928c',
       indexName: 'uplink',
-    },
+    }
   },
   presets: [
     [
       '@docusaurus/preset-classic',
-      {
+      /** @type {import('@docusaurus/preset-classic').Options} */
+      ({
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -136,11 +134,11 @@ module.exports = {
             ]
           ]
         }
-      },
-    ],
+      })
+    ]
   ],
   i18n: {
     defaultLocale: 'de',
-    locales: ['de', 'en'],
-  },
+    locales: ['de', 'en']
+  }
 };
