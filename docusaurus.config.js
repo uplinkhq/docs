@@ -2,13 +2,11 @@ const lightCodeTheme             = require('prism-react-renderer/themes/github')
 const darkCodeTheme              = require('prism-react-renderer/themes/dracula');
 const rehypeCloudinaryDocusaurus = require('rehype-cloudinary-docusaurus');
 
-const url = "https://uplink.tech";
-
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Uplink Docs',
   tagline: 'The Uplink Knowledge Base & Blog',
-  url: url,
+  url: 'https://uplink.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -132,7 +130,7 @@ module.exports = {
               rehypeCloudinaryDocusaurus,
               {
                 cloudName: "uplinkhq",
-                baseUrl: url
+                baseUrl: 'https://docs.uplink.tech'
               }
             ]
           ]
