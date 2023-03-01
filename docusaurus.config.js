@@ -13,6 +13,15 @@ module.exports = {
   organizationName: 'uplinkhq',
   projectName: 'docs',
   trailingSlash: true,
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://res.cloudinary.com'
+      }
+    }
+  ],
   scripts: [
     {
       src: '//cdn.iframe.ly/embed.js?key=8af38be2d6c7c3c47a395519c784880e',
@@ -116,7 +125,16 @@ module.exports = {
         blog: {
           blogTitle: 'The Uplink Blog',
           postsPerPage: 10,
-          blogSidebarCount: 10
+          blogSidebarCount: 10,
+          rehypePlugins: [
+            [
+              docusaurusCloudinaryRehypePlugin,
+              {
+                cloudName: "uplinkhq",
+                baseUrl: url
+              }
+            ]
+          ]
         }
       },
     ],
