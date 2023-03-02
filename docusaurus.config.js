@@ -42,27 +42,25 @@ module.exports = {
       },
       items: [
         {
+          label: 'Blog',
+          to: 'blog'
+        }, {
           label: 'Knowledge Base',
           to: 'knowledge-base'
         }, {
           label: 'Topics',
           to: 'topics'
         }, {
-          label: 'Blog',
-          to: 'blog'
-        }, {
           label: 'Uplink Website',
           href: 'https://uplink.tech/',
+          position: 'right'
         }, {
           label: 'Community Slack',
           href: 'https://uplinkhq.slack.com',
+          position: 'right'
         }, {
           type: 'localeDropdown',
-          position: 'right',
-        }, {
-          label: 'GitHub',
-          href: 'https://github.com/uplinkhq/docs',
-          position: 'right',
+          position: 'right'
         }
       ]
     },
