@@ -3,6 +3,7 @@ title: Join our Xmas Donations Campaign!
 authors: manuel
 tags:
 - xmas donations
+- test
 ---
 
 **We've had a fantastic year here at Uplink — the size of our community more than doubled to almost 600 members, we hosted regular craft beer meetups in Berlin where we had the chance to meet many of our members in person, and we moved to a nicer office — just to name a few highlights of 2018.**
