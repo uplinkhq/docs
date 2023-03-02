@@ -124,14 +124,14 @@ module.exports = {
           postsPerPage: 10,
           blogSidebarCount: 10,
           rehypePlugins: [
-            [
+            process.env.NODE_ENV === 'production' && [
               rehypeCloudinaryDocusaurus,
               {
                 cloudName: "uplinkhq",
                 baseUrl: 'https://docs.uplink.tech'
               }
             ]
-          ]
+          ].filter(Boolean)
         }
       })
     ]
