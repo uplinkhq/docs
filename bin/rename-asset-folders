@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+require "fileutils"
+
+FileUtils.chdir "build" do
+  %w(assets images).each do |folder|
+    FileUtils.mv folder, "docs-#{folder}"
+  rescue Errno::ENOENT
+  end
+
+  Dir["**/*"].each do |file|
+    ext = File.extname(file).delete('.')
+
+    next unless %w(html js xml).include?(ext)
+
+    content = File.read(file)
+
+    changed = {
+      %r(([/"])assets/)                 => "\\1docs-assets/",
+      %r((?<!docs-assets)([/"])images/) => "\\1docs-images/"
+    }.map { content.gsub! _1, _2 }
+     .any?
+
+    if changed
+      File.write(file, content)
+    end
+  end
+end

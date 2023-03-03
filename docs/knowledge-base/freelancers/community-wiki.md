@@ -18,11 +18,11 @@ The goal is for it to become a comprehensive collection of questions and answers
 
 This is how it works: every member can easily suggest to add a Slack message to the Community Wiki using a [message shortcut](https://slack.com/help/articles/360004063011-Work-with-apps-in-Slack-using-shortcuts#message-shortcuts):
 
-![](/img/community-wiki-message-action.png)
+![](/images/community-wiki-message-action.png)
 
 A modal will open where you can select tags, suggest missing tags, and enter a comment:
 
-![](/img/community-wiki-modal.png)
+![](/images/community-wiki-modal.png)
 
 After submitting, the Uplink admin team will  check the suggestion and ask the author of the message if he is okay with his message appearing in the Community Wiki. If so, the message will then show up in the [Community Wiki in the member area](https://my.uplink.tech/community/wiki).
 

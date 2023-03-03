@@ -26,6 +26,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Rename asset folders
+        run: bin/rename-asset-folders
+
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:

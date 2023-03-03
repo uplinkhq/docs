@@ -10,7 +10,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'images/favicon.ico',
   organizationName: 'uplinkhq',
   projectName: 'docs',
   trailingSlash: true,
@@ -38,7 +38,7 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'Uplink',
-        src: 'img/logo.png',
+        src: 'images/logo.png'
       },
       items: [
         {
