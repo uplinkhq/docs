@@ -3,9 +3,12 @@
 require "fileutils"
 
 FileUtils.chdir "build" do
-  %w(assets images).each do |folder|
-    FileUtils.mv folder, "docs-#{folder}"
-  rescue Errno::ENOENT
+  [nil, "en"].each do |dir|
+    %w(assets images).each do |subdir|
+      path, new_path = [subdir, "docs-#{subdir}"].map { File.join [dir, _1].compact }
+      FileUtils.mv path, new_path
+    rescue Errno::ENOENT
+    end
   end
 
   Dir["**/*"].each do |file|
