@@ -38,7 +38,8 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'Uplink',
-        src: 'images/logo.png'
+        src: 'images/logo.png',
+        href: 'https://uplink.tech/' // Set explicitly, otherwise "/" is assumed and a broken link error is thrown.
       },
       items: [
         {
