@@ -35,6 +35,10 @@ module.exports = {
     }
   ],
   themeConfig: {
+    image: 'images/logo.png',
+    colorMode: {
+      respectPrefersColorScheme: false
+    },
     navbar: {
       logo: {
         alt: 'Uplink',
