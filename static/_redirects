@@ -113,7 +113,6 @@
 /blog/member-news-january-2023/ /member-news/member-news-january-2023 301
 
 /blog/tag/community-meetup/	/blog/tag/meetup/ 301
-
+/en/blog/* /blog/:splat 301
 /blog/tag/* /blog/tags/:splat 301
-
 /knowledge-base/en/* /en/knowledge-base/:splat 301
