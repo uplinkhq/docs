@@ -34,7 +34,7 @@ Aus diesen Gründen haben wir uns für eine Pauschalsumme anstatt einer prozentu
 
 Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen sein, die für unser Modell der [Direktbeauftragung](../companies/direct-engagement.md) in Frage kommen, tendenziell also eher KMU, Startups und Agenturen. Darüber hinaus sollte der Kunde zum Zeitpunkt der Empfehlung (oder in absehbarere Zukunft) konkret einen Freelancer suchen.
 
-## **Bereis bekannte Kunden**
+## **Bereits bekannte Kunden**
 
 Natürlich kann es immer vorkommen, dass wir den empfohlenen Kunden oder das Projekt schon kennen, entweder durch eine andere Empfehlung oder eine frühere Zusammenarbeit. In diesem Fall teilen wir das dem Freelancer natürlich sofort mit.
 
