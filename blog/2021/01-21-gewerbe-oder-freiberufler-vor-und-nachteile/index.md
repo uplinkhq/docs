@@ -1,9 +1,10 @@
 ---
 title: Gewerbe oder Freiberufler? Vor- und Nachteile einfach erklärt
+image: ./header.png
 authors: manuel
 ---
 
-![](header.svg)
+![](header.png)
 
 Pauschal lässt sich die Frage, ob ein Gewerbe oder eine freiberufliche Tätigkeit besser ist, nicht direkt beantworten. Dies hängt ganz speziell von deinem Vorhaben und deiner Tätigkeit ab. Welche Vor- und Nachteile ein Gewerbe oder eine freiberufliche Tätigkeit jedoch im Allgemeinen haben, und was du vor deiner Wahl für eine der beiden Formen der Selbstständigkeit beachten musst, erfährst du in diesem Beitrag.
 
