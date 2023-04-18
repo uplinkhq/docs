@@ -1,5 +1,6 @@
 ---
 title: Die besten Podcasts für Freelancer
+description: Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Storytelling, Interviews oder Diskussionen, Podcasts sind vielfältig und bieten etwas für jeden Geschmack. Mittlerweile erfüllen Podcasts auch Zwecke, für die vorher andere Medien zuständig waren, und bieten viele Möglichkeiten, Wissen aufzubauen und sich über unterschiedlichste Themen zu informieren.
 image: ./header.png
 authors: lea
 ---
