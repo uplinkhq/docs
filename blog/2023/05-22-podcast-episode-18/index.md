@@ -3,6 +3,8 @@ title: "Podcast Episode 18: Member Spotlight - Manuel Wenner über seine Erfahru
 description: In dieser Episode des Uplink Podcasts sprechen wir mit Manuel Wenner aus der Uplink Community.
 image: ./header.png
 authors: manuel
+tags:
+- podcast
 ---
 
 ![](header.png)
