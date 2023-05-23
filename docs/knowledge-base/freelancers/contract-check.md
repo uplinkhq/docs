@@ -10,7 +10,7 @@ Some of the most common questions we have seen over the years in our Slack works
 
 What can you do when faced with such a contract? You could google certain clauses that sound fishy or ask other freelancers in a community like Uplink, but you can't be sure that the answers you receive are substantiated. Alternatively, you could try to find a lawyer specialized in these kinds of contracts, but it takes time to do so and you might end up spending several hundreds of Euros and not receive a satisfactory assessment either.
 
-**So we decided to team up with an experienced lawyer and offer contract checks as a service!** For a flat fee of 200€ (excl. VAT) our lawyer will review your contract and point out common pitfalls, exaggerated fees, and everything else you should be aware of.
+**So we decided to team up with an experienced lawyer and offer contract checks as a service!** For a flat fee of 300€ (+ VAT) our lawyer will review your contract and point out common pitfalls, exaggerated fees, and everything else you should be aware of.
 
 ## **How it works**
 
@@ -18,7 +18,7 @@ We tried to keep the process as simple as possible:
 
 1. You upload the recruiter contract [in our member area](https://my.uplink.tech/services/contract_checks) and answer a form with a few basic questions.
 2. Our lawyer will do a quick review of the contract and your answers. If everything looks good, he will start checking your contract immediately. If he has follow-up questions, he will contact you via email or Slack.
-3. You will receive the annotated contract and our invoice (200€ + 19% VAT) within 3 working days.
+3. You will receive the annotated contract and our invoice (300€ + VAT) within 3 working days.
 4. If anything is unclear, you are welcome to contact our lawyer and he will explain his annotations. Please note though that extensive follow-up questions or suggestions for alternative phrasings are **not** included in the original fee.
 
 ## Satisfaction guaranteed or your money back!
