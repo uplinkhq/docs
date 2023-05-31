@@ -1,5 +1,5 @@
 ---
-title: Mit Freelancern die Chancen der Krise nutzen
+title: "Chance statt Krise: Mit Freelancern die Chancen der Krise nutzen"
 description: "Wie sagte schon einst Winston Churchill? “Never let a good crisis go to waste.” Für viele Freelancer war die Pandemie die Sternstunde ihrer beruflichen Karriere, während Unternehmen von heute auf morgen ihren Betrieb sowie sämtliche Prozesse umkrempeln mussten. Doch wie können auch Unternehmen die derzeitige Krise nutzen und, viel mehr noch, auf Herausforderungen in der Zukunft mit einer gewissen Planungssicherheit antworten? Die kurze Antwort: Freelancer. Welche Möglichkeiten sich dadurch eröffnen, erfahrt ihr in diesem Artikel."
 image: ./header.png
 authors: manuel
