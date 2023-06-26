@@ -1,5 +1,5 @@
 ---
-title: "Podcast Episode 18: Member Spotlight - Manuel Wenner"
+title: "Podcast Episode 18: Manuel Wenner"
 description: "In dieser Episode spreche ich mit Manuel Wenner aus der Uplink Community. Manuel hat in seiner Laufbahn schon einiges erlebt: er hat eine Agentur mitgegründet und 8 Jahre lang geführt, war danach CTO eines Startup Studios und hat u.a. für Daimler kleine Teams bei der MVP-Entwicklung begleitet, ist Dozent an der DHBW und seit Dezember 2022 wieder als Vollzeit-Freelancer aktiv."
 image: ./header.png
 authors: manuel

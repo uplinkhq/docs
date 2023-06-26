@@ -1,5 +1,5 @@
 ---
-title: "Podcast Episode 19: Member Spotlight - Karla Schönicke"
+title: "Podcast Episode 19: Karla Schönicke"
 description: In dieser Episode des Uplink Podcasts sprechen wir mit Karla Schönicke aus der Uplink Community.
 image: ./header.png
 authors: nick

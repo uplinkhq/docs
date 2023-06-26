@@ -1,6 +1,6 @@
 ---
-title: "Podcast Episode 20: Freelancer-Kompass 2023 - im Gespräch mit Thomas Maas von freelancermap zur aktuellen Ausgabe der Marktstudie für Freelancer, Selbstständige und Freiberufler"
-description: In dieser Episode des Uplink Podcasts sprechen wir...
+title: "Podcast Episode 20: Thomas Maas"
+description: Freelancer-Kompass 2023 - im Gespräch mit Thomas Maas von freelancermap zur aktuellen Ausgabe der Marktstudie für Freelancer, Selbstständige und Freiberufler
 image: ./header.png
 authors: manuel
 tags:
@@ -15,16 +15,16 @@ Thomas verrät uns die wichtigsten Erkenntnisse der aktuellen Studie und teilt s
 
 Ressourcen, die in dieser Episode erwähnt werden:
 
-Freelancer-Kompass 2023
+Freelancer-Kompass 2023<br />
 https://www.freelancermap.de/marktstudie
 
-Arc Browser
+Arc Browser<br />
 https://arc.net/
 
-Fest und Flauschig
+Fest und Flauschig<br />
 https://open.spotify.com/show/1OLcQdw2PFDPG1jo3s0wbp
 
-"Noch wach?" von Benjamin von Stuckrad-Barre
+"Noch wach?" von Benjamin von Stuckrad-Barre<br />
 https://www.amazon.de/gp/product/B0BJQLCJDL/
 
 <!--truncate-->
