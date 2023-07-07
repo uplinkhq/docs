@@ -1,15 +1,12 @@
-import React       from "react"
-import BrowserOnly from "@docusaurus/BrowserOnly"
+import React from "react"
 
 export default function Embed({ children }) {
+  React.useEffect(() => {
+    window.iframely.load()
+  }, [])
+
   return (
     <>
-      <BrowserOnly>
-        {() => {
-          if (window.iframely)
-            window.iframely.load()
-        }}
-      </BrowserOnly>
       <div className="iframely-embed">
         <div className="iframely-responsive">
           <a data-iframely-url="" href={children}></a>
