@@ -12,7 +12,7 @@ What can you do when faced with such a contract? You could google certain clause
 
 **So we decided to team up with an experienced lawyer and offer contract checks as a service!** For a flat fee of 300€ (+ VAT) our lawyer will review your contract and point out common pitfalls, exaggerated fees, and everything else you should be aware of.
 
-## **How it works**
+## How it works
 
 We tried to keep the process as simple as possible:
 

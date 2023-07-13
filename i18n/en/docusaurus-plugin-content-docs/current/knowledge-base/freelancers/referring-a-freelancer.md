@@ -14,7 +14,7 @@ The Uplink community grows primarily through the referrals of its members! We ar
 
 We will contact the winner via Slack or email and also mention them (with their permission) in the Slack channel [#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA).
 
-## **Participate**
+## Participate
 
 There are two ways to refer freelancers:
 

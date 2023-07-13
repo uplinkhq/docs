@@ -14,13 +14,13 @@ There are three ways to refer a client:
 * **Intro** - an intro via email or LinkedIn is often the quickest and most effective way to connect us to a specific contact. The email should be addressed to hello@uplink.tech and the client, and include a brief introduction of both parties. We will then take over and arrange an initial meeting with the client.
 * **Tip** - if the freelancer does not know of a specific contact at the company, they can also simply send us a tip via email or Slack that a client is currently looking for a freelancer. We will then try to get in touch with the company and this will count as recommended by the freelancer.
 
-## **Payout**
+## Payout
 
 As soon as we take over the process after an intro or a tip, or when a client sends us a request via the referral link, it is automatically stored which freelancer recommended the client. When we then publish the client's first job, we contact the freelancer who referred the client immediately afterwards - likewise if we were successful in placing a candidate for the job.
 
 Payment is then made via a [credit note](https://www.informer.eu/de/buchhaltung-wiki/lexikon-fur-buchhaltung/gutschrift-was-ist-eine-gutschrift/). For this purpose the freelancer has to enter his invoicing data and bank account details in the member area, so that the amount can be transferred.
 
-## **Lump sum instead of percentage**
+## Lump sum instead of percentage
 
 One question that comes up quite often is why we don't offer a percentage share of the revenue we earn from the new client instead of a lump sum.
 There are two reasons for this:
@@ -30,11 +30,11 @@ There are two reasons for this:
 
 For these reasons, we opted for a lump sum instead of a percentage.
 
-## **Suitable clients**
+## Suitable clients
 
 Which clients are suitable for a referral? In general, they should be companies that are a match for our [direct engagement](../companies/direct-engagement.md) model, which tend to be SMEs, startups and agencies. In addition, the client should be specifically looking for a freelancer at the time of the recommendation (or in the foreseeable future).
 
-## **Already known clients**
+## Already known clients
 
 Of course, it can always happen that we already know the recommended client or project, either through another referral or a previous collaboration. In this case, we will of course let the freelancer know immediately.
 

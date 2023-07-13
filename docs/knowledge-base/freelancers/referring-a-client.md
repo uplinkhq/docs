@@ -14,13 +14,13 @@ Es gibt drei Wege, einen Kunden zu empfehlen:
 * **Intro** - eine Intro per E-Mail oder LinkedIn ist oft der schnellste und effektivste Weg, um uns mit einem konkreten Ansprechpartner eines Kunden zu verknüpfen. Die E-Mail sollte an hello@uplink.tech und den Kunden adressiert sein und eine kurze Vorstellung beider Seiten enthalten. Wir übernehmen dann und verabreden ein Erstgespräch mit dem Kunden.
 * **Tipp** - falls dem Freelancer kein konkreter Ansprechpartner beim Kunden bekannt ist, kann er uns auch einfach per E-Mail oder Slack einen Tipp schicken, dass ein Kunde aktuell einen Freelancer sucht. Wir versuchen dann, mit dem Unternehmen Kontakt aufzunehmen und werten dieses dann auch als vom Freelancer empfohlen.
 
-## **Auszahlung**
+## Auszahlung
 
 Sobald wir nach einer Intro oder einem Tipp den Prozess übernehmen bzw. wenn ein Kunde über den Referral Link eine Anfrage bei uns stellt, ist automatisch hinterlegt, welcher Freelancer den Kunden empfohlen hat. Wenn wir dann den ersten Job des Kunden veröffentlichen, kontaktieren wir direkt danach den Freelancer, der den Kunden geworben hat - ebenso, wenn wir erfolgreich einen Kandidaten für den Job vermitteln konnten.
 
 Die Auszahlung erfolgt dann über eine [Gutschrift](https://www.informer.eu/de/buchhaltung-wiki/lexikon-fur-buchhaltung/gutschrift-was-ist-eine-gutschrift/). Dazu muss der Freelancer im Mitgliederbereich seine Rechnungsdaten und Kontoverbindung hinterlegen, damit der Betrag überwiesen werden kann.
 
-## **Pauschale statt prozentuale Beteiligung**
+## Pauschale statt prozentuale Beteiligung
 
 Eine Frage, die oft gestellt wird, ist, warum wir nicht statt eines Pauschalbetrags eine prozentuale Beteiligung an dem Umsatz, den wir an dem neuen Kunden verdienen, anbieten.
 Dafür gibt es zwei Gründe:
@@ -30,11 +30,11 @@ Dafür gibt es zwei Gründe:
 
 Aus diesen Gründen haben wir uns für eine Pauschalsumme anstatt einer prozentualen Beteiligung entschieden.
 
-## **Passende Kunden**
+## Passende Kunden
 
 Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen sein, die für unser Modell der [Direktbeauftragung](../companies/direct-engagement.md) in Frage kommen, tendenziell also eher KMU, Startups und Agenturen. Darüber hinaus sollte der Kunde zum Zeitpunkt der Empfehlung (oder in absehbarere Zukunft) konkret einen Freelancer suchen.
 
-## **Bereits bekannte Kunden**
+## Bereits bekannte Kunden
 
 Natürlich kann es immer vorkommen, dass wir den empfohlenen Kunden oder das Projekt schon kennen, entweder durch eine andere Empfehlung oder eine frühere Zusammenarbeit. In diesem Fall teilen wir das dem Freelancer natürlich sofort mit.
 
