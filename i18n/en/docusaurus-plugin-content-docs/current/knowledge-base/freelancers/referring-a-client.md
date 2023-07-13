@@ -39,3 +39,9 @@ Which clients are suitable for a referral? In general, they should be companies 
 Of course, it can always happen that we already know the recommended client or project, either through another referral or a previous collaboration. In this case, we will of course let the freelancer know immediately.
 
 If a freelancer wants to check if we already know the client before rererring them, they can also contact us at any time and describe the client or project so we can tell them if we already know them! 😄
+
+## "Double the Coins" campaigns {#double-the-coins}
+
+At irregular intervals, we run "Double the Coins" campaigns, where our members get double the reward for a successful referral, i.e. 500€ if we post a job from the client, and another 500€ if we can refer a candidate.
+
+The campaigns are announced in our Member News, in [Slack](our-slack.md) and on our blog.

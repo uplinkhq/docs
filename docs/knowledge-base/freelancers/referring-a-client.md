@@ -39,3 +39,9 @@ Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen 
 Natürlich kann es immer vorkommen, dass wir den empfohlenen Kunden oder das Projekt schon kennen, entweder durch eine andere Empfehlung oder eine frühere Zusammenarbeit. In diesem Fall teilen wir das dem Freelancer natürlich sofort mit.
 
 Wenn ein Freelancer vor einer Empfehlung prüfen will, ob wir den Kunden bereits kennen, kann er uns auch jederzeit kontaktieren und den Kunden oder das Projekt beschreiben, so dass wir ihm sagen können, ob wir ihn schon kennen! 😄
+
+## "Double the Coins" Kampagnen {#double-the-coins}
+
+In unregelmäßigen Abständen fahren wir "Double the Coins" Kampagnen, bei denen unsere Mitglieder bei einer erfolgreichen Empfehlung die doppelte Belohnung bekommen, d.h. 500€, wenn wir einen Job des Kunden posten, und noch einmal 500€, wenn wir einen Kandidaten vermitteln können.
+
+Angekündigt werden die Kampagnen in unseren Member News, im [Slack](our-slack.md) und auf unserem Blog.
