@@ -55,6 +55,8 @@ Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Story
 
 <emb>https://www.free-talent.de/</emb>
 
+<emb>https://open.spotify.com/show/3JMi0kr6isp9tKShr5jCIU</emb>
+
 <emb>https://www.thefreelancertalk.com/</emb>
 
 <emb>https://www.harriethadfield.com/fwf-podcast</emb>
