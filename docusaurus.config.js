@@ -4,7 +4,7 @@ const rehypeCloudinaryDocusaurus = require('rehype-cloudinary-docusaurus');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Uplink Docs',
+  title: 'Uplink',
   tagline: 'The Uplink Knowledge Base & Blog',
   url: 'https://uplink.tech',
   baseUrl: '/',
