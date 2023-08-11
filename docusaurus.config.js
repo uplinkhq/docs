@@ -37,7 +37,7 @@ module.exports = {
   themeConfig: {
     image: 'images/logo.png',
     colorMode: {
-      respectPrefersColorScheme: false
+      respectPrefersColorScheme: true
     },
     navbar: {
       logo: {
