@@ -2,7 +2,7 @@
 title: "The Power of Diversity: Warum wir dringend mehr Diversität & Inklusion in der Tech-Branche brauchen"
 description: Tech- und Startup-Unternehmen tragen zu den bahnbrechendsten Produkten der heutigen Zeit bei. Von „Innovationen" ist dann schnell die Rede.
 image: ./header.jpg
-authors: manuel
+authors: nick
 tags:
 - podcast
 ---
