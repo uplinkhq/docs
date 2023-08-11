@@ -2,7 +2,7 @@
 title: Freelance Summer Fest 2023 Recap
 description: Last month, we hosted our second annual Freelance Summer Fest, a joint effort with our favorite competitors CodeControl and 9am!
 image: ./header.png
-authors: manuel
+authors: nick
 ---
 
 ![](header.png)
