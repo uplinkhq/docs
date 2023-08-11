@@ -17,6 +17,8 @@ Their insurance options range from business liability and professional liability
 
 To kick off our partnership, we talked to [Koen Thijssen](https://www.linkedin.com/in/koen-thijssen-2558462a/), Founder and CEO of insify, in our podcast. He shared his best practices for to team building and prioritization, and we talked about the InsurTech industry's particularities and the commonalities between investment banking and the insurance industry. **Stay tuned - the episode will be released in early September!** 🚀
 
+<!--truncate-->
+
 To give you a better impression of our newest partner, we asked insify these five tough questions:
 
 ## What makes you stand out amongst other insurance providers in Europe?

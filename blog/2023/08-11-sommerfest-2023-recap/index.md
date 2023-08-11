@@ -14,6 +14,8 @@ It was really fantastic to meet so many of you that we previously only knew from
 
 Thanks to everyone who joined us and thank you all for making Uplink such a special place. 🧡
 
+<!--truncate-->
+
 ![](020.png)
 
 ![](021.png)

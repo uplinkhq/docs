@@ -10,6 +10,8 @@ draft: true
 
 Das Thema "Künstliche Intelligenz" erlebt in den letzten 12 Monaten einen regelrechten Hype, und auch in der Buchhaltung wird KI immer häufiger genutzt. Doch welche Aufgaben können von KI übernommen werden und wo sind die Grenzen? Wir haben mit Tino Keller, Co-Founder & Managing Director von [Accountable](https://www.accountable.de/), über Tools sowie Chancen und Grenzen von KI in der Buchhaltung gesprochen. 🤖
 
+<!--truncate-->
+
 :::tip
 
 Als Uplink-Mitglied erhältst du die Pro Version von Accountable mit allen Funktionen für 6 Monate kostenlos! Alle Infos dazu findest du im [Uplink Mitgliederbereich](https://my.uplink.tech/partners/).
