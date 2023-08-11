@@ -1,7 +1,7 @@
 ---
 title: Announcing our cooperation with insify
 description: Announcing our cooperation with insify
-image: ./header.png
+image: ./og_image.png
 authors: nick
 tags:
 - cooperation
