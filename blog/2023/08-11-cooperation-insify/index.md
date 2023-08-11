@@ -3,7 +3,6 @@ title: Announcing our cooperation with insify
 description: Announcing our cooperation with insify
 image: ./header.png
 authors: nick
-draft: true
 tags:
 - cooperation
 ---
