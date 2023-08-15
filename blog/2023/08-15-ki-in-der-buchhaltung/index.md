@@ -3,7 +3,6 @@ title: KI in der Buchhaltung - Interview mit Tino Keller von Accountable
 description: Das Thema "Künstliche Intelligenz" erlebt in den letzten 12 Monaten einen regelrechten Hype, und auch in der Buchhaltung wird KI immer häufiger genutzt. Doch welche Aufgaben können von KI übernommen werden und wo sind die Grenzen?
 image: ./header.jpg
 authors: nick
-draft: true
 ---
 
 ![](header.jpg)
