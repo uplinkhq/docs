@@ -6,7 +6,9 @@ tags:
 - freelance-radar
 ---
 
-Unser aktueller Freelance Radar zeigt, dass zwar fast die Hälfte der Befragten ihre aktuelle Projektsituation als schlechter einschätzt als zur gleichen Zeit im letzten Jahr, dass aber 57% der Befragten erwarten, dass sich dies in der zweiten Jahreshälfte ändern wird.
+In unserer ersten "Freelance Radar"-Umfrage aus dem Juli 2023 haben 217 Mitglieder unserer Community unsere Fragen zu ihrer aktuellen Projektsituation, ihrem Stundensatz und ihren Geschäftsaussichten beantwortet.
+
+Die Ergebnisse zeigen, dass zwar fast die Hälfte der Befragten ihre aktuelle Projektsituation schlechter einschätzt als zur gleichen Zeit im Vorjahr, aber 57% von ihnen erwarten, dass sich dies in der zweiten Jahreshälfte ändern wird.
 
 <!--truncate-->
 
