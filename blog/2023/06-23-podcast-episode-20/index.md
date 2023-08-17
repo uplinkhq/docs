@@ -11,6 +11,8 @@ tags:
 
 Heute spreche ich mit Thomas Maas, dem Geschäftsführer von freelancermap, einer der größten deutschsprachigen Plattformen für Freelancer. Unser Thema ist der aktuelle "Freelancer-Kompass", die Marktstudie für Freelancer, Selbstständige und Freiberufler, die freelancermap in diesem Jahr zum achten Mal durchgeführt hat.
 
+<!--truncate-->
+
 Thomas verrät uns die wichtigsten Erkenntnisse der aktuellen Studie und teilt seine Sicht auf die aktuellen Entwicklungen im Freelancer-Markt mit uns. Darüber hinaus besprechen wir, wie die nächste Generation den Arbeits- und Freelancermarkt prägen wird.
 
 Ressourcen, die in dieser Episode erwähnt werden:
@@ -27,7 +29,6 @@ https://open.spotify.com/show/1OLcQdw2PFDPG1jo3s0wbp
 "Noch wach?" von Benjamin von Stuckrad-Barre<br />
 https://www.amazon.de/gp/product/B0BJQLCJDL/
 
-<!--truncate-->
 
 Hier könnt ihr euch die Episode anhören:
 
