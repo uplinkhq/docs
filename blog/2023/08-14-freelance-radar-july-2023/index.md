@@ -1,10 +1,13 @@
 ---
 title: Freelance Radar July 2023
 description: Die Ergebnisse unserer aktuellen "Freelance Radar" Umfrage unter den Mitgliedern unserer Community.
+image: ./header.jpg
 authors: manuel
 tags:
 - freelance-radar
 ---
+
+![](header.jpg)
 
 In unserer ersten "Freelance Radar"-Umfrage aus dem Juli 2023 haben 217 Mitglieder unserer Community unsere Fragen zu ihrer aktuellen Projektsituation, ihrem Stundensatz und ihren Geschäftsaussichten beantwortet.
 
