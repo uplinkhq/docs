@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Embed({ children }) {
   React.useEffect(() => {
-    window.iframely.load()
+    window.iframely?.load()
   }, [])
 
   return (
