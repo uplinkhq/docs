@@ -5,7 +5,6 @@ image: "./header.png"
 authors: nick
 tags:
 - podcast
-draft: true
 
 ---
 
