@@ -15,7 +15,7 @@ Heute spreche ich mit Thomas Maas, dem Geschäftsführer von freelancermap, eine
 
 Thomas verrät uns die wichtigsten Erkenntnisse der aktuellen Studie und teilt seine Sicht auf die aktuellen Entwicklungen im Freelancer-Markt mit uns. Darüber hinaus besprechen wir, wie die nächste Generation den Arbeits- und Freelancermarkt prägen wird.
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 Freelancer-Kompass 2023<br />
 https://www.freelancermap.de/marktstudie

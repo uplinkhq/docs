@@ -13,7 +13,7 @@ Die heutige Folge ist für mich eine ganz besondere! Mein Gast ist Karla Schöni
 
 Wir sprechen über ihre Leidenschaft für das Produktmanagement, Rollenbilder und gesellschaftliche, aber auch politische Handlungsfelder für mehr Diversität und Inklusion. Außerdem geht es um die Bedeutung von Communities und darum, was jede Person bereits jetzt schon für eine inklusivere Welt tun kann.
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 Women CTO Dinner<br />
 https://womencto.eu/

@@ -23,7 +23,7 @@ Hier könnt ihr euch die gesamte Episode anhören:
 
 <emb>https://uplink.tech/podcast/25-bertrand-rothen</emb>
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 Mind the Product<br />
 https://www.mindtheproduct.com/

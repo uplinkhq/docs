@@ -21,6 +21,8 @@ Hier könnt ihr euch die gesamte Episode anhören:
 
 <emb>https://uplink.tech/podcast/26-philipp-scheller</emb>
 
+Erwähnungen in dieser Episode:
+
 Intrinsify<br />
 https://intrinsify.de/
 

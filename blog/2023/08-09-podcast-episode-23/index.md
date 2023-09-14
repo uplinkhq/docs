@@ -15,7 +15,7 @@ Wir sprechen über die Vorbereitungsarbeit sowie mögliche Strategien, um Servic
 
 <!--truncate-->
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 Exali<br />
 https://www.exali.de/

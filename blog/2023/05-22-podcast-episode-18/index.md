@@ -20,7 +20,7 @@ Hier könnt ihr euch die Episode anhören:
 
 ---
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 * Hatchery: https://www.hatchery.io/
 * Why is LinkedIn so weird?: https://www.youtube.com/watch?v=IMfBS4mBfBQ

@@ -22,7 +22,7 @@ Hier könnt ihr euch die komplette Episode anhören:
 
 <emb>https://uplink.tech/podcast/24-alexander-thiele</emb>
 
-Ressourcen, die in dieser Episode erwähnt werden:
+Erwähnungen in dieser Episode:
 
 LinkFive<br />
 https://www.linkfive.io/
