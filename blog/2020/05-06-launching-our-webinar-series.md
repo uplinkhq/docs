@@ -7,7 +7,7 @@ tags:
 
 Organizing a webinar on a topic relevant to IT freelancers was something we have had in our backlog for a long time, and now we finally got around to it! 🎉
 
-Our first webinar took place on April 30 and featured [Claus Lahner](https://www.kolaschnik-partner.de/claus-mauricio-lahner.html), a lawyer experienced in the fields of IT law and contract law. We collected topic suggestions from the community beforehand and Claus could cover almost all of them during the webinar. We mainly discussed the various challenges in setting up a waterproof freelancer contract and questions regarding bogus self-employment ("Scheinselbständigkeit"). In the last part, the attendees had the chance to ask Claus follow-up questions.
+Our first webinar took place on April 30 and featured [Claus Lahner](https://www.xing.com/profile/ClausMauricio_Lahner/cv), a lawyer experienced in the fields of IT law and contract law. We collected topic suggestions from the community beforehand and Claus could cover almost all of them during the webinar. We mainly discussed the various challenges in setting up a waterproof freelancer contract and questions regarding bogus self-employment ("Scheinselbständigkeit"). In the last part, the attendees had the chance to ask Claus follow-up questions.
 
 <!--truncate-->
 

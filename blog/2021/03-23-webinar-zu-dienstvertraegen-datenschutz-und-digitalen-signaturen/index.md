@@ -3,7 +3,7 @@ title: Webinar zu Dienstverträgen, Datenschutz und digitalen Signaturen
 authors: nick
 ---
 
-**Nach einer Winterpause freuen wir uns, dass wir letzte Woche wieder ein Webinar mit dem Anwalt unseres Vertrauens [Claus Lahner](https://www.kolaschnik-partner.de/claus-mauricio-lahner.html) für über 50 Teilnehmer veranstalten konnten.**
+**Nach einer Winterpause freuen wir uns, dass wir letzte Woche wieder ein Webinar mit dem Anwalt unseres Vertrauens [Claus Lahner](https://www.xing.com/profile/ClausMauricio_Lahner/cv) für über 50 Teilnehmer veranstalten konnten.**
 
 Claus ist auf den Bereich IT-Recht, (IT-)Vertragsrecht sowie E-Commerce- und Datenschutzrecht spezialisiert. Wir haben auch dieses Mal im Vorhinein unsere Community gefragt, welche Themen sie beschäftigt und diese dann bei der Festlegung der Agenda berücksichtigt. Nach einer kurzen Umfrage haben wir uns dazu entschlossen das Webinar auf Deutsch zu veranstalten, jedoch wurden auch Fragen auf Englisch beantwortet.
 

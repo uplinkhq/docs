@@ -5,7 +5,7 @@ tags:
 - cooperation
 ---
 
-We've been working with [Qonto](https://qonto.com/de) for quite a while now and are very excited about our first successful Deep Dive about product-market fit in our joint event series "How to scale up your business". Last Tuesday Nick from our team talked with [Torben Rabe](https://www.linkedin.com/in/torben-rabe/%20), who is leading the growth story for Qonto in Germany as Country Director, and [Sebastian Frederik Jacobsen](https://www.linkedin.com/in/hejsfj/), the CEO & Co-Founder of [Mateo](https://www.hellomateo.de/%20), about how to get from an idea to a business that works. Mateo offers an innovative tool to improve client communication.
+We've been working with [Qonto](https://qonto.com/de) for quite a while now and are very excited about our first successful Deep Dive about product-market fit in our joint event series "How to scale up your business". Last Tuesday Nick from our team talked with [Torben Rabe](https://www.linkedin.com/in/torben-rabe/%20), who is leading the growth story for Qonto in Germany as Country Director, and [Sebastian Frederik Jacobsen](https://www.linkedin.com/in/hejsfj/), the CEO & Co-Founder of [Mateo](https://www.hellomateo.de/), about how to get from an idea to a business that works. Mateo offers an innovative tool to improve client communication.
 
 <!--truncate-->
 

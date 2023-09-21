@@ -58,7 +58,7 @@ The process of applying to a job in Slack will stay exactly the same. Afterwards
 
 > Will I have to pay the Uplink fee for these new recruiter jobs?
 
-Yes, but for recruiter jobs it will only be 3% instead of 10% for direct jobs. [Read here why it is actually in your best interest to pay us instead of the recruiter!](https://kb.uplink.tech/freelancers/our-fee)
+Yes, but for recruiter jobs it will only be 3% instead of 10% for direct jobs. [Read here why it is actually in your best interest to pay us instead of the recruiter!](https://uplink.tech/en/knowledge-base/freelancers/our-fee/)
 
 > Will Nemensis have access to the Uplink Slack workspace, i.e. read everything and contact freelancers individually?
 

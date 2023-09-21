@@ -65,7 +65,7 @@ Our subject is Gerold Kirchner. Gerold and I met in an Asian restaurant in Berli
 
 **Gerold** : A typical project that I'm thinking of would be the 5780th online shop. That wouldn't be a special purpose in my understanding.
 
-**Henrik** : What about an online marketplace like [Fairmondo](http://fairmondo.de/), which aims to be the "fair alternative" to Amazon and is organized as a cooperative (Genossenschaft) to avoid concentration of power?
+**Henrik** : What about an online marketplace like [Fairmondo](https://www.fairmondo.de/), which aims to be the "fair alternative" to Amazon and is organized as a cooperative (Genossenschaft) to avoid concentration of power?
 
 **Gerold** : A cooperative model would be worthy of support, as it is a different organizational model.
 

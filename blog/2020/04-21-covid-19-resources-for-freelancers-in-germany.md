@@ -7,9 +7,6 @@ Numerous companies have put current projects on hold and are trying to keep expe
 
 <!--truncate-->
 
-_Corona-Fakten, Infos und Hilfen für alle, die selbstständig und frei arbeiten:_
-[https://www.selbstwasmachen.com/](https://www.selbstwasmachen.com/)
-
 _Corona-Soforthilfen für Selbständige, Freiberufler und Künstler - Alle Bundesländer im Überblick! (inkl. Youtube-Videos)_
 [https://www.gruenderlexikon.de/news/kurz-notiert/corona-soforthilfen-der-bundeslaender-im-ueberblick-84233716](https://www.gruenderlexikon.de/news/kurz-notiert/corona-soforthilfen-der-bundeslaender-im-ueberblick-84233716)
 

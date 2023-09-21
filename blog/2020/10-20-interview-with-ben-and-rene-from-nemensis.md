@@ -30,4 +30,4 @@ _Unsere Projekte sind sehr heterogen. Grob lassen sie sich in die Bereiche Entwi
 
 ---
 
-**Mehr Infos zu der Zusammenarbeit mit unseren Recruiting Partnern findet ihr in unserer [Knowledge Base](https://kb.uplink.tech/freelancers/recruiter-jobs) sowie in unserem letzten [Blog Post in den FAQs](https://uplink.tech/blog/announcing-our-first-recruiting-partner-nemensis/). Wenn ihr irgendwelche Fragen oder Anregungen habt, kommt gerne direkt auf uns [via E-Mail](mailto:hello@uplink.tech) oder im [Uplink-Slack](https://uplinkhq.slack.com/team/U1LB9UVJQ) zu!**
+**Mehr Infos zu der Zusammenarbeit mit unseren Recruiting Partnern findet ihr in unserer [Knowledge Base](https://uplink.tech/knowledge-base/freelancers/recruiter-jobs/) sowie in unserem letzten [Blog Post in den FAQs](https://uplink.tech/blog/announcing-our-first-recruiting-partner-nemensis/). Wenn ihr irgendwelche Fragen oder Anregungen habt, kommt gerne direkt auf uns [via E-Mail](mailto:hello@uplink.tech) oder im [Uplink-Slack](https://uplinkhq.slack.com/team/U1LB9UVJQ) zu!**
