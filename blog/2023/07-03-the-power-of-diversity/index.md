@@ -15,6 +15,8 @@ Die Auswirkungen sind gravierend: [Frauen erhalten beim Gründen deutlich wenige
 
 Aber wie kann die Branche das Problem endlich lösen? Und warum sind Unternehmen, die sich aktiv für einen diversen und inklusiven Weg entscheiden, erfolgreicher?
 
+<!--truncate-->
+
 In der aktuellen Podcast-Folge hatte ich großes Glück, mit Karla Schönicke aus unserer Uplink Community im Detail über genau diese Themen zu sprechen. Karla arbeitet als Freelance Product Lead und ist Venture Scout bei Ananda Impact VC. Außerdem ist sie Gründerin des Netzwerks "Women CTO Dinner" und der ersten "Female Business Academy", die Frauen zu Investorinnen ausbildet.
 
 <emb>https://uplink.tech/podcast/19-member-spotlight-karla-schoenicke-ueber-diversity-inklusive-produktentwicklung-und-dysfunktionale-strukturen-in-der-tech-szene</emb>
