@@ -15,7 +15,7 @@ Wir sprechen unter anderem über die Themen Mental Health, wie Alex es schafft, 
 
 <!--truncate-->
 
-<video controls="controls" src="https://assets.uplink.tech/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzUwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bca090fff35e78bc1eef2deed8a542063e434622/composer-f6lsfalzr_editor-clip_clip_manuel-alexander-thiele_2023-jul-04-0126pm_uplink_podcast.mp4"></video>
+<video controls="controls" src="https://uplink.tech/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzUwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bca090fff35e78bc1eef2deed8a542063e434622/composer-f6lsfalzr_editor-clip_clip_manuel-alexander-thiele_2023-jul-04-0126pm_uplink_podcast.mp4"></video>
 
 Hier könnt ihr euch die komplette Episode anhören:
 

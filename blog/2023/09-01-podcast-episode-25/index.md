@@ -16,7 +16,7 @@ Wir sprechen über den Wandel der Branche sowie die Voraussetzungen und Skills, 
 
 <!--truncate-->
 
-<video controls="controls" src="https://admin.uplink.tech/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDkxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5565c06fe2b4bd802038df7e6f2f8e3ee623deb6/composer-b39omev7a_editor-clip_clip_nick-bertrand-rothen_2023-aug-16-1118am_uplink_podcast.mp4"></video>
+<video controls="controls" src="https://uplink.tech/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDkxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5565c06fe2b4bd802038df7e6f2f8e3ee623deb6/composer-b39omev7a_editor-clip_clip_nick-bertrand-rothen_2023-aug-16-1118am_uplink_podcast.mp4"></video>
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
