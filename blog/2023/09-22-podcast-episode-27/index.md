@@ -19,7 +19,7 @@ We talk about the InsurTech industry's particularities, which are governed by ma
 
 <video controls="controls" src="https://uplink.tech/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcloyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1faa13c07df7a19a466efcb39c8a25ad84f5fc2/nick-koen_full_length%20sep%2018,%20(1).mp4"></video>
 
-Hier könnt ihr euch die gesamte Episode anhören:
+Listen to the full episode here:
 
 <emb>https://uplink.tech/podcast/27-koen-thijssen</emb>
 
