@@ -11,7 +11,7 @@ draft: true
 
 ![](header.png)
 
-Meine heutigen Gäste sind Helge Meyer und Steffen Köhler vom Deutschen Bundesverband Informationstechnologie für Selbstständige (kurz: DBITS e.V.). Der Verein setzt sich auf politischer Ebene für die Interessen von IT-Freelancern ein.
+Unsere heutigen Gäste sind Helge Meyer und Steffen Köhler vom Deutschen Bundesverband Informationstechnologie für Selbstständige (kurz: DBITS e.V.). Der Verein setzt sich auf politischer Ebene für die Interessen von IT-Freelancern ein.
 
 Wir sprechen über politische Ziele, die Herausforderungen von Vereinsarbeit und über Lobbyarbeit. Darüber hinaus erfahrt ihr, wie sich der DBITS für die Rechtssicherheit von Freelancern und Unternehmen in Bezug auf Scheinselbstständigkeit einsetzt und welche weiteren Themen aktuell gerade politisch diskutiert werden.
 
