@@ -1,11 +1,10 @@
 ---
 title: 'Podcast Episode 27: Koen Thijssen'
-description: In dieser Episode des Uplink Podcasts sprechen wir...
+description: On today's episode, our guest is Koen Thijssen, founder and CEO of Insify. The InsurTech startup offers tailored insurance solutions for freelancers.
 image: "./header.png"
 authors: nick
 tags:
 - podcast
-draft: true
 
 ---
 

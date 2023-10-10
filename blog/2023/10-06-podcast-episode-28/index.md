@@ -1,11 +1,10 @@
 ---
-title: 'Podcast Episode 28: Steffen Köhler und Helge Meyer'
-description: In dieser Episode des Uplink Podcasts sprechen wir...
+title: "Podcast Episode 28: Steffen Köhler und Helge Meyer"
+description: "Unsere heutigen Gäste sind Helge Meyer und Steffen Köhler vom Deutschen Bundesverband Informationstechnologie für Selbstständige (kurz: DBITS e.V.)."
 image: "./header.png"
 authors: nick
 tags:
 - podcast
-draft: true
 
 ---
 
