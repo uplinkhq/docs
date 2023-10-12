@@ -6,9 +6,18 @@ require "fileutils"
 MAX_WIDTH = 800
 
 Dir[File.join("blog", "**", "*.{png,jpg}")].each do |path|
-  result = `ffprobe -v error -show_entries stream=height -of json "#{path}"`
+  puts "Examining #{path}..."
+
+  result = `ffprobe -v error -show_entries stream=height,width -of json "#{path}"`
   width = JSON.parse(result)["streams"][0]["width"]
-  next if width <= MAX_WIDTH
+
+  if width <= MAX_WIDTH
+    puts "Width #{width} is not above max width #{MAX_WIDTH}, skipping..."
+    next
+  else
+    puts "Width #{width} is above max width #{MAX_WIDTH}, resizing..."
+  end
+
   filename = File.basename(path)
   new_filename = [
     Time.now.to_i,
@@ -18,4 +27,5 @@ Dir[File.join("blog", "**", "*.{png,jpg}")].each do |path|
     `ffmpeg -i #{filename} -vf scale=#{MAX_WIDTH}:-1 #{new_filename} -y`
     FileUtils.mv new_filename, filename
   end
+  puts "Done!"
 end
