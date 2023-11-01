@@ -67,7 +67,7 @@ In diesen Channels werden alle Jobs einer Kategorie (Direkt oder Recruiter) ver�
 
 In diesen Channels werden die Direktjobs nach Skills gruppiert veröffentlicht.
 
-:::caution Achtung
+:::warning Achtung
 
 Diese Channels sind hierarchisch organisiert, was dazu führen kann, dass man doppelte [Benachrichtigungen](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) bekommt, wenn man Channels beitritt, die sich "überlappen".
 

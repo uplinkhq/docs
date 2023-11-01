@@ -1,6 +1,8 @@
-const lightCodeTheme             = require('prism-react-renderer/themes/github');
-const darkCodeTheme              = require('prism-react-renderer/themes/dracula');
-const rehypeCloudinaryDocusaurus = require('rehype-cloudinary-docusaurus');
+const { themes }     = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme  = themes.dracula;
+
+import rehypeCloudinaryDocusaurus from "rehype-cloudinary-docusaurus";
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {

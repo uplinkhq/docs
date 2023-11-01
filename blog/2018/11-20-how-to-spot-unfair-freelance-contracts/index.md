@@ -66,9 +66,9 @@ The first sentence restricts your liability for damages caused by negligence, wh
 
 Let's say you are working with an external recruiter and they are asking you to sign a contract which includes the following passage:
 
-> The contractor may only claim his right for compensation for the provided work or services if {{recruiter}} received compensation for the work or service of the contractor from {{customer}}.
+> The contractor may only claim his right for compensation for the provided work or services if the recruiter received compensation for the work or service of the contractor from the client.
 
-> Der Auftragnehmer hat nur dann Anspruch auf Vergütung bereits erbrachter Leistungen, wenn {{Recruiter}} vom Kunden eine Vergütung für die Leistung des Auftragnehmers erhalten hat.
+> Der Auftragnehmer hat nur dann Anspruch auf Vergütung bereits erbrachter Leistungen, wenn der Recruiter vom Kunden eine Vergütung für die Leistung des Auftragnehmers erhalten hat.
 
 This passage renders you helpless if the customer doesn't pay the recruiter, whatever the reason may be: you can't make any legal claims neither to the customer nor the recruiter.
 
