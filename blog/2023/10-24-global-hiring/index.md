@@ -5,7 +5,6 @@ image: "./header.jpg"
 authors: manuel
 tags:
 - podcast
-draft: true
 
 ---
 

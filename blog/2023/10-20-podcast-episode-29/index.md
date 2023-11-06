@@ -1,11 +1,10 @@
 ---
-title: 'Podcast Episode 29: Carsten Lebtig'
-description: Unser heutiger Gast ist Carsten Lebtig, einer der Gründer von WorkMotion. WorkMotion ermöglicht es Unternehmen, unkompliziert Fachkräfte in über 160...
+title: "Podcast Episode 29: Carsten Lebtig"
+description: Unser heutiger Gast ist Carsten Lebtig, einer der Gründer von WorkMotion. WorkMotion ermöglicht es Unternehmen, unkompliziert Fachkräfte in über 160 Ländern anzustellen.
 image: "./header.png"
 authors: manuel
 tags:
 - podcast
-draft: true
 
 ---
 
