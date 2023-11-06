@@ -32,4 +32,4 @@ https://karlawithakey.com/
 
 Hier könnt ihr euch die Episode anhören:
 
-<emb>https://uplink.tech/podcast/19-member-spotlight-karla-schoenicke-ueber-diversity-inklusive-produktentwicklung-und-dysfunktionale-strukturen-in-der-tech-szene</emb>
+<Embed>https://uplink.tech/podcast/19-member-spotlight-karla-schoenicke-ueber-diversity-inklusive-produktentwicklung-und-dysfunktionale-strukturen-in-der-tech-szene</Embed>

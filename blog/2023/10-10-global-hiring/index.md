@@ -19,7 +19,7 @@ Doch wie gelingt die internationale Personalbeschaffung?
 
 [In der aktuellen Podcast-Folge haben wir darüber mit Carsten Lebtig gesprochen](https://uplink.tech/podcast/29-carsten-lebtig), dem Mitgründer der Plattform WorkMotion. Das Startup hilft Unternehmen dabei, unkompliziert und rechtskonform Fachkräfte in über 160 Ländern anzustellen.
 
-<emb>https://uplink.tech/podcast/29-carsten-lebtig</emb>
+<Embed>https://uplink.tech/podcast/29-carsten-lebtig</Embed>
 
 ## Global Hiring ist heute so einfach wie nie
 

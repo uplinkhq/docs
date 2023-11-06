@@ -16,7 +16,7 @@ Wir sprechen über die Vor- und Nachteiler kleiner und mittelständiger Kunden g
 
 Hier könnt ihr euch die Episode anhören:
 
-<emb>https://uplink.tech/podcast/18-member-spotlight-manuel-wenner-ueber-seine-erfahrungen-als-cto-eines-startup-studios-work-life-balance-als-kleinkind-papa-und-die-hassliebe-zu-linkedin</emb>
+<Embed>https://uplink.tech/podcast/18-member-spotlight-manuel-wenner-ueber-seine-erfahrungen-als-cto-eines-startup-studios-work-life-balance-als-kleinkind-papa-und-die-hassliebe-zu-linkedin</Embed>
 
 ---
 

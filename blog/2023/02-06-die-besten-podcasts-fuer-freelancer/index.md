@@ -15,71 +15,71 @@ Jeder kennt sie - Podcasts werden immer beliebter und erobern die Welt. Ob Story
 
 ## Coaching/Services
 
-<emb>https://www.lynnkuehner.de/bossyourself-podcast/</emb>
+<Embed>https://www.lynnkuehner.de/bossyourself-podcast/</Embed>
 
-<emb>https://millo.co/podcasts/freelancetofounder</emb>
+<Embed>https://millo.co/podcasts/freelancetofounder</Embed>
 
-<emb>https://www.freelancecake.com/podcast</emb>
+<Embed>https://www.freelancecake.com/podcast</Embed>
 
-<emb>https://www.thefreelanceadsclubpodcast.com/</emb>
+<Embed>https://www.thefreelanceadsclubpodcast.com/</Embed>
 
-<emb>https://pod.co/expath</emb>
+<Embed>https://pod.co/expath</Embed>
 
 ## Start in die Selbstständigkeit
 
-<emb>https://www.podcast.de/podcast/1041851/megamutig</emb>
+<Embed>https://www.podcast.de/podcast/1041851/megamutig</Embed>
 
-<emb>https://open.spotify.com/show/7Dt5r3wr5RxvkUcUQfQzyJ</emb>
+<Embed>https://open.spotify.com/show/7Dt5r3wr5RxvkUcUQfQzyJ</Embed>
 
-<emb>http://15minutefreelancer.com/</emb>
+<Embed>http://15minutefreelancer.com/</Embed>
 
-<emb>https://beingboss.club/</emb>
+<Embed>https://beingboss.club/</Embed>
 
 ## Creatives
 
-<emb>https://open.spotify.com/show/7plckNgalnIiXfv4D1NoQ3</emb>
+<Embed>https://open.spotify.com/show/7plckNgalnIiXfv4D1NoQ3</Embed>
 
-<emb>https://open.spotify.com/show/0SWWxwh2JWtQhp21cVHDVK</emb>
+<Embed>https://open.spotify.com/show/0SWWxwh2JWtQhp21cVHDVK</Embed>
 
-<emb>https://studywebdevelopment.com/podcast.html</emb>
+<Embed>https://studywebdevelopment.com/podcast.html</Embed>
 
-<emb>https://open.spotify.com/show/1zvr2I9bzJmWdD1ftlToW9</emb>
+<Embed>https://open.spotify.com/show/1zvr2I9bzJmWdD1ftlToW9</Embed>
 
-<emb>https://www.audiolibrix.de/de/Podcast/Listen/548616/87-wie-du-personlichkeitstests-fur-dein-business-und-leben-nutzen-kannst</emb>
+<Embed>https://www.audiolibrix.de/de/Podcast/Listen/548616/87-wie-du-personlichkeitstests-fur-dein-business-und-leben-nutzen-kannst</Embed>
 
-<emb>https://www.creativeelements.fm/</emb>
+<Embed>https://www.creativeelements.fm/</Embed>
 
 ## Erfahrungsberichte & Best Practices
 
-<emb>https://freelancer-podcast.de/</emb>
+<Embed>https://freelancer-podcast.de/</Embed>
 
-<emb>https://www.free-talent.de/</emb>
+<Embed>https://www.free-talent.de/</Embed>
 
-<emb>https://open.spotify.com/show/3JMi0kr6isp9tKShr5jCIU</emb>
+<Embed>https://open.spotify.com/show/3JMi0kr6isp9tKShr5jCIU</Embed>
 
-<emb>https://www.thefreelancertalk.com/</emb>
+<Embed>https://www.thefreelancertalk.com/</Embed>
 
-<emb>https://www.harriethadfield.com/fwf-podcast</emb>
+<Embed>https://www.harriethadfield.com/fwf-podcast</Embed>
 
-<emb>https://open.spotify.com/show/5aLlQ7t2fAoNr5XuA1qavt</emb>
+<Embed>https://open.spotify.com/show/5aLlQ7t2fAoNr5XuA1qavt</Embed>
 
-<emb>https://www.beingfreelance.com/the-best-freelance-podcast</emb>
+<Embed>https://www.beingfreelance.com/the-best-freelance-podcast</Embed>
 
-<emb>https://www.todocast.io/</emb>
+<Embed>https://www.todocast.io/</Embed>
 
-<emb>https://open.spotify.com/show/6e97ogrJy95OHfgF5mZ8s1</emb>
+<Embed>https://open.spotify.com/show/6e97ogrJy95OHfgF5mZ8s1</Embed>
 
-<emb>https://www.freelancingafterfifty.com/podcast</emb>
+<Embed>https://www.freelancingafterfifty.com/podcast</Embed>
 
-<emb>https://open.spotify.com/show/3QWLJKZT1huKfhVl6I9u3L</emb>
+<Embed>https://open.spotify.com/show/3QWLJKZT1huKfhVl6I9u3L</Embed>
 
-<emb>https://open.spotify.com/show/6HTojsdLGgkSKddgHhElM0</emb>
+<Embed>https://open.spotify.com/show/6HTojsdLGgkSKddgHhElM0</Embed>
 
-<emb>https://2bobs.com/</emb>
+<Embed>https://2bobs.com/</Embed>
 
 ## Unser eigener Podcast 🧡
 
-<emb>https://uplink.tech/podcast</emb>
+<Embed>https://uplink.tech/podcast</Embed>
 
 In unserem eigenen Podcast haben wir spannende Menschen aus der Digitalszene zu Gast und sprechen mit ihnen über ihr Business und ihren Werdegang. Der Fokus liegt dabei auf den Themen Remote Work, Selbständigkeit und Entrepreneurship. 👩‍💻
 

@@ -37,4 +37,4 @@ https://www.linkedin.com/in/manuel-hunkenschr%C3%B6der-205562112
 
 Hier könnt ihr euch die Episode anhören:
 
-<emb>https://uplink.tech/podcast/23-manuel-hunkenschroeder</emb>
+<Embed>https://uplink.tech/podcast/23-manuel-hunkenschroeder</Embed>

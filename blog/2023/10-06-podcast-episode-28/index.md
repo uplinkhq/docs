@@ -22,11 +22,11 @@ Wenn auch Du Mitglied werden möchtest, registriere dich hier: https://www.dbits
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
-<emb>https://uplink.tech/podcast/28-helge-meyer-steffen-koehler</emb>
+<Embed>https://uplink.tech/podcast/28-helge-meyer-steffen-koehler</Embed>
 
 Und hier findest ihr alle weiteren Episoden unseres Podcasts:
 
-<emb>https://uplink.tech/podcast</emb>
+<Embed>https://uplink.tech/podcast</Embed>
 
 Gutachten zur Altersvorsorge- Was ist das “Haus der Selbstständigen”?<br />
 https://www.dbits.it/gutachten-zur-altersvorsorge-was-ist-das-haus-der-selbstaendigen/

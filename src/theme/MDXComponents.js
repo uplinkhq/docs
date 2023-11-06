@@ -3,5 +3,5 @@ import Embed         from '@site/src/components/Embed'
 
 export default {
   ...MDXComponents,
-  emb: Embed
+  Embed
 }

@@ -11,7 +11,7 @@ We are more than happy to announce our new cooperation with [Movers and Makers](
 
 To kick off our partnership, we talked to the founder Max Antosch in our podcast about how freelancers can manage to sell their work based on value and increase their revenue. 🚀
 
-<emb>https://uplink.tech/podcast/6-weg-von-zeit-fuer-geld-wie-du-es-als-freelancer-schaffst-deine-arbeit-wertbasiert-zu-verkaufen</emb>
+<Embed>https://uplink.tech/podcast/6-weg-von-zeit-fuer-geld-wie-du-es-als-freelancer-schaffst-deine-arbeit-wertbasiert-zu-verkaufen</Embed>
 
 Some highlights of the episode were:
 

@@ -18,7 +18,7 @@ Wir sprechen über die Grundprinzipien von Agilität und die Herausforderungen v
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
-<emb>https://uplink.tech/podcast/26-philipp-scheller</emb>
+<Embed>https://uplink.tech/podcast/26-philipp-scheller</Embed>
 
 Erwähnungen in dieser Episode:
 

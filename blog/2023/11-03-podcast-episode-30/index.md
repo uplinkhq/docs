@@ -20,11 +20,11 @@ Johann berichtet, wie sich Koto als mittlerweile globales Unternehmen mit fünf 
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
-<emb>https://uplink.tech/podcast/30-johann-laeschke</emb>
+<Embed>https://uplink.tech/podcast/30-johann-laeschke</Embed>
 
 Und hier findest ihr alle weiteren Episoden unseres Podcasts:
 
-<emb>https://uplink.tech/podcast</emb>
+<Embed>https://uplink.tech/podcast</Embed>
 
 Erwähnungen in dieser Episode:
 

@@ -21,11 +21,11 @@ Nicht zuletzt berichtet Carsten, in welchen Bereichen sein Unternehmen schon KI 
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
-<emb>https://uplink.tech/podcast/29-carsten-lebtig</emb>
+<Embed>https://uplink.tech/podcast/29-carsten-lebtig</Embed>
 
 Und hier findest ihr alle weiteren Episoden unseres Podcasts:
 
-<emb>https://uplink.tech/podcast</emb>
+<Embed>https://uplink.tech/podcast</Embed>
 
 Erwähnungen in dieser Episode:
 

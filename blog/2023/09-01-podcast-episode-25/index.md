@@ -20,7 +20,7 @@ Wir sprechen über den Wandel der Branche sowie die Voraussetzungen und Skills, 
 
 Hier könnt ihr euch die gesamte Episode anhören:
 
-<emb>https://uplink.tech/podcast/25-bertrand-rothen</emb>
+<Embed>https://uplink.tech/podcast/25-bertrand-rothen</Embed>
 
 Erwähnungen in dieser Episode:
 

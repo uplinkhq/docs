@@ -13,7 +13,7 @@ Im Ausland das eigene Produkt auf den Markt zu bringen – das ist der Traum von
 
 Glücklicherweise gibt es einige Modelle und Best Practices, auf die Unternehmen zurückgreifen können, um den Produktlaunch im Ausland erfolgreich zu meistern. In der aktuellen Folge unseres Podcasts haben wir mit [Manuel Hunkenschröder](https://www.linkedin.com/in/manuel-hunkenschr%C3%B6der-205562112/) von [Exali](https://www.exali.de/) über die Expansionsstrategie des InsurTech Unternehmens gesprochen, das seine Produkte in mittlerweile über 19 Ländern anbietet. Manuel verantwortete bei Exali den Produktlaunch und ist für die Marketingstrategie sowie das Produktdesign verantwortlich.
 
-<emb>https://uplink.tech/podcast/23-manuel-hunkenschroeder</emb>
+<Embed>https://uplink.tech/podcast/23-manuel-hunkenschroeder</Embed>
 
 ## Modelle für einen erfolgreichen Launch im Ausland
 

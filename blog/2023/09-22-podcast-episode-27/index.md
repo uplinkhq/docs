@@ -20,7 +20,7 @@ We talk about the InsurTech industry's particularities, which are governed by ma
 
 Listen to the full episode here:
 
-<emb>https://uplink.tech/podcast/27-koen-thijssen</emb>
+<Embed>https://uplink.tech/podcast/27-koen-thijssen</Embed>
 
 Mentioned in this episode:
 

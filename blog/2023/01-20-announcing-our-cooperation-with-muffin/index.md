@@ -28,7 +28,7 @@ One of the most interesting aspects was the discussion of the tax benefits of va
 
 If you missed the webinar, you can rewatch it here:
 
-<emb>https://uplink.tech/webinars/116c9e-2023-01-17-insurance-and-pension-101-for-freelancers</emb>
+<Embed>https://uplink.tech/webinars/116c9e-2023-01-17-insurance-and-pension-101-for-freelancers</Embed>
 
 And if you're interested in the slides that were used, you can find them [here](https://drive.google.com/file/d/1vNt-kayGLiOsJgFhcrMdAhQdqzJkKqOt/view?usp=sharing).
 

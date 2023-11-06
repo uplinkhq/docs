@@ -32,4 +32,4 @@ https://www.amazon.de/gp/product/B0BJQLCJDL/
 
 Hier könnt ihr euch die Episode anhören:
 
-<emb>https://uplink.tech/podcast/20-freelancer-kompass-2023-im-gespraech-mit-thomas-maas-von-freelancermap-zur-aktuellen-ausgabe-der-marktstudie-fuer-freelancer-selbststaendige-und-freiberufler</emb>
+<Embed>https://uplink.tech/podcast/20-freelancer-kompass-2023-im-gespraech-mit-thomas-maas-von-freelancermap-zur-aktuellen-ausgabe-der-marktstudie-fuer-freelancer-selbststaendige-und-freiberufler</Embed>

@@ -18,7 +18,7 @@ Die Ergebnisse zeigen, dass zwar fast die Hälfte der Befragten ihre aktuelle Pr
 In diesem Post präsentieren wir die wichtigsten Erkennisse der Umfrage.<br />
 Die gesamten Ergebnisse der Umfrage finden sich auf unserer Webseite:
 
-<emb>https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023</emb>
+<Embed>https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023</Embed>
 
 ## Highlights
 

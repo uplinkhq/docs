@@ -19,7 +19,7 @@ Wir sprechen unter anderem über die Themen Mental Health, wie Alex es schafft, 
 
 Hier könnt ihr euch die komplette Episode anhören:
 
-<emb>https://uplink.tech/podcast/24-alexander-thiele</emb>
+<Embed>https://uplink.tech/podcast/24-alexander-thiele</Embed>
 
 Erwähnungen in dieser Episode:
 

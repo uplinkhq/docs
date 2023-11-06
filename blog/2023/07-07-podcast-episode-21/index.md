@@ -30,4 +30,4 @@ https://www.linkedin.com/in/moser-simon/
 
 Hier könnt ihr euch die Episode anhören:
 
-<emb>https://uplink.tech/podcast/21-insurtech-gruender-simon-moser-ueber-selbstbestimmte-altersvorsorge-und-die-laengst-notwendige-digitalisierung-der-versicherungsbranche</emb>
+<Embed>https://uplink.tech/podcast/21-insurtech-gruender-simon-moser-ueber-selbstbestimmte-altersvorsorge-und-die-laengst-notwendige-digitalisierung-der-versicherungsbranche</Embed>

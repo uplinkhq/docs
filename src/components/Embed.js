@@ -6,12 +6,10 @@ export default function Embed({ children }) {
   }, [])
 
   return (
-    <>
-      <div className="iframely-embed">
-        <div className="iframely-responsive">
-          <a data-iframely-url="" href={children}></a>
-        </div>
+    <div className="iframely-embed">
+      <div className="iframely-responsive">
+        <a data-iframely-url="" href={children.props.href}></a>
       </div>
-    </>
+    </div>
   )
 }
