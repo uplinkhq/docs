@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Uplink für Unternehmen
+# Uplink for Clients
 
 There are many IT recruiters, freelancer networks, and other ways to find a freelancer out there. Why should you choose Uplink? Here's what makes us unique.
 
@@ -15,5 +15,3 @@ You don't have to sign a contract with us and you'll never receive a separate in
 Everybody likes to call themselves a community nowadays. Go to any department store and you'll find a sign announcing that you can join their 'community' by buying from them.
 
 ## We value transparency, trust and expertise.
-
-More explained in [Our values](../about/values.md).

@@ -32,7 +32,7 @@ For these reasons, we opted for a lump sum instead of a percentage.
 
 ## Suitable clients
 
-Which clients are suitable for a referral? In general, they should be companies that are a match for our [direct engagement](../companies/direct-engagement.md) model, which tend to be SMEs, startups and agencies. In addition, the client should be specifically looking for a freelancer at the time of the recommendation (or in the foreseeable future).
+Which clients are suitable for a referral? In general, they should be companies that are a match for our [direct engagement](../clients/direct-engagement.md) model, which tend to be SMEs, startups and agencies. In addition, the client should be specifically looking for a freelancer at the time of the recommendation (or in the foreseeable future).
 
 ## Already known clients
 

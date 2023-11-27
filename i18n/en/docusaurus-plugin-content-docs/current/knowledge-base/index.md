@@ -6,24 +6,23 @@ sidebar_position: 1
 
 This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
 
-Here you can learn everything about what Uplink offers [freelancers](knowledge-base/freelancers/uplink-for-freelancers.md), [companies](knowledge-base/companies/uplink-for-companies.md) and [recruiters](knowledge-base/recruiters/uplink-for-recruiters.md).
+Here you can learn everything about what Uplink offers [freelancers](freelancers/index.md), [clients](clients/index.md), [recruiters](recruiters/index.md) and [agencies](agencies/index.md).
 
 ## What is Uplink?
 
 Uplink is a community for IT freelancers and was founded in Berlin in 2016.
-[Learn more about the history of Uplink here »](knowledge-base/about/history.md).
 
 Over the years, the network has grown organically and today (as of February 2023) has over 3,000 active members: developers, designers, engineers, and product managers.
 
 You can find more information in the following categories:
 
-**[For Freelancers »](knowledge-base/freelancers/uplink-for-freelancers.md)**
+**[For Freelancers »](freelancers/index.md)**
 
-**[For Companies »](knowledge-base/companies/uplink-for-companies.md)**
+**[For Clients »](clients/index.md)**
 
-**[For Recruiters »](knowledge-base/recruiters/uplink-for-recruiters.md)**
+**[For Recruiters »](recruiters/index.md)**
 
-**[About us »](knowledge-base/about/values.md)**
+**[For Agencies »](agencies/index.md)**
 
 ## Is anything missing?
 

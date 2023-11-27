@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Uplink for Companies
+# Uplink für Auftraggeber
 
 There are many IT recruiters, freelancer networks, and other ways to find a freelancer out there. Why should you choose Uplink? Here's what makes us unique.
 
@@ -16,4 +16,6 @@ Everybody likes to call themselves a community nowadays. Go to any department st
 
 ## We value transparency, trust and expertise.
 
-More explained in [Our values](../about/values.md).
+# Unternehmensbereich
+
+Im [Unternehmensbereich](https://app.uplink.tech/) kannst du neue Jobs ausschreiben, einzelne Freelancer kontaktieren, und vieles mehr.
