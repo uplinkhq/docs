@@ -1,5 +1,5 @@
 ---
-title: Jon Younger on Building Exceptional Freelance Platforms
+title: "Podcast Episode 32: Jon Younger on Building Exceptional Freelance Platforms"
 description: In today's episode, we chat with Jon Younger, who has been at the forefront of Open Talent platforms and the...
 image: "./header.png"
 authors: manuel
