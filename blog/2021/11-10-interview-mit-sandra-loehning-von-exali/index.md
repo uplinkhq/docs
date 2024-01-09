@@ -13,7 +13,7 @@ tags:
 
 ## Was sind die häufigsten Schadensfälle von Freelancern?
 
-Vermögensschäden machen rund 93 % aller Schadenfälle aus und führen somit unsere Schaden-Rangliste an. Beispiele für Vermögensschäden im IT-Freelance-Umfeld sind z. B. Programmierfehler, Wiederherstellung von Daten aufgrund eines Softwarefehlers, Urheberrechtsverletzungen, Leistungsverzögerungen, Umsatz und Gewinnausfälle beim Kunden durch eine Betriebsunterbrechung. Stelle dir einen Webshop vor, der aufgrund eines Programmierfehlers nicht erreichbar ist – der Gewinnausfall des Webshopbetreibers wäre dann ein Vermögensschaden.
+Vermögensschäden machen rund 93 % aller Schadenfälle aus und führen somit unsere Schaden-Rangliste an. Beispiele für Vermögensschäden im IT-Freelance-Umfeld sind z.B. Programmierfehler, Wiederherstellung von Daten aufgrund eines Softwarefehlers, Urheberrechtsverletzungen, Leistungsverzögerungen, Umsatz und Gewinnausfälle beim Kunden durch eine Betriebsunterbrechung. Stelle dir einen Webshop vor, der aufgrund eines Programmierfehlers nicht erreichbar ist – der Gewinnausfall des Webshopbetreibers wäre dann ein Vermögensschaden.
 
 7 % unserer Schadenfälle sind Sachschäden – darunter fallen Tätigkeitsschäden beim Kunden oder auch einfache Missgeschicke, wie der verschüttete Kaffee auf dem Firmenlaptop.
 

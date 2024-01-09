@@ -51,7 +51,7 @@ Die schönsten Kundenprojekte sind in der Regel die, in denen sich der Kunde mit
 
 **Woran arbeitest du gerade neben deinen Auftragsjobs?**
 
-Da gibt es eine ganze Menge. Leider, muss ich da manchmal sagen, weil ich mitunter gern mal den Fokus verliere bei sowas. Ich mache viel Open-Source-Arbeit in meiner Freizeit, pflege z. B. ein eigenes React-Starter-Projekt, in das ich regelmäßig Learnings und Best Practices aus meinen Projekten einfließen lasse, beteilige mich mit Bugfixes oder Bugreports an anderen Open-Source-Projekten oder schreibe gelegentlich Artikel über softwarerelevante Themen.
+Da gibt es eine ganze Menge. Leider, muss ich da manchmal sagen, weil ich mitunter gern mal den Fokus verliere bei sowas. Ich mache viel Open-Source-Arbeit in meiner Freizeit, pflege z.B. ein eigenes React-Starter-Projekt, in das ich regelmäßig Learnings und Best Practices aus meinen Projekten einfließen lasse, beteilige mich mit Bugfixes oder Bugreports an anderen Open-Source-Projekten oder schreibe gelegentlich Artikel über softwarerelevante Themen.
 
 Ich probiere mich auch immer mal wieder an der Entwicklung eigener Produktideen, was zumeist jedoch daran scheitert, dass meine Ideen zu ambitioniert sind und ich die unmöglich alleine umsetzen kann. Ein Problem, das viele Entwickler vermutlich sehr gut aus eigener Erfahrung kennen.
 
