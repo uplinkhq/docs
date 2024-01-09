@@ -24,6 +24,8 @@ Please be especially patient and helpful to new members! They often don't know t
 
 Try to avoid or de-escalate heated debates. Often the best course of action is to accept that members have differing viewpoints on a topic and end the debate with a "Let's agree to disagree!"
 
+Please avoid political news and content, as well as other controversial topics. Uplink is not the right platform for this.
+
 Stay professional and avoid attacking (groups of) people directly. When talking about recruiters, for example, it's fine critizing them or showing examples of badly worded messages, but don't mention any clear names and stay away from insults and hurtful language.
 
 ## Behavior on our events
