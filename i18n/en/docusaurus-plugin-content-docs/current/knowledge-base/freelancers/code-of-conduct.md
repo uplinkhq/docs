@@ -41,6 +41,7 @@ Coming soon...
 Some things will not be tolerated and might lead to your immediate exclusion from the community:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
+* Extremist, inhuman and anti-Semitic content
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing other people's private information, such as a physical or electronic addresses, without explicit permission
