@@ -4,13 +4,13 @@ sidebar_position: 19
 
 # Code of Conduct
 
-Die Uplink-Community soll für alle ein sicherer, integrativer, hilfreicher und belästigungsfreie Ort sein. Alle Mitglieder werden daher gebeten, sich an diesen Code of Conduct zu halten, sowohl online als auch bei Veranstaltungen, die von Uplink ausgerichtet werden oder mit Uplink verbunden sind.
+Die Uplink-Community soll für alle ein sicherer, integrativer, hilfreicher und belästigungsfreier Ort sein. Alle Mitglieder werden daher gebeten, sich an diesen Code of Conduct zu halten, sowohl online als auch bei Veranstaltungen, die von Uplink ausgerichtet werden oder mit Uplink verbunden sind.
 
 Das Uplink-Team ist für die Klärung und Durchsetzung der Standards für akzeptables Verhalten verantwortlich und hat das Recht, Mitglieder bei Verstößen aus der Community auszuschließen.
 
 ## Die Kurzversion
 
-* Seid nett zueinandern! Behandele andere so, wie du behandelt werden willst.
+* Seid nett zueinander! Behandele andere so, wie du behandelt werden willst.
 * Respektiere unterschiedliche Ansichten und Meinungen. Im Zweifel: agree to disagree.
 * Jeder hat mal neu angefangen, sei daher bitte geduldig und hilfsbereit mit Neulingen.
 
@@ -20,7 +20,7 @@ Das #1 Ziel für jeden in unserer Community sollte es sein, hilfreich zu sein un
 
 Bitte bedenke, dass schriftliche Kommunikation leicht missverstanden werden kann, insbesondere wenn sich Autor und Leser nicht persönlich kennen. Daher ist "Overcommunication" oft ratsam, d.h. den eigenen Standpunkt ausführlicher zu erläutern, als wenn man es in einem direkten Gespräch machen würde, und großzügig Emojis zu verwenden, um die eigene Intention zu verdeutlichen. 😀
 
-Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft kennen sie die "Dos und Don’ts" der Community noch nicht oder stellen Fragen, die bereits beantwortet wurden. Schreib in diesem Fall bite nicht einfach, dass sie doch bitte die Suche benutzen sollen, sondern versuche, die Frage kurz zu beantworten und erwähne, dass eine Suche (im [Slack](our-slack.md) oder in unserem [Community Wiki](community-wiki.md)) noch weitere hilfreiche Antworten ergeben könnte.
+Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft kennen sie die "Dos und Don’ts" der Community noch nicht oder stellen Fragen, die bereits beantwortet wurden. Schreib in diesem Fall bitte nicht einfach, dass sie doch bitte die Suche benutzen sollen, sondern versuche, die Frage kurz zu beantworten und erwähne, dass eine Suche (im [Slack](our-slack.md) oder in unserem [Community Wiki](community-wiki.md)) noch weitere, hilfreiche Antworten ergeben könnte.
 
 Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am besten, zu akzeptieren, dass Mitglieder unterschiedliche Ansichten zu einem Thema haben und die Debatte mit einem "Let's agree to disagree!" zu beenden.
 
