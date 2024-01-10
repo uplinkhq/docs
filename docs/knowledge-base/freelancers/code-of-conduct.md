@@ -24,21 +24,25 @@ Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft k
 
 Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am besten, zu akzeptieren, dass Mitglieder unterschiedliche Ansichten zu einem Thema haben und die Debatte mit einem "Let's agree to disagree!" zu beenden.
 
-Bitte vermeide politische Nachrichten und Inhalte, und auch andere kontroverse Themen. Dafür ist Uplink nicht die passende Plattform.
+Bitte vermeide es, politische Nachrichten und Inhalte zu posten, die keinen direkten Bezug zu Freelancing haben. Dazu gehören inbesondere das Loben oder Kritisieren von bestimmten politischen Parteien, Politikern oder politischen Entscheidungen.
 
 Bleibe professionell und vermeide es, (Gruppen von) Personen direkt anzugreifen. Wenn du z.B. über Recruiter sprichst, ist es vollkommen in Ordnung, sie zu kritisieren oder Beispiele für unpassende Anfragen zu zeigen, aber bitte nenne keine Klarnamen und vermeide Beleidigungen und verletzende Sprache.
 
 ## Verhalten auf unseren Veranstaltungen
 
-Coming soon...
+Wenn du eines unserer Meetups oder andere Veranstaltungen von Uplink besuchst, gelten im Grundsatz die gleichen Regeln wie in unserer Online-Community: sei freundlich und hilfsbereit, respektiere unterschiedliche Meinungen und sei geduldig mit neuen Mitgliedern.
+
+Wenn auf der Veranstaltung Alkohol ausgeschenkt wird, trinke bitte verantwortungsbewusst und kenne dein Limit!
 
 ## Kommunikation mit Kunden und Recruitern
 
-Coming soon...
+Wenn du über Uplink in Kontakt zu Kunden oder Recruitern kommst, verhalte dich bitte diesen gegenüber professionell und respektvoll.
+
+Sollte es zu einem Problem kommen, kontaktiere bitte direkt das Uplink-Team! Oft können wir als neutrale Instanz schnell helfen, Missverständnisse zu klären und Probleme zu lösen.
 
 ## Inakzeptables Verhalten
 
-Einige Dinge werden nicht toleriert und können zum sofortigen Ausschluss aus der Community führen:
+Sowohl in der Online-Community als auch bei unseren Veranstaltungen gibt es einige Dinge, die nicht toleriert werden und zum sofortigen Ausschluss aus der Community führen können:
 
 * Die Verwendung von sexualisierter Sprache oder Bildern und unerwünschte sexuelle Aufmerksamkeit oder Annäherungsversuche
 * Sexistische, rassistische, extremistische, menschenverachtende und antisemitische Inhalte
@@ -48,4 +52,4 @@ Einige Dinge werden nicht toleriert und können zum sofortigen Ausschluss aus de
 
 ## Reporting & Feedback
 
-Wenn du der Meinung bist, dass jemand aus der Community gegen den Code of Conduct verstoßen hat, [melde dich bitte bei uns!](mailto:%{email}) Das Gleiche gilt, wenn deiner Meinung nach etwas in unserem Code of Conduct hinzugefügt oder geändert werden sollte.
+Wenn du der Meinung bist, dass jemand aus der Community gegen den Code of Conduct verstoßen hat, [melde dich bitte bei uns!](mailto:hello@uplink.tech) Das Gleiche gilt, wenn deiner Meinung nach etwas in unserem Code of Conduct hinzugefügt oder geändert werden sollte.

@@ -24,21 +24,25 @@ Please be especially patient and helpful to new members! They often don't know t
 
 Try to avoid or de-escalate heated debates. Often the best course of action is to accept that members have differing viewpoints on a topic and end the debate with a "Let's agree to disagree!"
 
-Please avoid political news and content, as well as other controversial topics. Uplink is not the right platform for this.
+Please avoid posting political news and content that is not directly related to freelancing. This includes, in particular, praising or criticizing certain political parties, politicians or political decisions.
 
 Stay professional and avoid attacking (groups of) people directly. When talking about recruiters, for example, it's fine critizing them or showing examples of badly worded messages, but don't mention any clear names and stay away from insults and hurtful language.
 
 ## Behavior on our events
 
-Coming soon...
+If you attend one of our meetups or other Uplink events, the same rules apply as in our online community: be friendly and helpful, respect different opinions and be patient with new members.
+
+If alcohol is served at the event, please drink responsibly and know your limit!
 
 ## Communication with clients and recruiters
 
-Coming soon...
+If you come into contact with clients or recruiters via Uplink, please behave professionally and respectfully towards them.
+
+If there is a problem, please contact the Uplink team directly! As a neutral authority, we can often quickly help to clarify misunderstandings and solve problems.
 
 ## Unacceptable behavior
 
-Some things will not be tolerated and might lead to your immediate exclusion from the community:
+Both in the online community and at our events, there are some things that will not be tolerated and can lead to your immediate exclusion from the community:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Sexist, racist, extremist, inhuman and anti-Semitic content
@@ -48,4 +52,4 @@ Some things will not be tolerated and might lead to your immediate exclusion fro
 
 ## Reporting & Feedback
 
-If you think someone from the community violated the Code of Conduct, [please get in touch with us!](mailto:%{email}) The same applies if in your opinion something should be added to or changed in our Code of Conduct.
+If you think someone from the community violated the Code of Conduct, [please get in touch with us!](mailto:hello@uplink.tech) The same applies if in your opinion something should be added to or changed in our Code of Conduct.
