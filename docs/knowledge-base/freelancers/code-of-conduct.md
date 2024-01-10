@@ -24,7 +24,7 @@ Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft k
 
 Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am besten, zu akzeptieren, dass Mitglieder unterschiedliche Ansichten zu einem Thema haben und die Debatte mit einem "Let's agree to disagree!" zu beenden.
 
-Bitte vermeide es, politische Nachrichten und Inhalte zu posten, die keinen direkten Bezug zu Freelancing haben. Dazu gehören inbesondere das Loben oder Kritisieren von bestimmten politischen Parteien, Politikern oder politischen Entscheidungen.
+Bitte vermeide es, politische Nachrichten und Inhalte zu posten, die keinen direkten Bezug zu Freelancing haben. Dazu gehören insbesondere das Loben oder Kritisieren von bestimmten politischen Parteien, Politikern oder politischen Entscheidungen.
 
 Bleibe professionell und vermeide es, (Gruppen von) Personen direkt anzugreifen. Wenn du z.B. über Recruiter sprichst, ist es vollkommen in Ordnung, sie zu kritisieren oder Beispiele für unpassende Anfragen zu zeigen, aber bitte nenne keine Klarnamen und vermeide Beleidigungen und verletzende Sprache.
 
