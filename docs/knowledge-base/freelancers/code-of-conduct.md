@@ -41,7 +41,7 @@ Coming soon...
 Einige Dinge werden nicht toleriert und können zum sofortigen Ausschluss aus der Community führen:
 
 * Die Verwendung von sexualisierter Sprache oder Bildern und unerwünschte sexuelle Aufmerksamkeit oder Annäherungsversuche
-* Rassistische, extremistische, menschenverachtende und antisemitische Inhalte
+* Sexistische, rassistische, extremistische, menschenverachtende und antisemitische Inhalte
 * Trolling, beleidigende/abwertende Kommentare, persönliche oder politische Angriffe und jegliche andere Art der Diskriminierung
 * Öffentliche oder private Belästigung
 * Veröffentlichung privater Informationen anderer Personen, wie z. B. physische oder elektronische Adressen, ohne ausdrückliche Genehmigung
