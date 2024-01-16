@@ -116,7 +116,7 @@ Recruiter jobs are grouped by technologies and can be found in the following cha
 * **[#jobs-recruiter-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R468SH)** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
 * **[#jobs-recruiter-sap](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5QD7L7)** - Recruiter SAP jobs
 
-### Community jobs {#job-channels-community}
+### Community jobs {#community-jobs}
 
 If you'd like to hear about jobs from other members of the Uplink community, join **[#jobs-community](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)**!
 

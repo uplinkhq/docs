@@ -21,6 +21,6 @@ We wanted to find a simple way for the freelancers to post their own jobs to the
 
 Freelancers who are interested to hear about community jobs can join and will be notified of each new post, just like our regular jobs channels work.
 
-Check our [Knowledge Base](https://uplink.tech/knowledge-base/freelancers/our-slack/#job-channels-community) for guidelines of what and how to post in this channel.
+Check our [Knowledge Base](https://uplink.tech/knowledge-base/freelancers/our-slack/#community-jobs) for guidelines of what and how to post in this channel.
 
 So if you're working on a client project and can think of some parts that could be 'outsourced', why not find another freelancer to work with? It might be more fun and fulfilling to have someone to partner with!
