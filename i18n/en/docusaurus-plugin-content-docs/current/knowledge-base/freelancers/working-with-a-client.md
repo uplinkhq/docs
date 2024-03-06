@@ -12,7 +12,7 @@ Once you and the client decide to work together, our job is (mostly) done. We ar
 
 ### Contract
 
-The contract is signed between you and the client directly. Please make sure it is legally solid and, if you are unsure, prefer a Dienstvertrag to a Werkvertrag. If the client asks you for a contract, feel free to use [our template for a Dienstvertrag](https://uplink.tech/vertragsvorlagen).
+The contract is signed between you and the client directly. Please make sure it is legally solid and, if you are unsure, prefer a Dienstvertrag to a Werkvertrag. If the client asks you for a contract, feel free to use [our template for a Dienstvertrag](https://uplink.tech/document-templates).
 
 ### Invoices
 
