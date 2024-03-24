@@ -4,7 +4,6 @@ description: Die Ergebnisse unserer aktuellen "Freelance Radar" Umfrage unter de
 authors: manuel
 tags:
 - freelance-radar
-draft: true
 
 ---
 
@@ -36,9 +35,3 @@ Die gesamten Ergebnisse der Umfrage finden sich auf unserer Webseite:
 ![KI Nutzung](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/b0d772-ai-usage.png)
 
 ![KI Aussichten](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/2db7b0-ai-outlook.png)
-
-![Dein Alter](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/2bd0eb-your-age.png)
-
-![Dein Geschlecht](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/0eed5a-your-gender.png)
-
-![Erfahrung als Freelancer](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/9036b0-experience-as-freelancer.png)
