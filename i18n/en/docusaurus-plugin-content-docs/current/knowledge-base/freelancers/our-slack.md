@@ -93,9 +93,9 @@ Recruiter jobs are grouped by technologies and can be found in the following cha
 
 ### Community jobs {#community-jobs}
 
-If you'd like to hear about jobs from other members of the Uplink community, join **[#jobs-community](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)**!
+If you'd like to hear about jobs from other members of the Uplink community, join **[#community-jobs](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)**!
 
-Unlike the other job channels, **[#jobs-community](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)** is open for everyone to post. Post your job here if:
+Unlike the other job channels, **[#community-jobs](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)** is open for everyone to post. Post your job here if:
 
 * you have a personal project, but are missing the skills or time to work on it, or
 * you're working on a client project that you could need some help with, or

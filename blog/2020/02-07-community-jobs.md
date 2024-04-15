@@ -5,7 +5,7 @@ tags:
 - announcement
 ---
 
-_Update June 2020 - #jobs-community is now also open for Uplink members, who started their own startup and are looking for co-founders or a CTO in exchange for shares!_
+_Update June 2020 - #community-jobs is now also open for Uplink members, who started their own startup and are looking for co-founders or a CTO in exchange for shares!_
 
 ---
 
@@ -17,7 +17,7 @@ Until now we struggled to handle these questions. Of course we could handle thos
 
 We wanted to find a simple way for the freelancers to post their own jobs to the community, without the need for us to get involved (apart from having an eye on the posts to make sure they are of high quality), and without charging anyone anything.
 
-**After considering lots of complicated options, we settled on the simplest one and created the Slack channel [#jobs-community](https://uplinkhq.slack.com/archives/CTDPX6JMP), to which everyone has access to post their own jobs.**
+**After considering lots of complicated options, we settled on the simplest one and created the Slack channel [#community-jobs](https://uplinkhq.slack.com/archives/CTDPX6JMP), to which everyone has access to post their own jobs.**
 
 Freelancers who are interested to hear about community jobs can join and will be notified of each new post, just like our regular jobs channels work.
 
