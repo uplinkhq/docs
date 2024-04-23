@@ -12,7 +12,7 @@ Hier erfährst du alles darüber, was Uplink [Freelancern](freelancers/index.md)
 
 Uplink ist eine Community für IT-Freelancer und wurde 2016 in Berlin gegründet.
 
-Über die Jahre ist das Netzwerk organisch gewachsen und hat aktuell (Stand Januar 2024) über 4.000 aktive Mitglieder: Entwickler, Designer, Engineers, und Produkt Manager.
+Über die Jahre ist das Netzwerk organisch gewachsen und hat aktuell (Stand Mai 2024) über 4.500 aktive Mitglieder: Entwickler, Designer, Engineers, und Produkt Manager.
 
 Mehr Informationen findest du in den folgenden Kategorien:
 
