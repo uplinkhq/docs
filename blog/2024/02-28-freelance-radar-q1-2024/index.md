@@ -20,18 +20,18 @@ Die gesamten Ergebnisse der Umfrage finden sich auf unserer Webseite:
 
 ## Highlights
 
-![Aktuelle Projektlage](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/fb7a61-current-project-situation.png)
+![Aktuelle Projektlage](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/fb7a61-current-project-situation.png)
 
-![Aktueller Stundensatz](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/7cd79f-current-hourly-rate.png)
+![Aktueller Stundensatz](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/7cd79f-current-hourly-rate.png)
 
-![Skills und Technologien](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/25d452-skills-and-technologies.png)
+![Skills und Technologien](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/25d452-skills-and-technologies.png)
 
-![Arbeitsort](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/7dfee5-work-location.png)
+![Arbeitsort](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/7dfee5-work-location.png)
 
-![Projektakquise](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/bd20d8-project-acquisition.png)
+![Projektakquise](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/bd20d8-project-acquisition.png)
 
-![Geschäftsaussichten](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/22337f-business-outlook.png)
+![Geschäftsaussichten](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/22337f-business-outlook.png)
 
-![KI Nutzung](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/b0d772-ai-usage.png)
+![KI Nutzung](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/b0d772-ai-usage.png)
 
-![KI Aussichten](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/2db7b0-ai-outlook.png)
+![KI Aussichten](https://uplink.tech/freelance-radar/89ea7d-freelance-radar-q1-2024/results/2db7b0-ai-outlook.png)

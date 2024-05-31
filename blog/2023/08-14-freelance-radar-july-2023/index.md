@@ -22,8 +22,8 @@ Die gesamten Ergebnisse der Umfrage finden sich auf unserer Webseite:
 
 ## Highlights
 
-![Aktuelle Projektlage](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/e778a0-current-project-situation.png)
+![Aktuelle Projektlage](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/results/e778a0-current-project-situation.png)
 
-![Aktueller Stundensatz](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/526914-current-hourly-rate.png)
+![Aktueller Stundensatz](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/results/526914-current-hourly-rate.png)
 
-![Geschäftsaussichten](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/b76f1a-business-outlook.png)
+![Geschäftsaussichten](https://uplink.tech/freelance-radar/283211-freelance-radar-july-2023/results/b76f1a-business-outlook.png)
