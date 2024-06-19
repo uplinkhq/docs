@@ -16,18 +16,18 @@ In our Slack, you'll find a number of **public channels** and **job channels**.
 
 This is where you can talk with other Uplink members!
 
-* **[#announcements](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C1LBX0MGA)** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can (and is encouraged to) comment in a thread on the announcements!
-* **[#business](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C97LGH2GY)** - Chat about everything related to the business side of freelancing - clients, contracts, finances, insurance, freelancer registration, company incorporation, etc. Feel free to ask for help if you’re new to the game!
-* **[#events](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8QBHBM38)** - Are you organizing or planning to attend an event, meetup or conference? Let the other Uplink members know!
-* **[#ideas](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CAAJY8M6K)** - Post your side projects or ideas for new services or products here to get feedback!
-* **[#investing](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C9JQPPD8D)** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
-* **[#uplink](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CE5F24679)** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
-* **[#lounge](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C97PG11KK)** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
-* **[#lang-rust](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CHT3P0WNL)** - Everything about the Rust programming language.
-* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX), [#tech-security](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04AYLYS6A2)** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
-* **[#city-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PHS0RM), [#city-hamburg](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8262C15X)** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
-* **[#marketplace](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04CGALF3K9)** - This is the right channel for buying and selling hardware, software, office equipment, or similar.
-* **[#fun](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C04EA93RZPW)** - This is the place to come to for your daily dose of FUN - ridiculous recruiter messages, client fails, jokes, memes, and everything else that is worth a chuckle!
+* **[#announcements](https://uplink.tech/slack/announcements) comment in a thread on the announcements!
+* **[#business](https://uplink.tech/slack/business)** - Chat about everything related to the business side of freelancing - clients, contracts, finances, insurance, freelancer registration, company incorporation, etc. Feel free to ask for help if you’re new to the game!
+* **[#events](https://uplink.tech/slack/events)** - Are you organizing or planning to attend an event, meetup or conference? Let the other Uplink members know!
+* **[#ideas](https://uplink.tech/slack/ideas)** - Post your side projects or ideas for new services or products here to get feedback!
+* **[#investing](https://uplink.tech/slack/investing)** - Talk about investments, banks, stocks, crypto, etc. with your fellow Uplinkers.
+* **[#uplink](https://uplink.tech/slack/uplink)** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
+* **[#lounge](https://uplink.tech/slack/lounge)** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter messages, and everything else non-business related.
+* **[#lang-rust](https://uplink.tech/slack/lang-rust)** - Everything about the Rust programming language.
+* **[#tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX), [#tech-security](https://uplink.tech/slack/tech-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C90U3KNKS), [#tech-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C91MCDTPX), [#tech-security)** + 5 more - Channels starting with "tech-" are dedicated to questions, discussions, news, and articles about a certain tech topic.
+* **[#city-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PHS0RM), [#city-hamburg](https://uplink.tech/slack/city-berlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PHS0RM), [#city-hamburg)** + 3 more - Channels starting with "city-" are dedicated to questions and discussions about the local IT scene, events, coworking spaces, companies etc. in a certain city.
+* **[#marketplace](https://uplink.tech/slack/marketplace)** - This is the right channel for buying and selling hardware, software, office equipment, or similar.
+* **[#fun](https://uplink.tech/slack/fun)** - This is the place to come to for your daily dose of FUN - ridiculous recruiter messages, client fails, jokes, memes, and everything else that is worth a chuckle!
 
 ## Guidelines
 
@@ -41,61 +41,61 @@ Here are a few articles with guidelines for effective online conversations that 
 
 ## Job channels {#job-channels}
 
-Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js, Java, or Kotlin, join **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** and **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)**) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
+Each time a new job is published, it is posted to one or (most of the time) multiple job channels, where all members can apply to it. As a member, you can simply join the channels you are interested in (e.g., if you'd only like to hear about direct jobs with React.js, Java, or Kotlin, join **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** and **[#jobs-direct-backend-java-kotlin](https://uplink.tech/slack/jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** and **[#jobs-direct-backend-java-kotlin) and you will receive a mobile or desktop notification from Slack each time a new job ist posted.
 
 [**Direct jobs**](direct-jobs.md) **and** [**recruiter jobs**](recruiter-jobs.md) **are posted to separate channels. Join the ones that are relevant to you!**
 
 ### All jobs
 
-* **[#jobs-direct](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PJPB8F)** - All direct jobs
-* **[#jobs-recruiter](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01AP26K7KK)** - All recruiter jobs
+* **[#jobs-direct](https://uplink.tech/slack/jobs-direct)** - All direct jobs
+* **[#jobs-recruiter](https://uplink.tech/slack/jobs-recruiter)** - All recruiter jobs
 
 ### Direct jobs by technologies/skills
 
 If you're interested in direct jobs in a specific skill area, join one of these channels.
 
-Note that the channels **[#jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)**, **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)**, and **[#jobs-direct-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9KMNE)** will receive all job postings from their sub-groups, i.e. every job posted to **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** will also be posted to **[#jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)**.
+Note that the channels **[#jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)**, **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)**, and **[#jobs-direct-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9KMNE)** will receive all job postings from their sub-groups, i.e. every job posted to **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** will also be posted to **[#jobs-direct-backend](https://uplink.tech/slack/jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)**, **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)**, and **[#jobs-direct-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9KMNE)** will receive all job postings from their sub-groups, i.e. every job posted to **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** will also be posted to **[#jobs-direct-backend)**.
 
-* **[#jobs-direct-cms](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CE3PJ54FK)** - Direct CRM jobs (WordPress, Joomla, Drupal, TYPO3, etc.)
-* **[#jobs-direct-devops-cloud](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RH3P29)** - Direct DevOps and Cloud jobs (Docker, Kubernetes, AWS, GCP, Azure, etc.)
-* **[#jobs-direct-ecommerce](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CBD50SFD2)** - Direct e-commerce jobs (Shopify, Magento, WooCommerce, etc.)
-* **[#jobs-direct-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CCVTDDRMG)** - Direct Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **[#jobs-direct-ui-ux](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CCX8CCYMC)** - Direct UI/UX design jobs
-* **[#jobs-direct-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M969M0)** - All direct backend jobs (C++, .NET, Go, etc.)
-* **[#jobs-direct-backend-cpp](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CJL8RT347)** - Direct C++ jobs
-* **[#jobs-direct-backend-dotnet](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CB1TQCBJL)** - Direct .NET jobs
-* **[#jobs-direct-backend-go](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CEJ7YL28Y)** - Direct Go jobs
-* **[#jobs-direct-backend-java-kotlin](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C821ZMFUY)** - Direct Java and Kotlin jobs
-* **[#jobs-direct-backend-js](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C99U5R7KR)** - Direct JS backend jobs
-* **[#jobs-direct-backend-php](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C8263T1T3)** - Direct PHP jobs
-* **[#jobs-direct-backend-python](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMC4RL)** - Direct Python jobs
-* **[#jobs-direct-backend-ruby](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M98JSW)** - Direct Ruby jobs
-* **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** - All direct frontend jobs (Angular, React.js, Vue.js, etc.)
-* **[#jobs-direct-frontend-angular](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKHGMV)** - Direct Angular jobs
-* **[#jobs-direct-frontend-react](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKG99V)** - Direct React.js jobs
-* **[#jobs-direct-frontend-vue](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83HMHEES)** - Direct Vue.js jobs
-* **[#jobs-direct-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9KMNE)** - All direct mobile jobs (Android, iOS, Hybrid, etc.)
-* **[#jobs-direct-mobile-android](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82RH25D3)** - Direct Android jobs
-* **[#jobs-direct-mobile-ios](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C82M9MMJ6)** - Direct iOS jobs
-* **[#jobs-direct-mobile-hybrid](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C89R781ME)** - Direct Hybrid jobs (React Native, Ionic, Flutter, Xamarin, etc.)
+* **[#jobs-direct-cms](https://uplink.tech/slack/jobs-direct-cms)
+* **[#jobs-direct-devops-cloud](https://uplink.tech/slack/jobs-direct-devops-cloud)
+* **[#jobs-direct-ecommerce](https://uplink.tech/slack/jobs-direct-ecommerce)
+* **[#jobs-direct-agile](https://uplink.tech/slack/jobs-direct-agile)
+* **[#jobs-direct-ui-ux](https://uplink.tech/slack/jobs-direct-ui-ux)** - Direct UI/UX design jobs
+* **[#jobs-direct-backend](https://uplink.tech/slack/jobs-direct-backend)
+* **[#jobs-direct-backend-cpp](https://uplink.tech/slack/jobs-direct-backend-cpp)** - Direct C++ jobs
+* **[#jobs-direct-backend-dotnet](https://uplink.tech/slack/jobs-direct-backend-dotnet)** - Direct .NET jobs
+* **[#jobs-direct-backend-go](https://uplink.tech/slack/jobs-direct-backend-go)** - Direct Go jobs
+* **[#jobs-direct-backend-java-kotlin](https://uplink.tech/slack/jobs-direct-backend-java-kotlin)** - Direct Java and Kotlin jobs
+* **[#jobs-direct-backend-js](https://uplink.tech/slack/jobs-direct-backend-js)** - Direct JS backend jobs
+* **[#jobs-direct-backend-php](https://uplink.tech/slack/jobs-direct-backend-php)** - Direct PHP jobs
+* **[#jobs-direct-backend-python](https://uplink.tech/slack/jobs-direct-backend-python)** - Direct Python jobs
+* **[#jobs-direct-backend-ruby](https://uplink.tech/slack/jobs-direct-backend-ruby)** - Direct Ruby jobs
+* **[#jobs-direct-frontend](https://uplink.tech/slack/jobs-direct-frontend)
+* **[#jobs-direct-frontend-angular](https://uplink.tech/slack/jobs-direct-frontend-angular)** - Direct Angular jobs
+* **[#jobs-direct-frontend-react](https://uplink.tech/slack/jobs-direct-frontend-react)** - Direct React.js jobs
+* **[#jobs-direct-frontend-vue](https://uplink.tech/slack/jobs-direct-frontend-vue)** - Direct Vue.js jobs
+* **[#jobs-direct-mobile](https://uplink.tech/slack/jobs-direct-mobile)
+* **[#jobs-direct-mobile-android](https://uplink.tech/slack/jobs-direct-mobile-android)** - Direct Android jobs
+* **[#jobs-direct-mobile-ios](https://uplink.tech/slack/jobs-direct-mobile-ios)** - Direct iOS jobs
+* **[#jobs-direct-mobile-hybrid](https://uplink.tech/slack/jobs-direct-mobile-hybrid)
 
 ### Recruiter jobs by technologies/skills
 
 Recruiter jobs are grouped by technologies and can be found in the following channels:
 
 * **#jobs-recruiter-frontent** - Recruiter frontend jobs
-* **[#jobs-recruiter-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RD8F9)** - Recruiter backend jobs (PHP, Java, .NET, etc.)
-* **[#jobs-recruiter-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RQQDV)** - Recruiter mobile jobs (Android, iOS, Hybrid, etc.)
-* **[#jobs-recruiter-devops-cloud](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01GL3Q41K6)** - Recruiter DevOps and Cloud jobs (Docker, Kubernetes, AWS, GCP, Azure, etc.)
-* **[#jobs-recruiter-consulting](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A94A65GT)** - Recruiter consulting jobs
-* **[#jobs-recruiter-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R468SH)** - Recruiter Agile/Scrum jobs (POs, Scrum Masters, Agile Coaches, etc.)
-* **[#jobs-recruiter-sap](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5QD7L7)** - Recruiter SAP jobs
+* **[#jobs-recruiter-backend](https://uplink.tech/slack/jobs-recruiter-backend)
+* **[#jobs-recruiter-mobile](https://uplink.tech/slack/jobs-recruiter-mobile)
+* **[#jobs-recruiter-devops-cloud](https://uplink.tech/slack/jobs-recruiter-devops-cloud)
+* **[#jobs-recruiter-consulting](https://uplink.tech/slack/jobs-recruiter-consulting)** - Recruiter consulting jobs
+* **[#jobs-recruiter-agile](https://uplink.tech/slack/jobs-recruiter-agile)
+* **[#jobs-recruiter-sap](https://uplink.tech/slack/jobs-recruiter-sap)** - Recruiter SAP jobs
 
 ### Community jobs {#community-jobs}
 
-If you'd like to hear about jobs from other members of the Uplink community, join **[#community-jobs](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)**!
+If you'd like to hear about jobs from other members of the Uplink community, join **[#community-jobs](https://uplink.tech/slack/community-jobs)**!
 
-Unlike the other job channels, **[#community-jobs](https://slack.com/app_redirect?team=T1LBG4C5N&channel=CTDPX6JMP)** is open for everyone to post. Post your job here if:
+Unlike the other job channels, **[#community-jobs](https://uplink.tech/slack/community-jobs)** is open for everyone to post. Post your job here if:
 
 * you have a personal project, but are missing the skills or time to work on it, or
 * you're working on a client project that you could need some help with, or

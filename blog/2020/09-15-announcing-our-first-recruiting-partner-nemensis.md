@@ -41,14 +41,14 @@ More job postings make our community more attractive for everyone, since even if
 
 We set up a new set of channels for recruiter jobs which are completely separate from the existing job channels:
 
-- [#jobs-recruiter](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01AP26K7KK)
-- [#jobs-recruiter-sap](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5QD7L7)
-- [#jobs-recruiter-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5R0MP1)
-- [#jobs-recruiter-backend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RD8F9)
-- [#jobs-recruiter-mobile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C019U5RQQDV)
-- [#jobs-recruiter-ops](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R3FSJZ)
-- [#jobs-recruiter-pm-agile](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A5R468SH)
-- [#jobs-recruiter-consulting](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C01A94A65GT)
+- [#jobs-recruiter](https://uplink.tech/slack/jobs-recruiter)
+- [#jobs-recruiter-sap](https://uplink.tech/slack/jobs-recruiter-sap)
+- [#jobs-recruiter-frontend](https://uplink.tech/slack/jobs-recruiter-frontend)
+- [#jobs-recruiter-backend](https://uplink.tech/slack/jobs-recruiter-backend)
+- [#jobs-recruiter-mobile](https://uplink.tech/slack/jobs-recruiter-mobile)
+- [#jobs-recruiter-ops](https://uplink.tech/slack/jobs-recruiter-ops)
+- [#jobs-recruiter-pm-agile](https://uplink.tech/slack/jobs-recruiter-pm-agile)
+- [#jobs-recruiter-consulting](https://uplink.tech/slack/jobs-recruiter-consulting)
 
 #jobs-recruiter will receive all jobs from Nemensis (and future Recruiting Partners), and the other channels are dedicated to jobs from the areas of SAP, frontend development, backend development, mobile development, ops (operations), PM/Agile and consulting. We might add more channels in the future when the job selection demands it.
 
