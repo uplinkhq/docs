@@ -6,7 +6,7 @@ sidebar_position: 1
 
 This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
 
-Here you can learn everything about what Uplink offers [freelancers](freelancers/index.md), [clients](clients/index.md), [recruiters](recruiters/index.md) and [agencies](agencies/index.md).
+Here you can learn everything about what Uplink offers [freelancers](02-freelancers/index.md), [clients](03-clients/index.md), [recruiters](04-recruiters/index.md) and [agencies](05-agencies/index.md).
 
 ## What is Uplink?
 
@@ -16,13 +16,13 @@ Over the years, the network has grown organically and current (as of May 2024) h
 
 You can find more information in the following categories:
 
-**[For Freelancers »](freelancers/index.md)**
+**[For Freelancers »](02-freelancers/index.md)**
 
-**[For Clients »](clients/index.md)**
+**[For Clients »](03-clients/index.md)**
 
-**[For Recruiters »](recruiters/index.md)**
+**[For Recruiters »](04-recruiters/index.md)**
 
-**[For Agencies »](agencies/index.md)**
+**[For Agencies »](05-agencies/index.md)**
 
 ## Is anything missing?
 
