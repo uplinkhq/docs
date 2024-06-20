@@ -44,4 +44,4 @@ If a freelancer wants to check if we already know the client before rererring th
 
 At irregular intervals, we run "Double the Coins" campaigns, where our members get double the reward for a successful referral, i.e. 500€ if we post a job from the client, and another 500€ if we can refer a candidate.
 
-The campaigns are announced in our Member News, in [Slack](our-slack.md) and on our blog.
+The campaigns are announced in our Member News, in [Slack](community-slack.md) and on our blog.

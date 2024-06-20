@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Our Slack
+# Community Slack
 
 Slack is our (virtual) clubhouse where all our members hang our and chat, and where all new jobs are posted.
 

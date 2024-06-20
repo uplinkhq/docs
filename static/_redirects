@@ -117,4 +117,5 @@
 /blog/tag/* /blog/tags/:splat 301
 /knowledge-base/en/* /en/knowledge-base/:splat 301
 
-/knowledge-base/freelancers/our-slack-workspace /knowledge-base/freelancers/our-slack/ 301
+/knowledge-base/freelancers/our-slack-workspace /knowledge-base/freelancers/community-slack/ 301
+/knowledge-base/freelancers/our-slack /knowledge-base/freelancers/community-slack/ 301

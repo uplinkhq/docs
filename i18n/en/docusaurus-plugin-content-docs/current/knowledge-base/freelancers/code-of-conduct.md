@@ -20,7 +20,7 @@ The #1 goal for everyone in our community should be to be helpful and support ea
 
 Please keep in mind that written communication can easily be misunderstood, especially if the author and readers don't know each other personally. It's therefore often wise to "overcommunicate", i.e. to explain your viewpoint more detailed than when talking to someone, and use emojis generously to clafiry your intention. 😀
 
-Please be especially patient and helpful to new members! They often don't know the "dos und don’ts" of the community yet, or ask questions that have been answered before. In that case, please don't simply tell them to use the search, but try to briefly answer their question and mention that a search (in [Slack](our-slack.md) or our [Community Wiki](community-wiki.md)) might turn up further helpful answers.
+Please be especially patient and helpful to new members! They often don't know the "dos und don’ts" of the community yet, or ask questions that have been answered before. In that case, please don't simply tell them to use the search, but try to briefly answer their question and mention that a search (in [Slack](community-slack.md) or our [Community Wiki](community-wiki.md)) might turn up further helpful answers.
 
 Try to avoid or de-escalate heated debates. Often the best course of action is to accept that members have differing viewpoints on a topic and end the debate with a "Let's agree to disagree!"
 

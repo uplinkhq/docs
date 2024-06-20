@@ -10,7 +10,7 @@ There are many freelancer networks, job boards and other ways for freelancers to
 
 * Our [direct jobs](direct-jobs.md) let you work directly with a client, no middleman involved.
 * Our [recruiter jobs](recruiter-jobs.md) let you discover jobs from recruiters without the usual fluff.
-* Our [Slack](our-slack.md) lets you talk directly to hundreds of other IT freelancers about the topics that matter to you.
+* Our [Slack](community-slack.md) lets you talk directly to hundreds of other IT freelancers about the topics that matter to you.
 * Our [webinars](webinars.md) bring you expert knowledge to your home and you can actively participate.
 * Our [meetups](meetups.md) let you meet fellow freelancers in a casual atmosphere.
 * Our [cooperations](cooperations.md) bring you serious discounts for services that you actually use.

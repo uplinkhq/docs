@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Unser Slack {#our-slack}
+# Community Slack {#community-slack}
 
 Slack ist unser (virtuelles) Vereinsheim, in dem alle unsere Mitglieder zusammenkommen und sich unterhalten, und wo alle neuen Jobs veröffentlicht werden.
 
