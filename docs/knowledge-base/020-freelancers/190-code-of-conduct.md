@@ -16,7 +16,7 @@ Das #1 Ziel für jeden in unserer Community sollte es sein, hilfreich zu sein un
 
 Bitte bedenke, dass schriftliche Kommunikation leicht missverstanden werden kann, insbesondere wenn sich Autor und Leser nicht persönlich kennen. Daher ist "Overcommunication" oft ratsam, d.h. den eigenen Standpunkt ausführlicher zu erläutern, als wenn man es in einem direkten Gespräch machen würde, und großzügig Emojis zu verwenden, um die eigene Intention zu verdeutlichen. 😀
 
-Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft kennen sie die "Dos und Don’ts" der Community noch nicht oder stellen Fragen, die bereits beantwortet wurden. Schreib in diesem Fall bitte nicht einfach, dass sie doch bitte die Suche benutzen sollen, sondern versuche, die Frage kurz zu beantworten und erwähne, dass eine Suche (im [Slack](060-community-slack.md) oder in unserem [Community Wiki](180-community-wiki.md)) noch weitere, hilfreiche Antworten ergeben könnte.
+Sei bitte besonders geduldig und hilfsbereit gegenüber neuen Mitgliedern! Oft kennen sie die "Dos und Don’ts" der Community noch nicht oder stellen Fragen, die bereits beantwortet wurden. Schreib in diesem Fall bitte nicht einfach, dass sie doch bitte die Suche benutzen sollen, sondern versuche, die Frage kurz zu beantworten und erwähne, dass eine Suche (im [Slack](060-community-slack.md) oder in unserem [Community Wiki](067-community-wiki.md)) noch weitere, hilfreiche Antworten ergeben könnte.
 
 Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am besten, zu akzeptieren, dass Mitglieder unterschiedliche Ansichten zu einem Thema haben und die Debatte mit einem "Let's agree to disagree!" zu beenden.
 

@@ -125,7 +125,7 @@ Wir nutzen den kostenlosen Slack-Plan und haben keine Möglichkeit, zu einem der
 
 Die größte Einschränkung im kostenlosen Plan ist, dass nur die Nachrichten der letzten 90 Tage sichtbar und durchsuchbar sind.
 
-Um zu vermeiden, dass die älteren Nachrichten und damit auch das Wissen, das in unserer Community über die Jahre geteilt wurde, verschwinden, haben wir zum einen das [Slack Archive](200-slack-archive.md) und zum anderen das [Community Wiki](180-community-wiki.md) ins Leben gerufen.
+Um zu vermeiden, dass die älteren Nachrichten und damit auch das Wissen, das in unserer Community über die Jahre geteilt wurde, verschwinden, haben wir zum einen das [Slack Archive](065-slack-archive.md) und zum anderen das [Community Wiki](067-community-wiki.md) ins Leben gerufen.
 
 ### Keine E-Mail-Benachrichtigungen nach Inaktivität {#email-notifications}
 
