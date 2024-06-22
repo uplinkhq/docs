@@ -56,9 +56,6 @@ module.exports = {
           label: 'Knowledge Base',
           to: 'knowledge-base'
         }, {
-          label: 'Topics',
-          to: 'topics'
-        }, {
           label: 'Uplink Website',
           href: 'https://uplink.tech/',
           position: 'right'
