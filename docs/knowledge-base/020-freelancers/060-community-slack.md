@@ -28,6 +28,8 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **[#fun](https://uplink.tech/slack/fun)** - Deine tägliche Dosis FUN bekommst du hier - idiotische Recruiter-Anfragen, Kunden FAILs, Witze, Memes,...
 * **[#climate](https://uplink.tech/slack/climate)** - Hier darfst du über Themen sprechen wie Klimawandel, ClimateTech/GreenTech startups, "Green IT", die Verkehrswende, und Möglichkeiten, einen positiven Einfluss auf das Klima zu haben.
 * **[#health](https://uplink.tech/slack/health)** - Hier geht es um deine mentale und physiche Gesundheit - Workouts, Gesundheit am Arbeitsplatz, Meditation, Stressvermeidung und Burnout
+* **[#running-berlin](https://uplink.tech/slack/running-berlin)** - In diesem Channel kannst du dich mit anderen Läufern aus Berlin austauschen.
+* **[#freelance-unlocked-conference](https://uplink.tech/slack/freelance-unlocked-conference)** - Hier findest du alle Infos zur jährlich stattfindenden ["Freelance Unlocked" Konferenz](https://www.freelanceunlocked.com/).
 
 ## Job-Channels {#job-channels}
 
