@@ -108,9 +108,6 @@ module.exports = {
       appId: 'K9RDB6VV79',
       apiKey: '137ddb554c86d39a0706b3a11d37928c',
       indexName: 'uplink',
-    },
-    chatwoot: {
-      websiteToken: "uL45w7sy3rxs8YA9Sq9eeBR7"
     }
   },
   presets: [
@@ -147,6 +144,5 @@ module.exports = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de', 'en']
-  },
-  plugins: ["@chatwoot/docusaurus-plugin"],
+  }
 };

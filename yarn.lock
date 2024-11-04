@@ -2827,11 +2827,6 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@chatwoot/docusaurus-plugin@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@chatwoot/docusaurus-plugin/-/docusaurus-plugin-1.0.1.tgz#88e703a4ba2bb69334605d5d11342b7a6b46621a"
-  integrity sha512-1rcfjUjClEouLM8x9Z5y1omnW0fMUmgl6L0zTqAIQw2JXTCY3ChogowOmWfSELyC85WADMjcuS0whlxaEfQcvA==
-
 "@cloudflare/kv-asset-handler@^0.2.0":
   version "0.2.0"
   resolved "https://registry.npmjs.org/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.2.0.tgz"
