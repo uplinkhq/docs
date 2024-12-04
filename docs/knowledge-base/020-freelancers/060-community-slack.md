@@ -31,6 +31,7 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **[#health](https://uplink.tech/slack/health)** - Hier geht es um deine mentale und physiche Gesundheit - Workouts, Gesundheit am Arbeitsplatz, Meditation, Stressvermeidung und Burnout
 * **[#running-berlin](https://uplink.tech/slack/running-berlin)** - In diesem Channel kannst du dich mit anderen Läufern aus Berlin austauschen.
 * **[#freelance-unlocked-conference](https://uplink.tech/slack/freelance-unlocked-conference)** - Hier findest du alle Infos zur jährlich stattfindenden ["Freelance Unlocked" Konferenz](https://www.freelanceunlocked.com/).
+* **[#webinars](https://uplink.tech/slack/webinars)** - Join this channel to be notified when one of our [webinars](https://uplink.tech/en/webinars) starts, to ask questions for the Q&A part of a webinar and to discuss ideas and topics for new webinars.
 
 ## Job-Channels {#job-channels}
 
