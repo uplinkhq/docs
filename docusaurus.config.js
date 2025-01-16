@@ -50,9 +50,6 @@ module.exports = {
       },
       items: [
         {
-          label: 'Blog',
-          to: 'blog'
-        }, {
           label: 'Knowledge Base',
           to: 'knowledge-base'
         }, {
@@ -123,11 +120,6 @@ module.exports = {
           routeBasePath: '/',
           editUrl: 'https://github.com/uplinkhq/docs/edit/main/',
           editLocalizedFiles: true,
-        },
-        blog: {
-          blogTitle: 'The Uplink Blog',
-          postsPerPage: 10,
-          blogSidebarCount: 10,
           rehypePlugins: [
             process.env.NODE_ENV === 'production' && [
               rehypeCloudinaryDocusaurus,
