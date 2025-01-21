@@ -12,7 +12,7 @@ Here you can learn everything about what Uplink offers [freelancers](020-freelan
 
 Uplink is a community for IT freelancers and was founded in Berlin in 2016.
 
-Over the years, the network has grown organically and current (as of May 2024) has over 4,500 active members: developers, designers, engineers, and product managers.
+Over the years, the network has grown organically and current (as of January 2025) has over 5,000 active members: developers, designers, engineers, and product managers.
 
 You can find more information in the following categories:
 
