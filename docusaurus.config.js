@@ -12,7 +12,6 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
-  favicon: 'images/favicon.ico',
   organizationName: 'uplinkhq',
   projectName: 'docs',
   trailingSlash: true,
