@@ -1,4 +1,4 @@
-# Uplink for Clients
+# 🫅 Uplink for Clients
 
 There are many IT recruiters, freelancer networks, and other ways to find a freelancer out there. Why should you choose Uplink? Here's what makes us unique.
 

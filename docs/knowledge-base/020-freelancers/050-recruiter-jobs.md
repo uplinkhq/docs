@@ -1,4 +1,4 @@
-# Recruiter-Jobs
+# 🤠 Recruiter-Jobs
 
 Im Gegensatz zu [Direktjobs](040-direct-jobs.md) werden Recruiter-Jobs nicht vom Uplink Team, sondern von einem unserer Recruiting Partner gepostet. Dies sind ausgewählte Personaldienstleister und Agenturen, die selbständig ihre Jobs auf unserer Plattform veröffentlichen und mit den Kandidaten, die sich bewerben, sprechen können. Sie haben jedoch - wie auch unsere Endkunden bei den Direktjobs - keinen direkten Zugriff auf unseren Slack oder die Profile unserer Mitglieder.
 

@@ -1,4 +1,4 @@
-# Community Wiki
+# 📚 Community Wiki
 
 [Our Slack](060-community-slack.md) is the place where many interesting conversations happen every day. Unfortunately, due to the fact that we're on the free Slack plan, [only the messages of the last 90 days are accessible](060-community-slack.md#90-days-limit). This has lead to many of those valuable conversations being "lost" and some questions being asked over and over, without a way to point to previous answers.
 

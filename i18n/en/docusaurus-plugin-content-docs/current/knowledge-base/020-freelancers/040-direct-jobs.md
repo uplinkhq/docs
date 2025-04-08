@@ -1,4 +1,4 @@
-# Direct jobs
+# 🎯 Direct Jobs
 
 Direct jobs are those jobs that are posted by us - the Uplink team - and where applications also land with us first. We then select the most suitable candidates for the job and introduce them to the client. The client can then access their own login area to view the candidates' profiles and give feedback directly, i.e. either suggest a date for a first interview or send the candidate a rejection with a short explanation.
 

@@ -1,4 +1,4 @@
-# Freelancer finden
+# 🔎 Freelancer finden
 
 We will help you find a freelancer from our community that matches your requirements!
 

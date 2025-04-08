@@ -1,4 +1,4 @@
-# Unser Vertrag
+# 📄 Unser Vertrag
 
 Bevor wir dich bei einem Kunden für einen [Direktjob](040-direct-jobs.md) vorstellen können, bitten wir dich, unseren Vertrag zu unterschreiben. Dieser beinhaltet folgende Punkte:
 

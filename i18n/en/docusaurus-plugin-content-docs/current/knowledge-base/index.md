@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome!
+# 👋 Welcome!
 
 This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
 
@@ -16,13 +16,13 @@ Over the years, the network has grown organically and current (as of January 202
 
 You can find more information in the following categories:
 
-**[For Freelancers »](020-freelancers/index.md)**
+👉 **[For Freelancers »](020-freelancers/index.md)**
 
-**[For Clients »](030-clients/index.md)**
+👉 **[For Clients »](030-clients/index.md)**
 
-**[For Recruiters »](040-recruiters/index.md)**
+👉 **[For Recruiters »](040-recruiters/index.md)**
 
-**[For Agencies »](050-agencies/index.md)**
+👉 **[For Agencies »](050-agencies/index.md)**
 
 ## Is anything missing?
 

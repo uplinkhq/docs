@@ -1,4 +1,4 @@
-# Bewerbung für einen Job
+# 🙋 Bewerbung für einen Job
 
 If you find a job you're interested in, you can apply to it either through one of the [job channels in our Slack](060-community-slack.md#job-channels) or through the [list of open jobs in the member area](110-member-area.md#open-jobs). In both cases, a private Slack channel will be created, where you can fill out your application and where all communication regarding that job will take place.
 

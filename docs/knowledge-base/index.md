@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Willkommen!
+# 👋 Willkommen!
 
 Dies ist die Knowledge Base von [Uplink](https://uplink.tech/), dem Netzwerk für IT-Freelancer!
 
@@ -16,13 +16,13 @@ Uplink ist eine Community für IT-Freelancer und wurde 2016 in Berlin gegründet
 
 Mehr Informationen findest du in den folgenden Kategorien:
 
-**[Für Freelancer »](020-freelancers/index.md)**
+👉 **[Für Freelancer »](020-freelancers/index.md)**
 
-**[Für Auftraggeber »](030-clients/index.md)**
+👉 **[Für Auftraggeber »](030-clients/index.md)**
 
-**[Für Recruiter »](040-recruiters/index.md)**
+👉 **[Für Recruiter »](040-recruiters/index.md)**
 
-**[Für Agenturen »](050-agencies/index.md)**
+👉 **[Für Agenturen »](050-agencies/index.md)**
 
 ## Fehlt etwas?
 

@@ -1,4 +1,4 @@
-# Meetups
+# 🍻 Meetups
 
 As a community we would like to give you, besides exciting projects, a lot of opportunities to network and exchange ideas. We announce every event in our [#announcements](https://uplink.tech/slack/announcements) chanel via slack.
 

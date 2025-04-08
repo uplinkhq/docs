@@ -1,4 +1,4 @@
-# Working with a client
+# 💼 Working with a Client
 
 It's different depending on whether the job was a direct or recruiter job, of course.
 

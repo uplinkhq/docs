@@ -1,4 +1,4 @@
-# Direct engagement
+# 🤝 Direct Engagement
 
 Once a company finds a suitable freelancer through Uplink, the contract must be concluded directly between the company and freelancer. **Uplink is not part of this contractual relationship.**
 

@@ -1,4 +1,4 @@
-# Direktbeauftragung
+# 🤝 Direktbeauftragung
 
 Sobald ein Unternehmen durch Uplink in Kontakt mit einem passenden Freelancer gekommen ist, muss der Vertrag direkt zwischen dem Unternehmen und Freelancer geschlossen werden. **Uplink ist nicht Teil dieser Vertragsbeziehung.**
 

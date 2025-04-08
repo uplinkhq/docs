@@ -1,4 +1,4 @@
-# Webinare
+# 🎬 Webinare
 
 Coming soon...
 

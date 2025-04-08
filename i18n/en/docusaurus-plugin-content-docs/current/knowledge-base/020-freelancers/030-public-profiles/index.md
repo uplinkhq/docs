@@ -1,4 +1,4 @@
-# Public profiles
+# 🧑‍🏫 Public Profiles
 
 As a member of Uplink you can create a public profile to showcase your skills, knowledge and project experience:
 

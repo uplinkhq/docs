@@ -1,4 +1,4 @@
-# Our contract
+# 📄 Our Contract
 
 Before we can introduce you to a client for a [direct job](040-direct-jobs.md), we ask you to sign our contract, which includes the following points:
 

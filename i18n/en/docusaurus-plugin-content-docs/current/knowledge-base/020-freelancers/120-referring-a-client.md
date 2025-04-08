@@ -1,4 +1,4 @@
-# Referring a client
+# 🧑‍💼 Referring a Client
 
 Since Uplink's launch in 2016, referrals from our members have always been the most effective way for us to get in touch with new clients. Especially if the freelancer has already worked with the client and there is a mutual relationship of trust, the recommendation often quickly leads to a success job post. 😃
 

@@ -1,4 +1,4 @@
-# Öffentliche Profile
+# 🧑‍🏫 Öffentliche Profile
 
 Als Mitglied bei Uplink kannst du dir ein öffentliches Profil erstellen, um deine Skills, Kenntnisse und Projekterfahrung zu präsentieren:
 

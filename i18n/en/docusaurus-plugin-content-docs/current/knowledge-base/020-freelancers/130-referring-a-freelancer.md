@@ -1,4 +1,4 @@
-# Referring a freelancer
+# 🤓 Referring a Freelancer
 
 The Uplink community grows primarily through the referrals of its members! We are very grateful for this and would like to show our appreciation to all members who recommend Uplink to their colleagues and friends.
 

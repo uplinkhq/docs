@@ -1,4 +1,4 @@
-# Contract check
+# 📝 Contract Check
 
 Some of the most common questions we have seen over the years in our Slack workspace had to do with recruiter contracts and whether certain clauses were fair or not.
 

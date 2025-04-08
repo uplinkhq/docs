@@ -1,4 +1,4 @@
-# Zusammenarbeit mit einem Kunden
+# 💼 Zusammenarbeit mit einem Kunden
 
 It's different depending on whether the job was a direct or recruiter job, of course.
 

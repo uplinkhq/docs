@@ -1,4 +1,4 @@
-# Code of Conduct
+# 🫶 Code of Conduct
 
 The Uplink community aims to be a safe, inclusive, helpful, and harassment-free place for everyone. All members are therefore asked to adhere to this Code of Conduct, both online and during in-person events that are hosted by or associated with Uplink.
 

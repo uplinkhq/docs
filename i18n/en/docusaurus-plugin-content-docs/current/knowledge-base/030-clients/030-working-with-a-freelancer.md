@@ -1,4 +1,4 @@
-# Working with a freelancer
+# 💻 Working with a Freelancer
 
 ## How much does a freelancer charge?
 

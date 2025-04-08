@@ -1,4 +1,4 @@
-# Direktjobs
+# 🎯 Direktjobs
 
 Direktjobs sind diejenigen Jobs, die von uns - dem Uplink Team - veröffentlicht werden und bei denen auch die Bewerbungen zuerst bei uns landet. Wir wählen dann die am besten passendsten Kandidaten für den Job aus und stellen sie dem Kunden vor. Der Kunde kann daraufhin über einen eigenen Login-Bereich die Profile der Kandidaten einsehen und direkt Feedback geben, d.h. entweder einen Termin für ein erstes Interview vorschlagen oder dem Kandidaten eine Absage mit einer kurzen Begründung schicken.
 

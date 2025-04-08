@@ -1,4 +1,4 @@
-# Zusammenarbeit mit einem Freelancer
+# 💻 Zusammenarbeit mit einem Freelancer
 
 ## How much does a freelancer charge?
 

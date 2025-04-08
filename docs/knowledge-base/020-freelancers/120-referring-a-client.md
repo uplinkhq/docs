@@ -1,4 +1,4 @@
-# Kunden empfehlen
+# 🧑‍💼 Kunden empfehlen
 
 Seit dem Start von Uplink im Jahr 2016 waren Weiterempfehlungen durch unsere Mitglieder für uns immer der effektivste Weg, mit neuen Kunden in Kontakt zu kommen. Besonders wenn der Freelancer bereits mit dem Kunden gearbeitet hat und eine gegenseitige Vertrauensbeziehung besteht, führt die Empfehlung oft auf dem kürzesten Wege zum Erfolg. 😃
 

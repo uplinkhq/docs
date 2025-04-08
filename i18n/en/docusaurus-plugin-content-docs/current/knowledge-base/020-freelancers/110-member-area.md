@@ -1,4 +1,4 @@
-# Member area
+# 🔐 Member Area
 
 As an Uplink member, you automatically get access to the member area located at [https://my.uplink.tech](https://my.uplink.tech). A login link is included in the welcome email, but you can also use the "[forgot password](https://my.uplink.tech/password/new)" flow to set a password and log in for the first time.
 

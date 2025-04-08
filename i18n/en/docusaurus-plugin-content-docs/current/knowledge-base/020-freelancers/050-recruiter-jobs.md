@@ -1,4 +1,4 @@
-# Recruiter jobs
+# 🤠 Recruiter Jobs
 
 Unlike [direct jobs](040-direct-jobs.md), recruiter jobs are not posted by the Uplink team, but by one of our recruiting partners. These are selected recruiters and agencies who can independently post their jobs on our platform and speak with candidates who apply. However, like our end customers for direct jobs, they do not have direct access to our Slack or our members' profiles.
 

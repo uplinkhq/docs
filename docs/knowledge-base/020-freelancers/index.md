@@ -1,4 +1,4 @@
-# Uplink für Freelancer
+# 🧑‍💻 Uplink für Freelancer
 
 Unser Ziel ist es, unsere Mitglieder in allen Bereichen ihrer Selbständigkeit zu unterstützen. Das beinhaltet natürlich primär die Projektvermittlung - wir möchten so viele attraktive Kunden wie möglich davon überzeugen, ihre Projekte bei Uplink auszuschreiben. Aber auch darüber hinaus möchten wir unseren Mitgliedern möglichst viele Benefits bieten.
 
