@@ -13,7 +13,7 @@ Alle Nachrichten, die vor mehr als 90 Tagen verschickt wurden, werden von Slack 
 
 Für unsere öffentlichen Channels heißt das: wertvolle Diskussionen, Links und Tipps aus der Vergangenheit verschwinden aus dem Verlauf!
 
-Noch gravierender ist das Problem aber bei den [Application Channels](../060-community-slack.md#application-channels), die automatisch für jede Bewerbung für einen Job angelegt werden. Dort werden manchmal zu Beginn eines Projekts wichtige Themen besprochen, die auch nach mehreren Monaten noch relevant sind (z.B. Fragen zur Rechnungsstellung oder Vereinbarungen mit dem Kunden) und vom Bewerber und dem Uplink Team eingesehen werden müssen.
+Noch gravierender ist das Problem aber bei den [Application-Channels](../060-community-slack.md#application-channels), die automatisch für jede Bewerbung für einen Job angelegt werden. Dort werden manchmal zu Beginn eines Projekts wichtige Themen besprochen, die auch nach mehreren Monaten noch relevant sind (z.B. Fragen zur Rechnungsstellung oder Vereinbarungen mit dem Kunden) und vom Bewerber und dem Uplink Team eingesehen werden müssen.
 
 **Mit dem Slack Archive stellen wir sicher, dass alle Inhalte dauerhaft erhalten bleiben!**
 

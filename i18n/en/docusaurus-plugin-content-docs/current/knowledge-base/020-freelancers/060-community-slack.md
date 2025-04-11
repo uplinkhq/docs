@@ -109,6 +109,12 @@ Bitte beachte ein paar Dinge, wenn du in diesem Channel posten möchtest:
 
 :::
 
+## Application channels {#application-channels}
+
+A private application channel is created automatically as soon as a member completes their application for a job in the member area. All further communication regarding this application then takes place in the application channel.
+
+Of course, this is only possible if the member has an active Slack account at the time. If this is not the case, further communication about the application will be by e-mail.
+
 ## Guidelines {#guidelines}
 
 Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommunikation enthalten:

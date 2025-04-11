@@ -109,6 +109,12 @@ Bitte beachte ein paar Dinge, wenn du in diesem Channel posten möchtest:
 
 :::
 
+## Application-Channels {#application-channels}
+
+Ein privater Application-Channel wird automatisch angelegt, sobald ein Mitglied seine Bewerbung für einen Job im Mitgliederbereich fertigstellt. Alle weitere Kommunikation zu dieser Bewerbung läuft dann über den Application-Channel.
+
+Das ist natürlich nur möglich, wenn das Mitglied zu dem Zeitpunkt einen aktiven Slack-Account hat. Wenn dem nicht so ist, läuft die weitere Kommunikation zu der Bewerbung per E-Mail.
+
 ## Guidelines {#guidelines}
 
 Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommunikation enthalten:
