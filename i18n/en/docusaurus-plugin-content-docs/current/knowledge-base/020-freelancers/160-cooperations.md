@@ -1,3 +1,0 @@
-# 🤝 Cooperations
-
-Coming soon...
