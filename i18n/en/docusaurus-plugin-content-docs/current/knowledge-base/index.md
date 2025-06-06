@@ -2,21 +2,19 @@
 sidebar_position: 1
 ---
 
-# 👋 Welcome!
+# 👋 Welcome to Uplink!
 
-This is the knowledge base of [Uplink](https://uplink.tech/), the network for IT freelancers!
+Uplink is a [network for IT freelancers](https://uplink.tech/) in which over 5,500 freelancers (as of June 2025) from the fields of tech, design, product and marketing help and support each other.
 
-Uplink was founded by Manuel Meurer in Berlin in 2016. Over the years, the network has grown organically and currently (as of January 2025) has over 5,000 members from the tech, design, product and marketing sectors.
+In this Knowledge Base you can find out everything about what Uplink offers the various players in the IT industry:
 
-You can find more information in the following categories:
+👉 **[Uplink for freelancers](020-freelancers/index.md)**
 
-👉 **[Uplink For freelancers](020-freelancers/index.md)**
+👉 **[Uplink for clients](030-clients/index.md)**
 
-👉 **[Uplink For clients](030-clients/index.md)**
+👉 **[Uplink for recruiters](040-recruiters/index.md)**
 
-👉 **[Uplink For recruiters](040-recruiters/index.md)**
-
-👉 **[Uplink For agencies](050-agencies/index.md)**
+👉 **[Uplink for agencies](050-agencies/index.md)**
 
 ## Is anything missing?
 
