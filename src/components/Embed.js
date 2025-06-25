@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function Embed({ children }) {
+export default function Embed({ src }) {
   React.useEffect(() => {
     window.iframely?.load()
   }, [])
@@ -8,7 +8,7 @@ export default function Embed({ children }) {
   return (
     <div className="iframely-embed">
       <div className="iframely-responsive">
-        <a data-iframely-url="" href={children.props.href}></a>
+        <a data-iframely-url="" href={src}></a>
       </div>
     </div>
   )
