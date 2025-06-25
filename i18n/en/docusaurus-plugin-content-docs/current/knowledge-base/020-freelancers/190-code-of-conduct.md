@@ -2,7 +2,7 @@
 
 The Uplink community aims to be a safe, inclusive, helpful, and harassment-free place for everyone. All members are therefore asked to adhere to this Code of Conduct, both online and during in-person events that are hosted by or associated with Uplink.
 
-The Uplink admin team is responsible for clarifying and enforcing the standards of acceptable behavior and has the right to exclude members from the community in case of violations.
+The Uplink team and the [Guides](025-guides.md) are responsible for clarifying and enforcing the standards of acceptable behavior and they have the right to exclude members from the community in case of violations.
 
 ## The short version
 
@@ -10,7 +10,9 @@ The Uplink admin team is responsible for clarifying and enforcing the standards 
 * Be respectful of differing points of view and opinions. When in doubt, agree to disagree.
 * Everyone started out as a beginner at some point, so be patient and helpful with newbies.
 
-## Behavior in our online community
+## The slightly longer version
+
+### Be friendly and helpful
 
 The #1 goal for everyone in our community should be to be helpful and support each other, e.g. by answering other member's questions, sharing their own knowledge or encouraging others to participate in discussions.
 
@@ -18,19 +20,37 @@ Please keep in mind that written communication can easily be misunderstood, espe
 
 Please be especially patient and helpful to new members! They often don't know the "dos und don’ts" of the community yet, or ask questions that have been answered before. In that case, please don't simply tell them to use the search, but try to briefly answer their question and mention that a search (in [Slack](060-community-slack.md) or our [Community Wiki](067-community-wiki.md)) might turn up further helpful answers.
 
-Try to avoid or de-escalate heated debates. Often the best course of action is to accept that members have differing viewpoints on a topic and end the debate with a "Let's agree to disagree!"
+### Stay professional
+
+Stay professional and avoid verbally attacking (groups of) people. For example, if you are talking about recruiters, it is perfectly fine to criticize them or show examples of inappropriate requests, but please do not use real names and avoid insults and hurtful language.
+
+Try to avoid or de-escalate heated debates. Often the best course of action is to accept that people have differing viewpoints on a topic and end the debate with a "Let's agree to disagree!"
+
+### Avoid promotion
+
+The promotion of projects, products or services in which you are involved (regardless of whether they are paid or free) is only welcome to a very limited extent in our community. In the Slack channel [#engagement](https://uplink.tech/slack/engagement) you can post links to LinkedIn posts that you would like to promote, and [#indiehackers](https://uplink.tech/slack/indiehackers) is the right channel if you are looking for feedback for your own project, e.g. on technical topics or marketing.
+
+### Avoid "agenda pushing"
+
+Everyone has their favorite topics and it's absolutely fine to be heavily invested in certain topics and to express your opinion accordingly in related discussions.
+
+However, it becomes problematic when members excessively steer discussions towards a certain topic in order to be able to articulate the same opinions again and again.
+
+Please avoid this behavior and give the community the space to discuss a variety of topics and viewpoints.
+
+### Avoid political discussions
 
 Please avoid posting political news and content that is not directly related to freelancing. This includes, in particular, praising or criticizing certain political parties, politicians or political decisions.
 
 Stay professional and avoid attacking (groups of) people directly. When talking about recruiters, for example, it's fine critizing them or showing examples of badly worded messages, but don't mention any clear names and stay away from insults and hurtful language.
 
-## Behavior on our events
+### Behavior on our events
 
 If you attend one of our meetups or other Uplink events, the same rules apply as in our online community: be friendly and helpful, respect different opinions and be patient with new members.
 
 If alcohol is served at the event, please drink responsibly and know your limit!
 
-## Communication with clients and recruiters
+### Communication with clients and recruiters
 
 If you come into contact with clients or recruiters via Uplink, please behave professionally and respectfully towards them.
 
@@ -46,6 +66,14 @@ Both in the online community and at our events, there are some things that will 
 * Public or private harassment
 * Publishing other people's private information, such as a physical or electronic addresses, without explicit permission
 
+### Relativization and normalization
+
+Discussion is welcome, even if opinions differ. What has no place in our community, however, are attitudes that deny the scientific consensus, promote exclusion, devalue people or even trivialize, relativize or normalize right-wing extremist ways of thinking ("false balance").
+
+In particular, we must avoid the deliberate shifting of what can be said. Anyone who tries to make parties, movements or positions that attack or undermine our basic democratic order acceptable is acting against the fundamental values of our community.
+
+It's simple: right-wing extremism is not an opinion. The equality of all people, democratic principles and protection against exclusion are non-negotiable. Anyone who attempts to introduce such content through reinterpretation or apparent neutrality is going against what this community stands for.
+
 ## Reporting & Feedback
 
-If you think someone from the community violated the Code of Conduct, [please get in touch with us!](mailto:hello@uplink.tech) The same applies if in your opinion something should be added to or changed in our Code of Conduct.
+If you believe that someone in the community has violated the Code of Conduct, please contact us [via email](mailto:hello@uplink.tech) or contact one of the [Guides](025-guides.md).
