@@ -6,7 +6,7 @@ If you find a job you're interested in, you can apply to it either through one o
 
 For each job published on our platform, we (or the Recruiting Partner) try to specify all general conditions (e.g., earliest and latest start date, required availability, hourly rate, etc.) and all skill requirements, as discussed with the client. Often these conditions are negotiable, though, i.e. if the perfect candidate for a job applies, the client might be ok with a later start date or a higher rate.
 
-**For that reason, we encourage you to apply to a job even if you can't fulfill all the requirements!** If you’re unsure or don’t want to invest the time in filling out the application, feel free to click “Sounds interesting” for a job and then ask us whether it’s worth applying in the created Slack channel.
+**For that reason, we encourage you to apply to a job even if you can't fulfill all the requirements!** If you’re unsure or don’t want to invest the time in filling out the application, feel free to click "Sounds interesting" for a job and then ask us whether it’s worth applying in the created Slack channel.
 
 ## Our contract
 

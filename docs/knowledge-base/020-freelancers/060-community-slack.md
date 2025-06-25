@@ -2,7 +2,7 @@
 
 Unser Community Slack ist der Dreh- und Angelpunkt aller Aktivitäten bei Uplink. Hier posten wir alle neuen Jobs und offizielle Ankündigungen und News, und unsere Community-Mitglieder unterhalten sich in öffentlichen Channels zu allen möglichen Themen rund ums Freelancing, aber auch zu Finanzen, Gesundheit, Events und vielem anderen.
 
-Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fantastische “Schaltzentrale” erwiesen, in der alle Fäden zusammenlaufen. Alle neuen Uplink-Mitglieder erhalten automatisch eine Einladung in den Community Slack.
+Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fantastische "Schaltzentrale" erwiesen, in der alle Fäden zusammenlaufen. Alle neuen Uplink-Mitglieder erhalten automatisch eine Einladung in den Community Slack.
 
 In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-Channels**.
 

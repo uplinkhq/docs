@@ -18,4 +18,4 @@ Darüber hinaus hat unser Modell noch weitere Vorteile. Da die Kunden von uns ke
 
 ## Verbuchung der Gebühr
 
-Viele Male kam schon die Frage auf, wie die Rechnungen mit unserer Vermittlungsgebühr richtig verbucht werden sollten. Laut unserer Steuerberaterin ist das **Buchhaltungskonto 4760 “Verkaufsprovisionen”** das richtige.
+Viele Male kam schon die Frage auf, wie die Rechnungen mit unserer Vermittlungsgebühr richtig verbucht werden sollten. Laut unserer Steuerberaterin ist das **Buchhaltungskonto 4760 "Verkaufsprovisionen"** das richtige.

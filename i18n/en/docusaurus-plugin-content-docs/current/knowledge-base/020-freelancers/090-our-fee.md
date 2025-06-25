@@ -18,4 +18,4 @@ In addition, our model has other advantages. Because our clients don't receive a
 
 ## Tax booking of our fee
 
-Many times the question has come up how to properly book the invoices with our fee. According to our tax advisor, **Buchhaltungskonto 4760 “Verkaufsprovisionen”** is correct.
+Many times the question has come up how to properly book the invoices with our fee. According to our tax advisor, **Buchhaltungskonto 4760 "Verkaufsprovisionen"** is correct.
