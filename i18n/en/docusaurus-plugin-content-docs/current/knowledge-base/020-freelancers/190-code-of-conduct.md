@@ -28,7 +28,7 @@ Try to avoid or de-escalate heated debates. Often the best course of action is t
 
 ### Avoid promotion
 
-The promotion of projects, products or services in which you are involved (regardless of whether they are paid or free) is only welcome to a very limited extent in our community. In the Slack channel [#engagement](https://uplink.tech/slack/engagement) you can post links to LinkedIn posts that you would like to promote, and [#indiehackers](https://uplink.tech/slack/indiehackers) is the right channel if you are looking for feedback for your own project, e.g. on technical topics or marketing.
+The promotion of your own projects, products or services (regardless of whether they are paid or free) is only welcome in the Slack channel [#promotion](https://uplink.tech/slack/promotion). LinkedIn posts that you would like to promote can also be posted there. On the other hand, [#indiehackers](https://uplink.tech/slack/indiehackers) is the best channel if you are looking for feedback for your own projects, e.g. on technical topics or marketing. In the other channels, promotion and advertising is not welcome.
 
 ### Avoid "agenda pushing"
 
