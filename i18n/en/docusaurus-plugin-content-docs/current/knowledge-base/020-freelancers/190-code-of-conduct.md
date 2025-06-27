@@ -1,5 +1,7 @@
 # 🫶 Code of Conduct
 
+*Last update: June 2025 ([Blog Post](https://uplink.tech/blog/2025-06-25-coc-changes))*
+
 The Uplink community aims to be a safe, inclusive, helpful, and harassment-free place for everyone. All members are therefore asked to adhere to this Code of Conduct, both online and during in-person events that are hosted by or associated with Uplink.
 
 The Uplink team and the [Guides](025-guides.md) are responsible for clarifying and enforcing the standards of acceptable behavior and they have the right to exclude members from the community in case of violations.
