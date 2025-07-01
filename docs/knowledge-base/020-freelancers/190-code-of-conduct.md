@@ -61,7 +61,7 @@ Sollte es zu einem Problem kommen, kontaktiere bitte direkt das Uplink-Team! Oft
 Sowohl in der Online-Community als auch bei unseren Veranstaltungen gibt es einige Dinge, die nicht toleriert werden und zum sofortigen Ausschluss aus der Community führen können:
 
 * Die Verwendung von sexualisierter Sprache oder Bildern und unerwünschte sexuelle Aufmerksamkeit oder Annäherungsversuche
-* Sexistische, rassistische, extremistische, menschenverachtende und antisemitische Inhalte
+* Sexistische, rassistische, extremistische und menschenverachtende Inhalte, und solche, die Menschen Aufgrund Ihrer Religion abwerten
 * Trolling, beleidigende/abwertende Kommentare, persönliche oder politische Angriffe und jegliche andere Art der Diskriminierung
 * Öffentliche oder private Belästigung
 * Veröffentlichung privater Informationen anderer Personen, wie z. B. physische oder elektronische Adressen, ohne ausdrückliche Genehmigung
