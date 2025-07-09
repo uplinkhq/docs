@@ -88,32 +88,43 @@ In diesen Channels werden Recruiter-Jobs je nach Kategorie veröffentlicht.
 
 ### Community Jobs {#community-jobs}
 
-Oft sind andere Mitglieder der Community die beste Quelle für neue Kunden und Jobs - **[#community-jobs](https://uplink.tech/slack/community-jobs)** ist der Channel dafür!
+**Die besten Empfehlungen kommen aus der Community!**
 
-Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort posten und es finden dort keine Diskussionen statt, dürfen in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
+Wer z.B. bei einem Kunden im Einsatz ist und davon hört, dass ein weiterer Freelancer gesucht wird, sucht oft gerne einen Kandidaten im eigenen Netzwerk, weil man dort auf bereits bekannte, vertrauenswürdige und kompetente Kontakte zurückgreifen kann. So profitieren alle: der Kunde bekommt schnell Unterstützung, der Freelancer aus der Community erhält eine neue Jobchance, und der Empfehlende stärkt seine Beziehung zum Kunden und zur Community.
 
-Gute Anlässe für einen Post dort sind:
+Genau dafür haben wir den Channel **[#community-jobs](https://uplink.tech/slack/community-jobs)** ins Leben gerufen!
 
-* wenn du ein privates Projekt hast, aber dir spezifische Fähigkeiten oder die Zeit fehlen, um daran zu arbeiten, oder
-* wenn du an einem Kundenprojekt arbeitest, bei dem du die Hilfe eines weiteren Freelancers gebrauchen könntest, oder
-* wenn du ein Startup gegründet hast und Mitgründer oder einen CTO suchst.
+Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) posten, dürfen in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
 
-:::info Achtung
+Es gibt allerdings einige Regeln zu beachten:
 
-Bitte beachte ein paar Dinge, wenn du in diesem Channel posten möchtest:
-
-* Sei bereit, für die Skills, die du suchst, einen marktüblichen Preis zu zahlen (es sei denn, du suchst einen Mitgründer und bietest Anteile o.ä.). Als Faustregel gilt, dass der Stundensatz nicht niedriger sein sollte als das, was du selbst akzeptieren würdest, wenn der Job dir angeboten würde.
-* Beschreibe die Aufgaben so detailliert wie möglich.
-* Gib an, wie die Abrechnung laufen wird und - falls es sich um einen Einsatz bei einem Kunden handelt - ob du selbst an der Vermittllung etwas verdienst.
+* Beschreibe die Anfrage so konkret wie möglich (inkl. erforderlicher Skills, Onsite/Remote, etc.), aber achte trotzdem bitte darauf, dass der Post nicht zu lang wird.
+* Wenn du einen längeren Text posten möchtest (z.B. die Projektbeschreibung eines Recruiters), poste bitte zuerst eine kurze Zusammenfassung und den längeren Text als ersten Kommentar im Thread.
+* Wenn du selbst an der Vermittlung etwas verdienst, erwähne das bitte direkt im Post.
 * Bitte benutze nicht [@channel oder @hier](https://slack.com/intl/de-de/help/articles/202009646-Channels-oder-Workspaces-benachrichtigen)!
+
+:::tip[Diese Jobs dürfen gepostet werden]
+
+* Ein Kunde, bei dem du selbst im Einsatz bist oder warst, sucht einen weiteren Freelancer. Du kannst den Kunden empfehlen und weißt, dass er einen ordentlichen Stundensatz zahlt.
+* Du suchst selbst einen Freelancer, z.B. für dein eigenes Startup oder um dir bei einem privaten Projekt weiterzuhelfen. Sei in diesem Fall bereit, einen marktüblichen Preis zu zahlen, meist 80€-100€/Stunde.
+* Ein Recruiter kontaktiert dich wegen eines Projekts, das interessant klingt, du aber nicht übernehmen kannst oder willst (z.B. aus Kapazitätsgründen oder weil es nicht dein Spezialgebiet ist). In diesem Fall solltest du auf jeden Fall einmal mit dem Recruiter gesprochen haben und die Stundensatz-Range, die für den Endkunden in Frage kommt, geklärt haben. Gib den Stundensatz bitte im Post mit an.
 
 :::
 
-## Application channels {#application-channels}
+:::danger Diese Jobs sollten nicht gepostet werden
 
-A private application channel is created automatically as soon as a member completes their application for a job in the member area. All further communication regarding this application then takes place in the application channel.
+* Anfragen von Recruitern, mit denen du nicht über das Projekt gesprochen hast. Oft stellt sich im Gespräch heraus, dass einige Anforderungen in der Ausschreibung ungenau oder inkorrekt sind, und man kann mehr über den Endkunden erfahren.
+* Recruiter-Anfragen ohne Angabe des Stundensatzes (bzw. einer Range). Wenn diese in der Projektausschreibung nicht erwähnt ist, kann man sie durch eine Nachfrage bzw. ein kurzes Gespräch mit dem Recruiter oder Endkunden erfahren.
+* Poste bitte keine ANÜ-Anfragen. Diese erkennst du, wenn es nicht explizit in der Ausschreibung steht, an einer Projektdauer von 12+ Monaten oder dem Hinweis, dass nur sozialversicherungspflichtig Angestellte für das Projekt in Frage kommen.
+* Poste bitte keine Anfragen für Festanstellungen oder Mitgründer.
 
-Of course, this is only possible if the member has an active Slack account at the time. If this is not the case, further communication about the application will be by e-mail.
+:::
+
+## Application-Channels {#application-channels}
+
+Ein privater Application-Channel wird automatisch angelegt, sobald ein Mitglied seine Bewerbung für einen Job im Mitgliederbereich fertigstellt. Alle weitere Kommunikation zu dieser Bewerbung läuft dann über den Application-Channel.
+
+Das ist natürlich nur möglich, wenn das Mitglied zu dem Zeitpunkt einen aktiven Slack-Account hat. Wenn dem nicht so ist, läuft die weitere Kommunikation zu der Bewerbung per E-Mail.
 
 ## Guidelines {#guidelines}
 
