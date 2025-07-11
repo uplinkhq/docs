@@ -94,7 +94,8 @@ Wer z.B. bei einem Kunden im Einsatz ist und davon hört, dass ein weiterer Free
 
 Genau dafür haben wir den Channel **[#community-jobs](https://uplink.tech/slack/community-jobs)** ins Leben gerufen!
 
-Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) posten, dürfen in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
+Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) posten, können in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
+Auch der weitere Prozess ist nicht automatisiert wie in den Job-Channels, d.h. es ist der Verfasser:in des Posts überlassen, die Bewerbungen zu bearbeiten bzw. weiterzuleiten und Feedback zu geben.
 
 Es gibt allerdings einige Regeln zu beachten:
 
